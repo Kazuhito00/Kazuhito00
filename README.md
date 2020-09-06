@@ -19,6 +19,7 @@
 <!-- feed end -->
 
 ### How to reach me
+何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.
 [<img src="https://img.shields.io/badge/-ffffff.svg?logo=twitter&style=flat">](https://twitter.com/KzhtTkhs)
 
 ### Technologies 
