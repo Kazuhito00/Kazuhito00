@@ -3,6 +3,9 @@
 ### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Technologies 
+<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/C++-222222.svg?logo=cplusplus&style=flat">
+
 ### Recent Blog Posts
 <!-- feed start -->
 - Aug 22 - [Google Pixel 4aに機種変更しました🦔](https://kazuhito00.hatenablog.com/entry/2020/08/22/220824)
