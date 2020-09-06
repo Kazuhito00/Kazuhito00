@@ -1,7 +1,12 @@
-### Hi there 👋
+---
+![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 <!--
 **Kazuhito00/Kazuhito00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
