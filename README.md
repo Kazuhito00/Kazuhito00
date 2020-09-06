@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 06 - [Githubプロフィール設置しました。](https://kazuhito00.hatenablog.com/entry/2020/09/06/174247)
 - Aug 22 - [Google Pixel 4aに機種変更しました🦔](https://kazuhito00.hatenablog.com/entry/2020/08/22/220824)
 - Aug 12 - [Glideを使用してノーコード開発をお試し。](https://kazuhito00.hatenablog.com/entry/2020/08/13/022545)
 - Aug 11 - [【Julia1.5】KaggleノートブックでJuliaを使用してタイタニック](https://kazuhito00.hatenablog.com/entry/2020/08/11/152130)
 - Jul 21 - [「Kindleの蔵書リストをGoogle Colaboratoryでデータ分析してみた」を動かしてみた。](https://kazuhito00.hatenablog.com/entry/2020/07/22/002945)
-- Jul 14 - [Tensorflow2 Object Detection APIお試し。](https://kazuhito00.hatenablog.com/entry/2020/07/14/225531)
 <!-- feed end -->
 
 ### How to reach me
