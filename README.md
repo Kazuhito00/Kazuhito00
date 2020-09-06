@@ -1,7 +1,8 @@
 ![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
----
+
+### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
----
+
 ### Recent Blog Posts
 <!-- feed start -->
 - Aug 22 - [Google Pixel 4aに機種変更しました🦔](https://kazuhito00.hatenablog.com/entry/2020/08/22/220824)
