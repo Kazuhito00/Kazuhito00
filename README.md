@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Technologies 
-<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/C++-222222.svg?logo=cplusplus&style=flat">
+<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&style=flat">
 
 ### Recent Blog Posts
 <!-- feed start -->
