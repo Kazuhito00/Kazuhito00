@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 19 - [【Tensorflow2】EfficientDetとEfficientNetでFingerFrameLens🦔](https://kazuhito00.hatenablog.com/entry/2020/09/19/171026)
 - Sep 17 - [MobileNetV2SSDじゃイマイチ検出精度が出なかったシリーズ：FingerFrame](https://kazuhito00.hatenablog.com/entry/2020/09/18/021244)
 - Sep 06 - [Githubプロフィール設置しました。](https://kazuhito00.hatenablog.com/entry/2020/09/06/174247)
 - Aug 22 - [Google Pixel 4aに機種変更しました🦔](https://kazuhito00.hatenablog.com/entry/2020/08/22/220824)
 - Aug 12 - [Glideを使用してノーコード開発をお試し。](https://kazuhito00.hatenablog.com/entry/2020/08/13/022545)
-- Aug 11 - [【Julia1.5】KaggleノートブックでJuliaを使用してタイタニック](https://kazuhito00.hatenablog.com/entry/2020/08/11/152130)
 <!-- feed end -->
 
 ### How to reach me
