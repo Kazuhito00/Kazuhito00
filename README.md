@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 02 - [【Tensorflow2】EfficientDetでDeep写輪眼](https://kazuhito00.hatenablog.com/entry/2020/10/02/234809)
 - Sep 26 - [【Tensorflow2】Object Detection APIのハンズオン用資料](https://kazuhito00.hatenablog.com/entry/2020/09/26/095448)
 - Sep 21 - [【Tensorflow2】FingerFrameDetection応用例2：SFチックなマップ表示](https://kazuhito00.hatenablog.com/entry/2020/09/21/201827)
 - Sep 19 - [【Tensorflow2】EfficientDetとEfficientNetでFingerFrameLens🦔](https://kazuhito00.hatenablog.com/entry/2020/09/19/171026)
 - Sep 17 - [MobileNetV2SSDじゃイマイチ検出精度が出なかったシリーズ：FingerFrame](https://kazuhito00.hatenablog.com/entry/2020/09/18/021244)
-- Sep 06 - [Githubプロフィール設置しました。](https://kazuhito00.hatenablog.com/entry/2020/09/06/174247)
 <!-- feed end -->
 
 ### How to reach me
