@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 31 - [【Pythonデータ分析勉強会#23】Hand Detectionを色々試してみた 2020年：EfficientDet-D0版](https://kazuhito00.hatenablog.com/entry/2020/10/31/180243)
 - Oct 16 - [【Tensorflow2】EfficientDetで手検出お試し。](https://kazuhito00.hatenablog.com/entry/2020/10/17/012808)
 - Oct 11 - [【Tensorflow2】EfficientDetでDeep写輪眼③：Githubリポジトリ公開](https://kazuhito00.hatenablog.com/entry/2020/10/11/213739)
 - Oct 04 - [【Tensorflow2】EfficientDetでDeep写輪眼②](https://kazuhito00.hatenablog.com/entry/2020/10/04/215720)
 - Oct 02 - [【Tensorflow2】EfficientDetでDeep写輪眼](https://kazuhito00.hatenablog.com/entry/2020/10/02/234809)
-- Sep 26 - [【Tensorflow2】Object Detection APIのハンズオン用資料](https://kazuhito00.hatenablog.com/entry/2020/09/26/095448)
 <!-- feed end -->
 
 ### How to reach me
