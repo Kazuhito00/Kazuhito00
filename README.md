@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 14 - [【OpenCV】油絵フィルタ、桑原フィルタお試し。その他デモ用表示。](https://kazuhito00.hatenablog.com/entry/2020/11/14/233525)
 - Nov 08 - [2020年 IT系 取得資格](https://kazuhito00.hatenablog.com/entry/2020/11/08/171807)
 - Nov 03 - [SkyARを身近な風景で動かしてみました。](https://kazuhito00.hatenablog.com/entry/2020/11/03/182152)
 - Oct 31 - [【Pythonデータ分析勉強会#23】Hand Detectionを色々試してみた 2020年：EfficientDet-D0版](https://kazuhito00.hatenablog.com/entry/2020/10/31/180243)
 - Oct 16 - [【Tensorflow2】EfficientDetで手検出お試し。](https://kazuhito00.hatenablog.com/entry/2020/10/17/012808)
-- Oct 11 - [【Tensorflow2】EfficientDetでDeep写輪眼③：Githubリポジトリ公開](https://kazuhito00.hatenablog.com/entry/2020/10/11/213739)
 <!-- feed end -->
 
 ### How to reach me
