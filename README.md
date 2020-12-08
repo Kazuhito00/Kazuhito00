@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 08 - [PythonのMediaPipeパッケージをお試し。](https://kazuhito00.hatenablog.com/entry/2020/12/09/020716)
 - Dec 06 - [PINTO_model_zooのDBFaceをRaspberryPi4でお試し🦔](https://kazuhito00.hatenablog.com/entry/2020/12/06/222043)
 - Nov 18 - [CenterFaceお試し ＋ 画像重畳表示](https://kazuhito00.hatenablog.com/entry/2020/11/19/005723)
 - Nov 14 - [【OpenCV】油絵フィルタ、桑原フィルタお試し。その他デモ用表示。](https://kazuhito00.hatenablog.com/entry/2020/11/14/233525)
 - Nov 08 - [2020年 IT系 取得資格](https://kazuhito00.hatenablog.com/entry/2020/11/08/171807)
-- Nov 03 - [SkyARを身近な風景で動かしてみました。](https://kazuhito00.hatenablog.com/entry/2020/11/03/182152)
 <!-- feed end -->
 
 ### How to reach me
