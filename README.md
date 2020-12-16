@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 16 - [指先ジェスチャー推定(MediaPipe(Python版) + シンプルなMLP)](https://kazuhito00.hatenablog.com/entry/2020/12/16/234650)
 - Dec 12 - [Zenn投稿：【Python】OpenCVのデモとプレゼンテーションを融合](https://kazuhito00.hatenablog.com/entry/2020/12/13/005704)
 - Dec 12 - [Qiita投稿：OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)](https://kazuhito00.hatenablog.com/entry/2020/12/12/104732)
 - Dec 09 - [PythonのMediaPipeパッケージをお試し（全部のせ）](https://kazuhito00.hatenablog.com/entry/2020/12/10/011319)
 - Dec 08 - [PythonのMediaPipeパッケージをお試し。](https://kazuhito00.hatenablog.com/entry/2020/12/09/020716)
-- Dec 06 - [PINTO_model_zooのDBFaceをRaspberryPi4でお試し🦔](https://kazuhito00.hatenablog.com/entry/2020/12/06/222043)
 <!-- feed end -->
 
 ### How to reach me
