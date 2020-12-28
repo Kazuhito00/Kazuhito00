@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 28 - [2020年に色々やったこと動画まとめ。](https://kazuhito00.hatenablog.com/entry/2020/12/29/022631)
 - Dec 22 - [突然の朗報：「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」電子書籍版発売開始🦔！！](https://kazuhito00.hatenablog.com/entry/2020/12/23/002925)
 - Dec 19 - [Qiita投稿：【Tensorflow2】Object DetectionでDeep写輪眼](https://kazuhito00.hatenablog.com/entry/2020/12/19/102845)
 - Dec 16 - [指先ジェスチャー推定(MediaPipe(Python版) + シンプルなMLP)](https://kazuhito00.hatenablog.com/entry/2020/12/16/234650)
 - Dec 12 - [Zenn投稿：【Python】OpenCVのデモとプレゼンテーションを融合](https://kazuhito00.hatenablog.com/entry/2020/12/13/005704)
-- Dec 12 - [Qiita投稿：OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)](https://kazuhito00.hatenablog.com/entry/2020/12/12/104732)
 <!-- feed end -->
 
 ### How to reach me
