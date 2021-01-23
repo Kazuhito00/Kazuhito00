@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 23 - [【NGK2021S】画像処理デモの見栄えを工夫したお話し](https://kazuhito00.hatenablog.com/entry/2021/01/23/205821)
 - Jan 20 - [改めて、RaspberryPi4での手検出試行錯誤中②](https://kazuhito00.hatenablog.com/entry/2021/01/20/233145)
 - Jan 17 - [改めて、RaspberryPi4での手検出試行錯誤中。](https://kazuhito00.hatenablog.com/entry/2021/01/18/025205)
 - Jan 07 - [【Python】MediaPipeの検出結果を仮想カメラ経由でZoomに流し込む遊び👻](https://kazuhito00.hatenablog.com/entry/2021/01/07/235357)
 - Dec 31 - [2020年振り返り](https://kazuhito00.hatenablog.com/entry/2020/12/31/223533)
-- Dec 30 - [「Kindleの蔵書リストをGoogle Colaboratoryでデータ分析してみた」＋ Amazon Product Advertising API（商品情報API）](https://kazuhito00.hatenablog.com/entry/2020/12/30/211044)
 <!-- feed end -->
 
 ### How to reach me
