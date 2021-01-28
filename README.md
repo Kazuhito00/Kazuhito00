@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 28 - [XDoG(Extended Difference of Gaussians)での線画抽出お試し🦔](https://kazuhito00.hatenablog.com/entry/2021/01/28/225844)
 - Jan 24 - [カラー画像のヒストグラム平坦化🦔](https://kazuhito00.hatenablog.com/entry/2021/01/24/233629)
 - Jan 23 - [【NGK2021S】画像処理デモの見栄えを工夫したお話し](https://kazuhito00.hatenablog.com/entry/2021/01/23/205821)
 - Jan 20 - [改めて、RaspberryPi4での手検出試行錯誤中②](https://kazuhito00.hatenablog.com/entry/2021/01/20/233145)
 - Jan 17 - [改めて、RaspberryPi4での手検出試行錯誤中。](https://kazuhito00.hatenablog.com/entry/2021/01/18/025205)
-- Jan 07 - [【Python】MediaPipeの検出結果を仮想カメラ経由でZoomに流し込む遊び👻](https://kazuhito00.hatenablog.com/entry/2021/01/07/235357)
 <!-- feed end -->
 
 ### How to reach me
