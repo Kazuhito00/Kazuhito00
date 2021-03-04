@@ -11,11 +11,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 04 - [tf-simple-metric-learningを用いてMNISTで距離学習](https://kazuhito00.hatenablog.com/entry/2021/03/05/012935)
 - Mar 03 - [【機械学習名古屋 第28回】Pythonパッケージ版のMediaPipeが超お手軽](https://kazuhito00.hatenablog.com/entry/2021/03/03/222332)
 - Mar 02 - [Python版MediaPipeの0.8.3がリリースされていました。](https://kazuhito00.hatenablog.com/entry/2021/03/03/022430)
 - Feb 20 - [ブラウザ上のMediaPipe実行結果をUnityアプリ(WebGL)へお渡し🦔](https://kazuhito00.hatenablog.com/entry/2021/02/20/133429)
 - Feb 13 - [Unity BarracudaをWebGL上でお試し🦔](https://kazuhito00.hatenablog.com/entry/2021/02/13/175151)
-- Feb 06 - [MediaPipeのIris(虹彩検出)をPythonでお試し🦔](https://kazuhito00.hatenablog.com/entry/2021/02/06/135949)
 <!-- feed end -->
 
 ### How to reach me
