@@ -47,15 +47,15 @@
 * [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 * [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)
 
-##### モデル自作 or ファインチューニングモデル関連
+##### Object Detection関連
 * [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)
+* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)
 * [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)
 * [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)
 
 ##### TensorFlow 2.x関連
 * [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)
 * [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)
-* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)
 * [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)
 * [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)
 
@@ -98,7 +98,7 @@
 * [movie2jpg](https://github.com/Kazuhito00/movie2jpg)
 * [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)
 * [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)
-* [XDoG-OpenCV-Sample)](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)
+* [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)
 
 ##### Qiita関連
 * [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)
