@@ -43,89 +43,89 @@
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
 ##### MediaPipe関連
-* [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
-* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
-* [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)
+* [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
+* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
+* [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)<br>MediaPipeのIris(虹彩検出)をPythonで動作させるデモ
 
 ##### Object Detection関連
-* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)
-* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)
-* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)
-* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)
+* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>
+* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>
+* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>
+* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>
 
 ##### TensorFlow 2.x関連
-* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)
-* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)
-* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)
-* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)
+* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)<br>
+* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>
+* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>
+* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>
 
 ##### 機械学習関連
-* [mixup](https://github.com/Kazuhito00/mixup)
-* [cutmix](https://github.com/Kazuhito00/cutmix)
-* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)
-* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)
-* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)
+* [mixup](https://github.com/Kazuhito00/mixup)<br>
+* [cutmix](https://github.com/Kazuhito00/cutmix)<br>
+* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>
+* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>
+* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>
 
 ##### Unity関連
-* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)
-* [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)
-* [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)
-* [Unity-MousePaint-WebGL-Sample](https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample)
-* [Unity-Barracuda-MNIST-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)
-* [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)
-* [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)
-* [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)
-* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)
+* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>
+* [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)<br>
+* [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)<br>
+* [Unity-MousePaint-WebGL-Sample](https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample)<br>
+* [Unity-Barracuda-MNIST-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)<br>
+* [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)<br>
+* [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)<br>
+* [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)<br>
+* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>
 
 ##### Julia関連
-* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)
+* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>
 
 ##### OpenCV関連
-* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)
-* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)
-* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)
-* [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)
-* [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)
-* [OpenCV-readNetFromTensorflow-sample](https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample)
-* [click-warp-perspective](https://github.com/Kazuhito00/click-warp-perspective)
-* [cv-warpPolar-example](https://github.com/Kazuhito00/cv-warpPolar-example)
-* [hsv-mask-extracter](https://github.com/Kazuhito00/hsv-mask-extracter)
-* [image-mask-replace](https://github.com/Kazuhito00/image-mask-replace)
-* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)
-* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)
-* [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)
-* [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)
-* [movie2jpg](https://github.com/Kazuhito00/movie2jpg)
-* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)
-* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)
-* [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)
+* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>
+* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)<br>
+* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)<br>
+* [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)<br>
+* [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)<br>
+* [OpenCV-readNetFromTensorflow-sample](https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample)<br>
+* [click-warp-perspective](https://github.com/Kazuhito00/click-warp-perspective)<br>
+* [cv-warpPolar-example](https://github.com/Kazuhito00/cv-warpPolar-example)<br>
+* [hsv-mask-extracter](https://github.com/Kazuhito00/hsv-mask-extracter)<br><br>
+* [image-mask-replace](https://github.com/Kazuhito00/image-mask-replace)<br>
+* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>
+* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>
+* [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)<br>
+* [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)<br>
+* [movie2jpg](https://github.com/Kazuhito00/movie2jpg)<br>
+* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)<br>
+* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)<br>
+* [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)<br>
 
 ##### Qiita関連
-* [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)
+* [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>
 
 ##### WebSlides関連
-* [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)
-* [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)
+* [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>
+* [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)<br>
 
 ##### Jupyte Notebook関連
-* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)
+* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>
 
 ##### TensorFlow 1.x関連
-* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)
-* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)
+* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>
+* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>
 
 ##### LT資料
-* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)
-* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)
-* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)
+* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>
+* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>
+* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>
 
 ##### Kaggle関連
-* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)
+* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>
 
 ##### その他
-* [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)
-* [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)
-* [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)
+* [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)<br>
+* [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)<br>
+* [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)<br>
 
 <!--
 |01：3連通信リング|02：和風 黒円|
