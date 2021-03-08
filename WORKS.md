@@ -39,7 +39,7 @@
 </table>
 
 ## Repositories
-リポジトリ数が増えてきたためカテゴリー訳してまとめています。
+リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
 #### MediaPipe関連
 * [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
