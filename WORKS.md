@@ -42,13 +42,44 @@
 リポジトリ数が増えてきたためカテゴリー訳してまとめています。
 
 
+#### TensorFlow 2.x関連
+* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)
 
-#### OpenCVユーティリティ系
+#### 機械学習関連
+* [mixup](https://github.com/Kazuhito00/mixup)
+* [cutmix](https://github.com/Kazuhito00/cutmix)
+* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)
+* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)
+
+#### Unity関連
+* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)
+
+#### Julia関連
+* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)
+
+#### OpenCV関連
 * [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)
+* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)
+* [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)
+* [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)
+* [OpenCV-readNetFromTensorflow-sample](https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample)
 
 #### WebSlides関連
 * [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)
 * [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)
+
+#### Jupyte Notebook関連
+* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)
+
+#### TensorFlow 1.x関連
+* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)
+* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)
+
+#### LT資料
+* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)
+
+#### Kaggle関連
+* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)
 
 <!--
 |01：3連通信リング|02：和風 黒円|
