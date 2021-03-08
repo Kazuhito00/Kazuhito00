@@ -14,7 +14,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://axross-recipe.com/recipes/136"><img src="https://storage.googleapis.com/axross-prod/7hv04okiewvpm8cd0kgjoejq1egc?GoogleAccessId=axross-service%40axross-270301.iam.gserviceaccount.com&Expires=1615220224&Signature=r%2FK5ho8wvAnmG1TeWQ%2BUBYvhTF1Zv1Yl6SLFZoRzQVPCgXmUW6cOYrcVCXpBhHZiNGrjaZhUlg0kMYi69xM6yaOKdgvOvbXa2y9T4rQoc6i9xtclyixioelMHNmpZ%2FRCbmW9htpYdbDY7fC%2BC4YVG9tBMSs2gX8YNmZR39IBnpuyZATxXcN2KeTAXh5hukzz8iWjTyF4a9sfrvPmPBlTc%2FFBQu7gq5DGXn%2FcfzNBTEd33QrzsV8dekgNozVXayHuZwnsrNQbsU1dlk8InQex6vtDhC%2BVLS7aK1mAtyGKLL33jUeUn3VC%2Bhz7E4fjLToTb9mUpR%2B30dGpnCnI5NgKMg%3D%3D&response-content-disposition=inline%3B+filename%3D%22blob%22%3B+filename%2A%3DUTF-8%27%27blob&response-content-type=image%2Fpng" width="150px"></a>
+            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/110350460-16634480-8077-11eb-8f12-91281d76af13.jpg" width="150px"></a>
         </td>
         <td>
             Axross様に<br>
