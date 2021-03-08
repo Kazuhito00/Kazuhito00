@@ -2,6 +2,7 @@
 提供物、寄稿、公開リポジトリの内容をまとめています。
 
 ## Contribution
+提供した情報等をまとめています。
 
 <table>
     <tr>
@@ -41,31 +42,31 @@
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
-#### MediaPipe関連
+##### MediaPipe関連
 * [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
 * [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 * [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)
 
-#### モデル自作 or ファインチューニングモデル関連
+##### モデル自作 or ファインチューニングモデル関連
 * [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)
 * [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)
 * [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)
 
-#### TensorFlow 2.x関連
+##### TensorFlow 2.x関連
 * [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)
 * [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)
 * [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)
 * [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)
 * [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)
 
-#### 機械学習関連
+##### 機械学習関連
 * [mixup](https://github.com/Kazuhito00/mixup)
 * [cutmix](https://github.com/Kazuhito00/cutmix)
 * [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)
 * [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)
 
-#### Unity関連
+##### Unity関連
 * [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)
 * [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)
 * [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)
@@ -76,10 +77,10 @@
 * [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)
 * [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)
 
-#### Julia関連
+##### Julia関連
 * [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)
 
-#### OpenCV関連
+##### OpenCV関連
 * [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)
 * [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)
 * [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)
@@ -99,29 +100,29 @@
 * [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)
 * [XDoG-OpenCV-Sample)](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)
 
-#### Qiita関連
+##### Qiita関連
 * [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)
 
-#### WebSlides関連
+##### WebSlides関連
 * [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)
 * [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)
 
-#### Jupyte Notebook関連
+##### Jupyte Notebook関連
 * [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)
 
-#### TensorFlow 1.x関連
+##### TensorFlow 1.x関連
 * [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)
 * [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)
 
-#### LT資料
+##### LT資料
 * [presentation-2021](https://github.com/Kazuhito00/presentation-2021)
 * [presentation-2020](https://github.com/Kazuhito00/presentation-2020)
 * [presentation-2019](https://github.com/Kazuhito00/presentation-2019)
 
-#### Kaggle関連
+##### Kaggle関連
 * [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)
 
-#### その他
+##### その他
 * [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)
 * [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)
 * [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)
