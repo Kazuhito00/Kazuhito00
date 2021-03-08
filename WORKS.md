@@ -42,29 +42,29 @@
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
+##### Object Detection関連
+* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム
+* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>Tensorflow2 Object Detection APIのハンズオン用資料
+* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>Finger Frame検出用のモデル(EfficientDetファインチューニング)
+* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ
+* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>
+
 ##### MediaPipe関連
 * [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
-* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
+* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、<br>簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
 * [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)<br>MediaPipeのIris(虹彩検出)をPythonで動作させるデモ
 
-##### Object Detection関連
-* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>
-* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>
-* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>
-* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>
-
 ##### TensorFlow 2.x関連
-* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)<br>
-* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>
-* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>
-* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>
+* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>Tensorflow2のkerasの勉強の記録(社内向けハンズオン資料等)
+* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)<br>Tensorflow2(Keras)のImageDataGeneratorのJupyter上での実行例
+* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>Tensorflowの可視化解釈ライブラリ(tf-explain、Grad-CAM等)のJupyter上での実行例。
+* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル
 
 ##### 機械学習関連
+* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>
 * [mixup](https://github.com/Kazuhito00/mixup)<br>
 * [cutmix](https://github.com/Kazuhito00/cutmix)<br>
-* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>
-* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>
 
 ##### Unity関連
 * [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>
