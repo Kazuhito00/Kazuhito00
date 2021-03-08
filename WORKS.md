@@ -108,29 +108,29 @@
 * [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)<br>Unity Barracudaを用いてMobileNet(画像クラス分類)をWebGL上で推論するサンプル
 * [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)<br>Unity Barracudaを用いてTinyYoloV2をWebGL上で推論するサンプル
 * [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)<br>ブラウザ上でMediaPipeを動かし、推論結果をJavaScript→Unity WebGL連携で表示するサンプル
-* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論するサンプル ※リバーシ用のモデルは教師有り学習で作成したもの
+* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論するサンプル <br>※リバーシ用のモデルは教師有り学習で作成したもの
 
 #### WebSlides関連
-* [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>
-* [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)<br>
+* [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>Eel上でOpenCVの画像を表示するサンプル
+* [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)<br>Eel上でWebSlidesを実行し、スライド中にOpenCVの画像を表示するサンプル
 
 #### Jupyte Notebook関連
-* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>
+* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプル
 
 #### Julia関連
-* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>
+* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>Google Colaboratory上でのJulia言語の実行例
 
 #### TensorFlow 1.x関連
-* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>
-* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>
+* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデル
+* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)
 
 #### Kaggle関連
-* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>
+* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>Kaggleメモ（個人用、社内用雑記）
 
 #### その他
-* [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)<br>
-* [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)<br>
-* [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)<br>
+* [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)<br>PyCaret(1.0)を使用したデータ分析の勉強記録
+* [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)<br>PyBoyとGBDK(GameBoy Developers Kit)の例
+* [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)<br>SendGridのPython APIでGoogle Colaboratoryからメールを送信するサンプル
 
 <!--
 |01：3連通信リング|02：和風 黒円|
