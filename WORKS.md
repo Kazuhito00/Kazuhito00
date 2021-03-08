@@ -42,12 +42,17 @@
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
+##### LT資料
+* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>
+* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>
+* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>
+
 ##### Object Detection関連
 * [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム
 * [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>Tensorflow2 Object Detection APIのハンズオン用資料
 * [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>Finger Frame検出用のモデル(EfficientDetファインチューニング)
 * [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ
-* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>
+* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>About顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)
 
 ##### MediaPipe関連
 * [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
@@ -61,24 +66,10 @@
 * [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル
 
 ##### 機械学習関連
-* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>
-* [mixup](https://github.com/Kazuhito00/mixup)<br>
-* [cutmix](https://github.com/Kazuhito00/cutmix)<br>
-* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>
-
-##### Unity関連
-* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>
-* [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)<br>
-* [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)<br>
-* [Unity-MousePaint-WebGL-Sample](https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample)<br>
-* [Unity-Barracuda-MNIST-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)<br>
-* [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)<br>
-* [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)<br>
-* [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)<br>
-* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>
-
-##### Julia関連
-* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>
+* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>画像データ拡張ライブラリAlbumentationsのJupyter上での実行例
+* [mixup](https://github.com/Kazuhito00/mixup)<br>Tensorflow2/KerasのImageDataGenerator向けのmixupの実装
+* [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
+* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
 ##### OpenCV関連
 * [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>
@@ -103,6 +94,17 @@
 ##### Qiita関連
 * [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>
 
+##### Unity関連
+* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>
+* [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)<br>
+* [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)<br>
+* [Unity-MousePaint-WebGL-Sample](https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample)<br>
+* [Unity-Barracuda-MNIST-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)<br>
+* [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)<br>
+* [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)<br>
+* [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)<br>
+* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>
+
 ##### WebSlides関連
 * [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>
 * [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)<br>
@@ -110,14 +112,12 @@
 ##### Jupyte Notebook関連
 * [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>
 
+##### Julia関連
+* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>
+
 ##### TensorFlow 1.x関連
 * [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>
 * [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>
-
-##### LT資料
-* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>
-* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>
-* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>
 
 ##### Kaggle関連
 * [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>
