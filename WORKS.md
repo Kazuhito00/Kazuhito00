@@ -50,7 +50,8 @@
 * [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)
 * [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)
 
+<!--
 |01：3連通信リング|02：和風 黒円|
 :---:|:---:
 |![01](https://user-images.githubusercontent.com/37477845/75368668-6ad0d180-5905-11ea-93c0-635ba29a2a05.gif)|![02](https://user-images.githubusercontent.com/37477845/75368708-77edc080-5905-11ea-9c11-f80373aa9ec2.gif)|
-
+-->
