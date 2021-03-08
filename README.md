@@ -9,6 +9,9 @@
 - 機械学習やKaggle勉強中(🥉×２)です。<br>Currently studying machine learning and Kaggle(🥉×2)
 - 物体検出やセマンティックセグメンテーションに興味があります。<br>I am interested in ObjectDetection and SemanticSegmentation
 
+### Works
+リポジトリ、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。
+
 ### Recent Blog Posts
 <!-- feed start -->
 - Mar 07 - [Unity Barracuda でリバーシ(教師有り学習モデル)を動かしてみる🦔](https://kazuhito00.hatenablog.com/entry/2021/03/08/020032)
