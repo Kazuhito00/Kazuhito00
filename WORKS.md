@@ -43,16 +43,17 @@
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
 ##### LT資料
-* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>
-* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>
-* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>
+* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>LT資料をまとめたリポジトリ(2021年用)
+* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>LT資料をまとめたリポジトリ(2020年用)
+* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>LT資料をまとめたリポジトリ(2019年用)
 
 ##### Object Detection関連
 * [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム
 * [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>Tensorflow2 Object Detection APIのハンズオン用資料
 * [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>Finger Frame検出用のモデル(EfficientDetファインチューニング)
 * [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ
-* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>About顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)
+* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)
+* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)<br>OpenCVを用いたバウンディングボックス装飾の作例集
 
 ##### MediaPipe関連
 * [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
@@ -72,24 +73,29 @@
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
 ##### OpenCV関連
-* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>
-* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)<br>
-* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)<br>
+###### ユーティリティ
+* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>OpenCV上でフォントを指定して文字を描画するクラス
+* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)<br>OpenCVで透過PNGを画像の上に重ね合わせるクラス
+* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)<br>OpenCVのgetTickFrequency()を利用したFPS計測クラス
 * [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)<br>
-* [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)<br>
-* [OpenCV-readNetFromTensorflow-sample](https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample)<br>
-* [click-warp-perspective](https://github.com/Kazuhito00/click-warp-perspective)<br>
-* [cv-warpPolar-example](https://github.com/Kazuhito00/cv-warpPolar-example)<br>
-* [hsv-mask-extracter](https://github.com/Kazuhito00/hsv-mask-extracter)<br><br>
-* [image-mask-replace](https://github.com/Kazuhito00/image-mask-replace)<br>
-* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>
-* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>
 * [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)<br>
 * [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)<br>
 * [movie2jpg](https://github.com/Kazuhito00/movie2jpg)<br>
-* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)<br>
-* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)<br>
+###### 画像フィルタ
+* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>
+* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>
 * [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)<br>
+* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)<br>
+###### 機械学習 データ作成向けツール
+* [movie2jpg](https://github.com/Kazuhito00/movie2jpg)<br>
+* [hsv-mask-extracter](https://github.com/Kazuhito00/hsv-mask-extracter)<br>
+* [image-mask-replace](https://github.com/Kazuhito00/image-mask-replace)<br>
+###### 実装例
+* [click-warp-perspective](https://github.com/Kazuhito00/click-warp-perspective)<br>
+* [cv-warpPolar-example](https://github.com/Kazuhito00/cv-warpPolar-example)<br>
+* [OpenCV-readNetFromTensorflow-sample](https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample)<br>
+###### その他
+* [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)<br>
 
 ##### Qiita関連
 * [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>
