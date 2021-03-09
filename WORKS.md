@@ -66,6 +66,12 @@
 * [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>Tensorflowの可視化解釈ライブラリ(tf-explain、Grad-CAM等)のJupyter上での実行例。
 * [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル
 
+#### 機械学習関連
+* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>画像データ拡張ライブラリAlbumentationsのJupyter上での実行例
+* [mixup](https://github.com/Kazuhito00/mixup)<br>Tensorflow2/KerasのImageDataGenerator向けのmixupの実装
+* [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
+* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
+
 <!--
 <table>
     <tr>
@@ -232,15 +238,49 @@
             tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            機械学習関連
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/albumentations-examples">[albumentations-examples]</a><br>
+            画像データ拡張ライブラリAlbumentationsのJupyter上での実行例<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/77815138-58f86f00-70fb-11ea-8b16-4d82a6920bc9.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/mixup">[mixup]</a><br>
+            Tensorflow2/KerasのImageDataGenerator向けのmixupの実装<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/77816365-93670980-7105-11ea-9f0b-1cfc5c1c1d3c.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cutmix">[cutmix]</a><br>
+            Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/nlpaug-examples">[nlpaug-examples]</a><br>
+            自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例<br>
+        </td>
+    </tr>
 </table>
 -->
-
-
-#### 機械学習関連
-* [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>画像データ拡張ライブラリAlbumentationsのJupyter上での実行例
-* [mixup](https://github.com/Kazuhito00/mixup)<br>Tensorflow2/KerasのImageDataGenerator向けのmixupの実装
-* [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
-* [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
 #### OpenCV関連
 ###### ユーティリティ
