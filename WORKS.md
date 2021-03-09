@@ -438,6 +438,15 @@
     </tr>
     <tr>
         <td>
+            <img src="https://user-images.githubusercontent.com/37477845/74750740-8d347080-52af-11ea-9e70-08efdbd88df2.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/opencv2eel-sample">[opencv2eel-sample]</a><br>
+            Eel上でOpenCVの画像を表示するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="https://user-images.githubusercontent.com/37477845/74846324-9f77e280-5373-11ea-9e5f-a13ab67c86fd.png" width="200px">
         </td>
         <td>
@@ -531,11 +540,21 @@
             Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論するサンプル <br>※リバーシ用のモデルは教師有り学習で作成したもの<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="WebSlides">WebSlides関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/74838953-cd572a00-5367-11ea-9d3e-2e41cda90a54.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/opencv2webslides-sample">[opencv2webslides-sample]</a><br>
+            Eel上でWebSlidesを実行し、スライド中にOpenCVの画像を表示するサンプル<br>
+        </td>
+    </tr>
 </table>
-
-#### WebSlides関連
-* [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>Eel上でOpenCVの画像を表示するサンプル
-* [opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)<br>Eel上でWebSlidesを実行し、スライド中にOpenCVの画像を表示するサンプル
 
 #### Jupyte Notebook関連
 * [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプル
