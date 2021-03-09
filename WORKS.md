@@ -18,7 +18,7 @@
             <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/110350460-16634480-8077-11eb-8f12-91281d76af13.jpg" width="200px"></a>
         </td>
         <td>
-            Axross様に<br>
+            「<a href="https://axross-recipe.com">Axross</a>様に<br>
             「<a href="https://axross-recipe.com/recipes/136">MediaPipeを利用して簡単なジェスチャーを推定するレシピ</a>」を寄稿しました。
         </td>
     </tr>
