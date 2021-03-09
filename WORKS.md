@@ -80,6 +80,11 @@
 * [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)<br>CVUIを用いた、上限下限指定が可能なトラックバーのお試し実装(Python)
 * [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)<br>OpenCVでピクチャーインピクチャーのように表示するサンプル
 * [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)<br>2枚の画像を重ね合わせて、マウススライドで比較するウィンドウのサンプル
+###### 画像フィルタ
+* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>Kuwahara filterのお試し実装
+* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>ポリゴン化 filterのお試し実装
+* [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)<br>XDoG(Extended Difference of Gaussians)アルゴリズムを用いた線画抽出のサンプル
+* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)<br>カラー画像に対するヒストグラム平坦化のOpenCVサンプル
 
 * <a href="#LtDocument">LT資料</a>
 * <a href="#ObjectDetection">Object Detection関連</a>
@@ -87,10 +92,10 @@
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
-* <a href="#">OpenCV：画像フィルタ</a>
-* <a href="#">OpenCV：機械学習 データ作成向けツール</a>
-* <a href="#">OpenCV：実装サンプル</a>
-* <a href="#">OpenCV：その他</a>
+* <a href="#">OpenCvImageFilter：画像フィルタ</a>
+* <a href="#">OpenCv：機械学習 データ作成向けツール</a>
+* <a href="#">OpenCv：実装サンプル</a>
+* <a href="#">OpenCv：その他</a>
 * <a href="#">Unity関連</a>
 * <a href="#">WebSlides関連</a>
 * <a href="#">Jupyte Notebook関連</a>
@@ -365,16 +370,52 @@
             2枚の画像を重ね合わせて、マウススライドで比較するウィンドウのサンプル<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/99142008-420b8a80-2694-11eb-9f34-64ea78942bd2.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Kuwahara-Filter">[Kuwahara-Filter]</a><br>
+            Kuwahara filterのお試し実装<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/103453797-ee76fe00-4d20-11eb-87a0-71d785d47b51.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Polygon-Filter">[Polygon-Filter]</a><br>
+            ポリゴン化 filterのお試し実装<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/106139534-e6d83700-61b0-11eb-8eae-8f0ae72d0fb7.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/XDoG-OpenCV-Sample">[XDoG-OpenCV-Sample]</a><br>
+            XDoG(Extended Difference of Gaussians)アルゴリズムを用いた線画抽出のサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/105632746-390b1680-5e98-11eb-841e-daf68ee5ce06.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/color-equalize-hist-sample">[color-equalize-hist-sample]</a><br>
+            カラー画像に対するヒストグラム平坦化のOpenCVサンプル<br>
+        </td>
+    </tr>
 </table>
 <!--
 -->
 
 #### OpenCV関連
-###### 画像フィルタ
-* [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>Kuwahara filterのお試し実装
-* [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>ポリゴン化 filterのお試し実装
-* [XDoG-OpenCV-Sample](https://github.com/Kazuhito00/XDoG-OpenCV-Sample)<br>XDoG(Extended Difference of Gaussians)アルゴリズムを用いた線画抽出のサンプル
-* [color-equalize-hist-sample](https://github.com/Kazuhito00/color-equalize-hist-sample)<br>カラー画像に対するヒストグラム平坦化のOpenCVサンプル
 ###### 機械学習 データ作成向けツール
 * [movie2jpg](https://github.com/Kazuhito00/movie2jpg)<br>Webカメラ、動画を連番jpgとして保存。および、連番jpgから動画を作成するツール
 * [hsv-mask-extracter](https://github.com/Kazuhito00/hsv-mask-extracter)<br>HSV閾値でのマスク画像生成プログラム
