@@ -455,7 +455,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/74846324-9f77e280-5373-11ea-9e5f-a13ab67c86fd.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/74846159-60e22800-5373-11ea-8920-3906fdf72f52.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/desktopdraw-use-dxlib">[desktopdraw-use-dxlib]</a><br>
