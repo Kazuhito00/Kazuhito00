@@ -308,9 +308,6 @@
 ###### その他
 * [desktopdraw-use-dxlib](https://github.com/Kazuhito00/desktopdraw-use-dxlib)<br>デスクトップ上に図形やテキストを重畳表示 ※DXライブラリ(C# DLL版)をPythonから利用
 
-#### Qiita関連
-* [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集
-
 #### Unity関連
 * [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>Unity平面シェーダーの勉強の記録
 * [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)<br>UnityのWebカメラ入力をWebGLビルドしたサンプル
@@ -335,6 +332,9 @@
 #### TensorFlow 1.x関連
 * [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデル
 * [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)
+
+#### Qiita関連
+* [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集
 
 #### Kaggle関連
 * [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>Kaggleメモ（個人用、社内用雑記）
