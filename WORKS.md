@@ -72,6 +72,7 @@
 * [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
+<!--
 * <a href="#LtDocument">LT資料</a>
 * Object Detection関連
 * MediaPipe関連
@@ -285,7 +286,6 @@
         </td>
     </tr>
 </table>
-<!--
 -->
 
 #### OpenCV関連
