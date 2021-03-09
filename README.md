@@ -10,7 +10,8 @@
 - 物体検出やセマンティックセグメンテーションに興味があります。<br>I am interested in ObjectDetection and SemanticSegmentation
 
 ### Works
-リポジトリ、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。
+リポジトリ、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。<br>
+※画像を多く使用していますので、モバイル回線等の方はご注意ください
 
 ### Recent Blog Posts
 <!-- feed start -->
