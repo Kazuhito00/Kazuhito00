@@ -273,7 +273,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/74671846-5a2aa800-51ef-11ea-9866-c95ad68bb781.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cvdrawtext">[cvdrawtext]</a><br>
@@ -282,7 +282,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/74670515-b04a1c00-51ec-11ea-90bc-f09e9d1ae96d.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cvoverlayimg">[cvoverlayimg]</a><br>
