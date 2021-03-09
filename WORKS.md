@@ -556,7 +556,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            <a name="JupyterNotebook">Jupyte rNotebook関連</a>　<a href="#Repositories">🔙</a>
+            <a name="JupyterNotebook">Jupyte Notebook関連</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
     <tr>
