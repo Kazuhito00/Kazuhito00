@@ -74,10 +74,23 @@
 
 <!--
 * <a href="#LtDocument">LT資料</a>
-* Object Detection関連
-* MediaPipe関連
-* TensorFlow 2.x関連
-* 機械学習関連
+* <a href="#ObjectDetection">Object Detection関連</a>
+* <a href="#MediaPipe">MediaPipe関連</a>
+* <a href="#TensorFlow2">TensorFlow 2.x関連</a>
+* <a href="#MachineLearning">機械学習関連</a>
+* <a href="#">OpenCV：ユーティリティ</a>
+* <a href="#">OpenCV：画像フィルタ</a>
+* <a href="#">OpenCV：機械学習 データ作成向けツール</a>
+* <a href="#">OpenCV：実装サンプル</a>
+* <a href="#">OpenCV：その他</a>
+* <a href="#">Unity関連</a>
+* <a href="#">WebSlides関連</a>
+* <a href="#">Jupyte Notebook関連</a>
+* <a href="#">Julia関連</a>
+* <a href="#">TensorFlow 1.x関連</a>
+* <a href="#">Qiita関連</a>
+* <a href="#">Kaggle関連</a>
+* <a href="#">その他</a>
 
 <table>
     <tr>
