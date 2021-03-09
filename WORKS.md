@@ -497,7 +497,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/107118246-1549c680-68c3-11eb-8bb3-961881a20158.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/107378942-d1a7c480-6b2f-11eb-9e4f-ff17a466685e.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample">[Unity-Barracuda-MobileNet-WebGL-Sample]</a><br>
