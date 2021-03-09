@@ -60,6 +60,12 @@
 * [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、<br>簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
 * [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)<br>MediaPipeのIris(虹彩検出)をPythonで動作させるデモ
 
+#### TensorFlow 2.x関連
+* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>Tensorflow2のkerasの勉強の記録(社内向けハンズオン資料等)
+* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)<br>Tensorflow2(Keras)のImageDataGeneratorのJupyter上での実行例
+* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>Tensorflowの可視化解釈ライブラリ(tf-explain、Grad-CAM等)のJupyter上での実行例。
+* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル
+
 <!--
 <table>
     <tr>
@@ -185,14 +191,50 @@
             MediaPipeのIris(虹彩検出)をPythonで動作させるデモ<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            TensorFlow 2.x関連
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/tensorflow2-keras-learn">[tensorflow2-keras-learn]</a><br>
+            Tensorflow2のkerasの勉強の記録(社内向けハンズオン資料等)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/ImageDataGenerator-examples">[ImageDataGenerator-examples]</a><br>
+            Tensorflow2(Keras)のImageDataGeneratorのJupyter上での実行例<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/86532508-92642600-bf05-11ea-9426-35e4e9954e83.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/tf2-keras-explain-examples">[tf2-keras-explain-examples]</a><br>
+            Tensorflowの可視化解釈ライブラリ(tf-explain、Grad-CAM等)のJupyter上での実行例<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/109993446-a63f8080-7d4f-11eb-8e48-f28cb6ad0681.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning">[mnist-sample-using-tf-simple-metric-learning]</a><br>
+            tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル<br>
+        </td>
+    </tr>
 </table>
 -->
 
-#### TensorFlow 2.x関連
-* [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>Tensorflow2のkerasの勉強の記録(社内向けハンズオン資料等)
-* [ImageDataGenerator-examples](https://github.com/Kazuhito00/ImageDataGenerator-examples)<br>Tensorflow2(Keras)のImageDataGeneratorのJupyter上での実行例
-* [tf2-keras-explain-examples](https://github.com/Kazuhito00/tf2-keras-explain-examples)<br>Tensorflowの可視化解釈ライブラリ(tf-explain、Grad-CAM等)のJupyter上での実行例。
-* [mnist-sample-using-tf-simple-metric-learning](https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning)<br>tf-simple-metric-learning を用いてMNISTで距離学習を実施するサンプル
 
 #### 機械学習関連
 * [albumentations-examples](https://github.com/Kazuhito00/albumentations-examples)<br>画像データ拡張ライブラリAlbumentationsのJupyter上での実行例
