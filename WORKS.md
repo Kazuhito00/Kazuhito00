@@ -27,7 +27,7 @@
             <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/110343784-2f1c2c00-8070-11eb-91c5-ef8bdc5ae738.jpg" width="200px"></a>
         </td>
         <td>
-             からあげさんの書籍「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」<br>
+             からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」<br>
             「2章：AIで画像認識」にて以下のリポジトリをご紹介いただきました。<br><br>
             ・TensorFlow Object Detection APIハンズオン資料<br>
             （<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>）<br>
