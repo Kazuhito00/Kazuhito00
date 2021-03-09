@@ -582,11 +582,46 @@
             Google Colaboratory上でのJulia言語の実行例<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="TensorFlow1">TensorFlow 1.x関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/78697893-71a72700-793c-11ea-8529-0764ed2f843e.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite">[hand-detection-3class-MobilenetV2-SSDLite]</a><br>
+            MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデルbr>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="TensorFlow1">TensorFlow 1.x関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/78697893-71a72700-793c-11ea-8529-0764ed2f843e.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite">[hand-detection-3class-MobilenetV2-SSDLite]</a><br>
+            MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデルbr>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/78701044-4a068d80-7941-11ea-89a7-492272546afc.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD">[hand-detection-2class-MobilenetV1-SSD]</a><br>
+            MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)br>
+        </td>
+    </tr>
 </table>
+https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png
 
-#### TensorFlow 1.x関連
-* [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデル
-* [hand-detection-2class-MobilenetV1-SSD](https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD)<br>MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)
 
 #### Qiita関連
 * [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集
