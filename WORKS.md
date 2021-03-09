@@ -41,6 +41,7 @@
 
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
+
 <!--
 <table>
     <tr>
@@ -74,6 +75,11 @@
             <a href="https://github.com/Kazuhito00/presentation-2019">[presentation-2019]</a><br>
             LT資料をまとめたリポジトリ(2019年用)<br>
         </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            Object Detection関連
+        </th>
     </tr>
 </table>
 -->
