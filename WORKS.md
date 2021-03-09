@@ -19,7 +19,7 @@
         </td>
         <td>
             Axross様に<br>
-            「MediaPipeを利用して簡単なジェスチャーを推定するレシピ」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/136">MediaPipeを利用して簡単なジェスチャーを推定するレシピ</a>」を寄稿しました。
         </td>
     </tr>
     <tr>
