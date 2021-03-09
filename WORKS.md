@@ -54,7 +54,7 @@
 * <a href="#OpenCvOther">OpenCv：その他</a>
 * <a href="#Unity">Unity関連</a>
 * <a href="#WebSlides">WebSlides関連</a>
-* <a href="#JupyteNotebook">Jupyte Notebook関連</a>
+* <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
 * <a href="#TensorFlow1">TensorFlow 1.x関連</a>
 * <a href="#Qiita">Qiita関連</a>
@@ -554,13 +554,35 @@
             Eel上でWebSlidesを実行し、スライド中にOpenCVの画像を表示するサンプル<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="JupyterNotebook">Jupyte rNotebook関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo">[Jupyter-VideoCapture-Demo]</a><br>
+            Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Julia">Julia関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Google-Colab-Julia">[Google-Colab-Julia]</a><br>
+            Google Colaboratory上でのJulia言語の実行例<br>
+        </td>
+    </tr>
 </table>
-
-#### Jupyte Notebook関連
-* [Jupyter-VideoCapture-Demo](https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo)<br>Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプル
-
-#### Julia関連
-* [Google-Colab-Julia](https://github.com/Kazuhito00/Google-Colab-Julia)<br>Google Colaboratory上でのJulia言語の実行例
 
 #### TensorFlow 1.x関連
 * [hand-detection-3class-MobilenetV2-SSDLite](https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite)<br>MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデル
