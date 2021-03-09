@@ -6,10 +6,10 @@
 
 <table>
     <tr>
-        <th>
+        <th align="left">
             提供先
         </th>
-        <th>
+        <th align="left">
             提供内容
         </th>
     </tr>
