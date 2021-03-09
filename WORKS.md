@@ -72,13 +72,21 @@
 * [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
-<!--
+#### OpenCV関連
+###### ユーティリティ
+* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>OpenCV上でフォントを指定して文字を描画するクラス
+* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)<br>OpenCVで透過PNGを画像の上に重ね合わせるクラス
+* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)<br>OpenCVのgetTickFrequency()を利用したFPS計測クラス
+* [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)<br>CVUIを用いた、上限下限指定が可能なトラックバーのお試し実装(Python)
+* [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)<br>OpenCVでピクチャーインピクチャーのように表示するサンプル
+* [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)<br>2枚の画像を重ね合わせて、マウススライドで比較するウィンドウのサンプル
+
 * <a href="#LtDocument">LT資料</a>
 * <a href="#ObjectDetection">Object Detection関連</a>
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
-* <a href="#">OpenCV：ユーティリティ</a>
+* <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
 * <a href="#">OpenCV：画像フィルタ</a>
 * <a href="#">OpenCV：機械学習 データ作成向けツール</a>
 * <a href="#">OpenCV：実装サンプル</a>
@@ -223,7 +231,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/tensorflow2-keras-learn">[tensorflow2-keras-learn]</a><br>
@@ -232,7 +240,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/ImageDataGenerator-examples">[ImageDataGenerator-examples]</a><br>
@@ -264,7 +272,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/albumentations-examples">[albumentations-examples]</a><br>
@@ -291,24 +299,77 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/75458245-e479c580-59c0-11ea-9217-360160b4775e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/nlpaug-examples">[nlpaug-examples]</a><br>
             自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="OpenCvUtility">OpenCV：ユーティリティ</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/74671846-5a2aa800-51ef-11ea-9866-c95ad68bb781.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cvdrawtext">[cvdrawtext]</a><br>
+            OpenCV上でフォントを指定して文字を描画するクラス<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/74670515-b04a1c00-51ec-11ea-90bc-f09e9d1ae96d.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cvoverlayimg">[cvoverlayimg]</a><br>
+            OpenCVで透過PNGを画像の上に重ね合わせるクラス<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cvfpscalc">[cvfpscalc]</a><br>
+            OpenCVのgetTickFrequency()を利用したFPS計測クラス<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/76235541-94c3b580-626e-11ea-803b-aa9e82aea324.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cvui-py-two-knob-trackbar">[cvui-py-two-knob-trackbar]</a><br>
+            CVUIを用いた、上限下限指定が可能なトラックバーのお試し実装(Python)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/99147752-c70f9780-26c6-11eb-8bf5-4f9bc73d8dc5.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cv-picture-in-picture-window">[cv-picture-in-picture-window]</a><br>
+            OpenCVでピクチャーインピクチャーのように表示するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/99143014-9cf5af80-269d-11eb-9eb0-c872d5a5f74c.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cv-comparison-slider-window">[cv-comparison-slider-window]</a><br>
+            2枚の画像を重ね合わせて、マウススライドで比較するウィンドウのサンプル<br>
+        </td>
+    </tr>
 </table>
+<!--
 -->
 
 #### OpenCV関連
-###### ユーティリティ
-* [cvdrawtext](https://github.com/Kazuhito00/cvdrawtext)<br>OpenCV上でフォントを指定して文字を描画するクラス
-* [cvoverlayimg](https://github.com/Kazuhito00/cvoverlayimg)<br>OpenCVで透過PNGを画像の上に重ね合わせるクラス
-* [cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)<br>OpenCVのgetTickFrequency()を利用したFPS計測クラス
-* [cvui-py-two-knob-trackbar](https://github.com/Kazuhito00/cvui-py-two-knob-trackbar)<br>CVUIを用いた、上限下限指定が可能なトラックバーのお試し実装(Python)
-* [cv-picture-in-picture-window](https://github.com/Kazuhito00/cv-picture-in-picture-window)<br>OpenCVでピクチャーインピクチャーのように表示するサンプル
-* [cv-comparison-slider-window](https://github.com/Kazuhito00/cv-comparison-slider-window)<br>2枚の画像を重ね合わせて、マウススライドで比較するウィンドウのサンプル
 ###### 画像フィルタ
 * [Kuwahara-Filter](https://github.com/Kazuhito00/Kuwahara-Filter)<br>Kuwahara filterのお試し実装
 * [Polygon-Filter](https://github.com/Kazuhito00/Polygon-Filter)<br>ポリゴン化 filterのお試し実装
