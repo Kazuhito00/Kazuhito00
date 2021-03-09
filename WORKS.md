@@ -39,7 +39,7 @@
     </tr>
 </table>
 
-## <a name="Repositories">Repositories</a>
+## <a name="#Repositories">Repositories</a>
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
 * <a href="#LtDocument">LT資料</a>
@@ -64,7 +64,7 @@
 <table>
     <tr>
         <th align="left" colspan="2">
-            <a name="LtDocument">LT資料</a>
+            <a name="LtDocument">LT資料</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
     <tr>
