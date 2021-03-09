@@ -42,6 +42,24 @@
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
+#### LT資料
+* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>LT資料をまとめたリポジトリ(2021年用)
+* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>LT資料をまとめたリポジトリ(2020年用)
+* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>LT資料をまとめたリポジトリ(2019年用)
+
+#### Object Detection関連
+* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム
+* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>Tensorflow2 Object Detection APIのハンズオン用資料
+* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>Finger Frame検出用のモデル(EfficientDetファインチューニング)
+* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ
+* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)
+* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)<br>OpenCVを用いたバウンディングボックス装飾の作例集
+
+##### MediaPipe関連
+* [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
+* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、<br>簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
+* [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)<br>MediaPipeのIris(虹彩検出)をPythonで動作させるデモ
+
 <!--
 <table>
     <tr>
@@ -135,26 +153,40 @@
             OpenCVを用いたバウンディングボックス装飾の作例集<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            MediaPipe関連
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/109686979-25a14880-7bc6-11eb-8290-4e87968f6044.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/mediapipe-python-sample">[mediapipe-python-sample]</a><br>
+            MediaPipeのPythonパッケージのサンプル<br>2021/03/03時点でPython実装のある6機能(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron)を実装<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe">[hand-gesture-recognition-using-mediapipe]</a><br>
+            MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、<br>簡易なMLPでハンドサインとフィンガージェスチャーを認識<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/iris-detection-using-py-mediapipe">[iris-detection-using-py-mediapipe]</a><br>
+            MediaPipeのIris(虹彩検出)をPythonで動作させるデモ<br>
+        </td>
+    </tr>
 </table>
 -->
-
-#### LT資料
-* [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>LT資料をまとめたリポジトリ(2021年用)
-* [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>LT資料をまとめたリポジトリ(2020年用)
-* [presentation-2019](https://github.com/Kazuhito00/presentation-2019)<br>LT資料をまとめたリポジトリ(2019年用)
-
-#### Object Detection関連
-* [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)<br>物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム
-* [Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)<br>Tensorflow2 Object Detection APIのハンズオン用資料
-* [FingerFrameDetection-TF2](https://github.com/Kazuhito00/FingerFrameDetection-TF2)<br>Finger Frame検出用のモデル(EfficientDetファインチューニング)
-* [FingerFrameLens](https://github.com/Kazuhito00/FingerFrameLens)<br>FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ
-* [FaceDetection-Image-Overlay](https://github.com/Kazuhito00/FaceDetection-Image-Overlay)<br>顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)
-* [object-detection-bbox-art](https://github.com/Kazuhito00/object-detection-bbox-art)<br>OpenCVを用いたバウンディングボックス装飾の作例集
-
-##### MediaPipe関連
-* [mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>MediaPipeのPythonパッケージのサンプル
-* [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)<br>MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、<br>簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプル
-* [iris-detection-using-py-mediapipe](https://github.com/Kazuhito00/iris-detection-using-py-mediapipe)<br>MediaPipeのIris(虹彩検出)をPythonで動作させるデモ
 
 #### TensorFlow 2.x関連
 * [tensorflow2-keras-learn](https://github.com/Kazuhito00/tensorflow2-keras-learn)<br>Tensorflow2のkerasの勉強の記録(社内向けハンズオン資料等)
