@@ -53,13 +53,13 @@
 * <a href="#">OpenCvSample：実装サンプル</a>
 * <a href="#OpenCvOther">OpenCv：その他</a>
 * <a href="#Unity">Unity関連</a>
-* <a href="#">WebSlides関連</a>
-* <a href="#">Jupyte Notebook関連</a>
-* <a href="#">Julia関連</a>
-* <a href="#">TensorFlow 1.x関連</a>
-* <a href="#">Qiita関連</a>
-* <a href="#">Kaggle関連</a>
-* <a href="#">その他</a>
+* <a href="#WebSlides">WebSlides関連</a>
+* <a href="#JupyteNotebook">Jupyte Notebook関連</a>
+* <a href="#Julia">Julia関連</a>
+* <a href="#TensorFlow1">TensorFlow 1.x関連</a>
+* <a href="#Qiita">Qiita関連</a>
+* <a href="#Kaggle">Kaggle関連</a>
+* <a href="#Other">その他</a>
 
 <table>
     <tr>
@@ -445,23 +445,93 @@
             デスクトップ上に図形やテキストを重畳表示 ※DXライブラリ(C# DLL版)をPythonから利用<br>
         </td>
     </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Unity">Unity関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/80282520-f66fae80-874c-11ea-8d44-6503bf194479.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Quad-Shader-Learn">[Unity-Quad-Shader-Learn]</a><br>
+            Unity平面シェーダーの勉強の記録<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample">[Unity-WebCamTexture-WebGL-Sample]</a><br>
+            UnityのWebカメラ入力をWebGLビルドしたサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110475261-035a7e00-8124-11eb-89cd-04546346718d.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample">[Unity-VideoPlayer-WebGL-Sample]</a><br>
+            Unityの動画再生をWebGLビルドしたサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110475348-1d945c00-8124-11eb-9f67-95e9e7e242e9.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample">[Unity-MousePaint-WebGL-Sample]</a><br>
+            Unityでのテクスチャお絵描きをWebGLビルドしたサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/107118246-1549c680-68c3-11eb-8bb3-961881a20158.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample">[Unity-Barracuda-MNIST-WebGL-Sample]</a><br>
+            Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/107118246-1549c680-68c3-11eb-8bb3-961881a20158.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample">[Unity-Barracuda-MobileNet-WebGL-Sample]</a><br>
+            Unity Barracudaを用いてMobileNet(画像クラス分類)をWebGL上で推論するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/107845474-fbf2ce00-6e1e-11eb-9b0a-00a80717e779.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample">[Unity-Barracuda-TinyYoloV2-WebGL-Sample]</a><br>
+            Unity Barracudaを用いてTinyYoloV2をWebGL上で推論するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/108582506-2c82bc80-7377-11eb-8c49-e872a18afba0.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample">[Unity-MediaPipeJs-SendMessage-WebGL-Sample]</a><br>
+            ブラウザ上でMediaPipeを動かし、推論結果をJavaScript→Unity WebGL連携で表示するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110242874-5654f980-7f9b-11eb-911a-899375c100e9.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample">[Unity-Barracuda-Reversi-WebGL-Sample]</a><br>
+            Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論するサンプル <br>※リバーシ用のモデルは教師有り学習で作成したもの<br>
+        </td>
+    </tr>
 </table>
-<!--
--->
-
-#### OpenCV関連
-* [desktopdraw-use-dxlib]()<br>
-
-#### Unity関連
-* [Unity-Quad-Shader-Learn](https://github.com/Kazuhito00/Unity-Quad-Shader-Learn)<br>Unity平面シェーダーの勉強の記録
-* [Unity-WebCamTexture-WebGL-Sample](https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample)<br>UnityのWebカメラ入力をWebGLビルドしたサンプル
-* [Unity-VideoPlayer-WebGL-Sample](https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample)<br>Unityの動画再生をWebGLビルドしたサンプル
-* [Unity-MousePaint-WebGL-Sample](https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample)<br>Unityでのテクスチャお絵描きをWebGLビルドしたサンプル
-* [Unity-Barracuda-MNIST-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)<br>Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論するサンプル
-* [Unity-Barracuda-MobileNet-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample)<br>Unity Barracudaを用いてMobileNet(画像クラス分類)をWebGL上で推論するサンプル
-* [Unity-Barracuda-TinyYoloV2-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample)<br>Unity Barracudaを用いてTinyYoloV2をWebGL上で推論するサンプル
-* [Unity-MediaPipeJs-SendMessage-WebGL-Sample](https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample)<br>ブラウザ上でMediaPipeを動かし、推論結果をJavaScript→Unity WebGL連携で表示するサンプル
-* [Unity-Barracuda-Reversi-WebGL-Sample](https://github.com/Kazuhito00/Unity-Barracuda-Reversi-WebGL-Sample)<br>Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論するサンプル <br>※リバーシ用のモデルは教師有り学習で作成したもの
 
 #### WebSlides関連
 * [opencv2eel-sample](https://github.com/Kazuhito00/opencv2eel-sample)<br>Eel上でOpenCVの画像を表示するサンプル
