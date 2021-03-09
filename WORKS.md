@@ -401,7 +401,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            <a name="OpenCvSample">OpenCV：実装例</a>
+            <a name="OpenCvSample">OpenCV：実装サンプル</a>
         </th>
     </tr>
     <tr>
