@@ -593,21 +593,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite">[hand-detection-3class-MobilenetV2-SSDLite]</a><br>
-            MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデルbr>
-        </td>
-    </tr>
-    <tr>
-        <th align="left" colspan="2">
-            <a name="TensorFlow1">TensorFlow 1.x関連</a>
-        </th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://user-images.githubusercontent.com/37477845/78697893-71a72700-793c-11ea-8529-0764ed2f843e.png" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite">[hand-detection-3class-MobilenetV2-SSDLite]</a><br>
-            MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデルbr>
+            MobilenetV2-SSDLiteで訓練した手検出(Open/Close/Pointer)のモデル<br>
         </td>
     </tr>
     <tr>
@@ -616,26 +602,67 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD">[hand-detection-2class-MobilenetV1-SSD]</a><br>
-            MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)br>
+            MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Qiita">Qiita関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/101269862-7b787700-37b6-11eb-8006-2b7c42402f09.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV">[Qiita-AdventCalendar-20201212-OpenCV]</a><br>
+            Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Kaggle">Kaggle関連</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/kaggle-memo">[kaggle-memo]</a><br>
+            Kaggleメモ（個人用、社内用雑記）<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Other">その他</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PyCaret-Learn">[PyCaret-Learn]</a><br>
+            PyCaret(1.0)を使用したデータ分析の勉強記録<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/85189471-5e281d00-b2ea-11ea-98c1-d1fa0f46b136.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/pyboy-gbdk-examples">[pyboy-gbdk-examples]</a><br>
+            PyBoyとGBDK(GameBoy Developers Kit)の例<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/SendGrid-Colaboratory">[SendGrid-Colaboratory]</a><br>
+            SendGridのPython APIでGoogle Colaboratoryからメールを送信するサンプル<br>
         </td>
     </tr>
 </table>
-https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png
-
-
-#### Qiita関連
-* [Qiita-AdventCalendar-20201212-OpenCV](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV)<br>Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集
-
-#### Kaggle関連
-* [kaggle-memo](https://github.com/Kazuhito00/kaggle-memo)<br>Kaggleメモ（個人用、社内用雑記）
-
-#### その他
-* [PyCaret-Learn](https://github.com/Kazuhito00/PyCaret-Learn)<br>PyCaret(1.0)を使用したデータ分析の勉強記録
-* [pyboy-gbdk-examples](https://github.com/Kazuhito00/pyboy-gbdk-examples)<br>PyBoyとGBDK(GameBoy Developers Kit)の例
-* [SendGrid-Colaboratory](https://github.com/Kazuhito00/SendGrid-Colaboratory)<br>SendGridのPython APIでGoogle Colaboratoryからメールを送信するサンプル
-
-<!--
-|01：3連通信リング|02：和風 黒円|
-:---:|:---:
-|![01](https://user-images.githubusercontent.com/37477845/75368668-6ad0d180-5905-11ea-93c0-635ba29a2a05.gif)|![02](https://user-images.githubusercontent.com/37477845/75368708-77edc080-5905-11ea-9c11-f80373aa9ec2.gif)|
--->
