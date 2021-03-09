@@ -81,6 +81,60 @@
             Object Detection関連
         </th>
     </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/95489944-78d5ed00-09d2-11eb-96f6-a687b012c413.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">[NARUTO-HandSignDetection]</a><br>
+            物体検出を用いてNARUTOの印(子～亥、壬、合掌)を検出するモデルとサンプルプログラム<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/94301550-b46dc180-ffa5-11ea-8a1c-7fdf14278cd9.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">[Tensorflow2-ObjectDetectionAPI-Colab-Hands-On]</a><br>
+            Tensorflow2 Object Detection APIのハンズオン用資料<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/93489320-56583300-f942-11ea-9084-f0c441c0f9cd.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FingerFrameDetection-TF2">[FingerFrameDetection-TF2]</a><br>
+            Finger Frame検出用のモデル(EfficientDetファインチューニング)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/93661903-887aa980-fa96-11ea-83e4-0912271fc3fa.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FingerFrameLens">[FingerFrameLens]</a><br>
+            FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/99551738-8f268e00-29ff-11eb-8565-5dd9eaadc534.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FaceDetection-Image-Overlay">[FaceDetection-Image-Overlay]</a><br>
+            顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/101269866-84694880-37b6-11eb-9b61-3e56373f6faf.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/object-detection-bbox-art">[object-detection-bbox-art]</a><br>
+            OpenCVを用いたバウンディングボックス装飾の作例集<br>
+        </td>
+    </tr>
 </table>
 -->
 
