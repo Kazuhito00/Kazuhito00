@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/110350460-16634480-8077-11eb-8f12-91281d76af13.jpg" width="150px"></a>
+            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/110350460-16634480-8077-11eb-8f12-91281d76af13.jpg" width="200px"></a>
         </td>
         <td>
             Axross様に<br>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/110343784-2f1c2c00-8070-11eb-91c5-ef8bdc5ae738.jpg" width="150px"></a>
+            <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/110343784-2f1c2c00-8070-11eb-91c5-ef8bdc5ae738.jpg" width="200px"></a>
         </td>
         <td>
              からあげさんの書籍「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」<br>
@@ -41,6 +41,42 @@
 
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
+<!--
+<table>
+    <tr>
+        <th align="left" colspan="2">
+            LT資料
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/presentation-2021">[presentation-2021]</a><br>
+            LT資料をまとめたリポジトリ(2021年用)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75695187-09d24080-5ced-11ea-9f4c-8a754b33b997.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/presentation-2020">[presentation-2020]</a><br>
+            LT資料をまとめたリポジトリ(2020年用)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/75690420-2b7bf980-5ce6-11ea-81b3-fa24bdb0ee71.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/presentation-2019">[presentation-2019]</a><br>
+            LT資料をまとめたリポジトリ(2019年用)<br>
+        </td>
+    </tr>
+</table>
+-->
 
 #### LT資料
 * [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>LT資料をまとめたリポジトリ(2021年用)
