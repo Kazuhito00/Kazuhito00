@@ -41,9 +41,9 @@
 
 ## Repositories
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
-
+<!--
 <a href="#title">タイトルの位置へジャンプする</a>
-
+-->
 #### LT資料
 * [presentation-2021](https://github.com/Kazuhito00/presentation-2021)<br>LT資料をまとめたリポジトリ(2021年用)
 * [presentation-2020](https://github.com/Kazuhito00/presentation-2020)<br>LT資料をまとめたリポジトリ(2020年用)
@@ -74,10 +74,11 @@
 * [cutmix](https://github.com/Kazuhito00/cutmix)<br>Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装
 * [nlpaug-examples](https://github.com/Kazuhito00/nlpaug-examples)<br>自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例
 
+<!--
 <table>
     <tr>
         <th align="left" colspan="2">
-            LT資料
+            <a name="LtDocument">LT資料</a>
         </th>
     </tr>
     <tr>
@@ -109,7 +110,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            Object Detection関連
+            <a name="ObjectDetection">Object Detection関連</a>
         </th>
     </tr>
     <tr>
@@ -168,7 +169,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            <a name="title">MediaPipe関連</a>
+            <a name="MediaPipe">MediaPipe関連</a>
         </th>
     </tr>
     <tr>
@@ -200,7 +201,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            TensorFlow 2.x関連
+            <a name="TensorFlow2">TensorFlow 2.x関連</a>
         </th>
     </tr>
     <tr>
@@ -241,7 +242,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            機械学習関連
+            <a name="MachineLearning">機械学習関連</a>
         </th>
     </tr>
     <tr>
@@ -281,7 +282,6 @@
         </td>
     </tr>
 </table>
-<!--
 -->
 
 #### OpenCV関連
