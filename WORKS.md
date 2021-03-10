@@ -527,7 +527,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample">[Unity-Barracuda-TinyYoloV2-WebGL-Sample]</a><br>
-            Unity Barracudaを用いてTinyYoloV2をWebGL上で推論するサンプル<br>※サムネイルはUnity Editor上での実行です<br> WebGL推論は1fpsを下回ります
+            Unity Barracudaを用いてTinyYoloV2をWebGL上で推論するサンプル<br>※サムネイルはUnity Editor上での実行です。WebGL推論は1fpsを下回ります。
         </td>
     </tr>
     <tr>
