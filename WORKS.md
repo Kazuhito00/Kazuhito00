@@ -168,7 +168,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe">[hand-gesture-recognition-using-mediapipe]</a><br>
@@ -177,7 +177,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/111347926-070d7800-86c3-11eb-851f-22f1e87f67b5.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/iris-detection-using-py-mediapipe">[iris-detection-using-py-mediapipe]</a><br>
@@ -186,7 +186,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/111347926-070d7800-86c3-11eb-851f-22f1e87f67b5.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/simple-virtual-mouse-using-mediapipe">[simple-virtual-mouse-using-mediapipe]</a><br>
