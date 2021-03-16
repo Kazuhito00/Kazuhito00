@@ -177,11 +177,20 @@
     </tr>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/111347926-070d7800-86c3-11eb-851f-22f1e87f67b5.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/iris-detection-using-py-mediapipe">[iris-detection-using-py-mediapipe]</a><br>
             MediaPipeのIris(虹彩検出)をPythonで動作させるデモ<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/simple-virtual-mouse-using-mediapipe">[simple-virtual-mouse-using-mediapipe]</a><br>
+            MediaPipeを用いたハンドジェスチャーによる簡単なマウス操作を行うプログラム<br>
         </td>
     </tr>
     <tr>
