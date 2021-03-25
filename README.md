@@ -15,11 +15,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 25 - [Unityで「ふっかつのじゅもん」的な処理🦔](https://kazuhito00.hatenablog.com/entry/2021/03/26/000222)
 - Mar 25 - [ツイート2年分のWord Cloud👾](https://kazuhito00.hatenablog.com/entry/2021/03/25/210259)
 - Mar 22 - [単一の手のLocalizationモデルお試し作成中。](https://kazuhito00.hatenablog.com/entry/2021/03/23/022432)
 - Mar 16 - [MediaPipe Handsを用いて非接触マウス操作🦔](https://kazuhito00.hatenablog.com/entry/2021/03/17/020430)
 - Mar 09 - [Githubの自作リポジトリの一覧を作りました。](https://kazuhito00.hatenablog.com/entry/2021/03/10/010826)
-- Mar 07 - [Unity Barracuda でリバーシ(教師有り学習モデル)を動かしてみる🦔](https://kazuhito00.hatenablog.com/entry/2021/03/08/020032)
 <!-- feed end -->
 
 ### How to reach me
