@@ -558,6 +558,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/112488121-9fd97d00-8dc0-11eb-9dc9-854edc8d2cbe.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-SpellRestoration">[Unity-SpellRestoration]</a><br>
+            Unityで「ふっかつのじゅもん」的なことをするクラス<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="JupyterNotebook">Jupyte Notebook関連</a>　<a href="#Repositories">🔙</a>
         </th>
