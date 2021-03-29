@@ -30,11 +30,11 @@
              からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」<br>
             「2章：AIで画像認識」にて以下のリポジトリをご紹介いただきました。<br><br>
             ・TensorFlow Object Detection APIハンズオン資料<br>
-            （<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>）<br>
+            [<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>]<br>
             ・データ拡張ライブラリAlbumentationsサンプル集<br>
-            （<a href="https://github.com/Kazuhito00/albumentations-examples">Kazuhito00/albumentations-examples</a>）<br>
+            [<a href="https://github.com/Kazuhito00/albumentations-examples">Kazuhito00/albumentations-examples</a>]<br>
             ・Deep写輪眼<br>
-            （<a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">Kazuhito00/NARUTO-HandSignDetection</a>）<br>
+            [<a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">Kazuhito00/NARUTO-HandSignDetection</a>]<br>
         </td>
     </tr>
 </table>
