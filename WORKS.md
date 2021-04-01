@@ -576,6 +576,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/113316638-8ba9f880-9349-11eb-8cfc-f65ec82bd300.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-SingleHandLocalization-WebGL">[Unity-Barracuda-SingleHandLocalization-WebGL]</a><br>
+            Unity Barracudaで<a href="https://github.com/Kazuhito00/Single-Hand-Localization">Single-Hand-Localization</a>を動作させるサンプルです。<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="JupyterNotebook">Jupyte Notebook関連</a>　<a href="#Repositories">🔙</a>
         </th>
