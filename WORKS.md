@@ -235,6 +235,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/113296671-bfc6ee80-9334-11eb-8c39-231a8daff3c0.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
+            単一の手の位置推定を行う試験的なモデル<br>手のXY座標とクラス分類結果(無し、パー、グー)の出力する
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MachineLearning">機械学習関連</a>　<a href="#Repositories">🔙</a>
         </th>
