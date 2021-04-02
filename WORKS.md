@@ -240,7 +240,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
-            単一の手の位置推定を行う試験的なモデル<br>→Raspberry Pi等で動作する軽量なモデルを目指しています<br>手のXY座標とクラス分類結果(無し、パー、グー)を出力
+            単一の手の位置推定を行う試験的なモデル<br>→Raspberry PiやUnity Barracuda上で動作する軽量なモデルを目指しています<br>手のXY座標とクラス分類結果(無し、パー、グー)を出力
         </td>
     </tr>
     <tr>
