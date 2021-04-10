@@ -296,7 +296,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
-            [Neural Network Console](https://dl.sony.com/ja/)でKaggleのタイタニックを学習するサンプル<br>
+            Neural Network ConsoleでKaggleのタイタニックを学習するサンプル<br>
             前処理(Jupyter Notebook)、学習・モデル構造自動探索(Neural Network Console)、ONNX推論(Jupyter Notebook)を含みます<br>
         </td>
     </tr>
