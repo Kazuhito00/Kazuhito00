@@ -47,6 +47,7 @@
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
+* <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
 * <a href="#OpenCvImageFilter">OpenCV：画像フィルタ</a>
 * <a href="#OpenCvDaTool">OpenCV：機械学習 データ作成向けツール</a>
@@ -282,6 +283,21 @@
         <td>
             <a href="https://github.com/Kazuhito00/nlpaug-examples">[nlpaug-examples]</a><br>
             自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例<br>
+        </td>
+    </tr>>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/114264025-79a01800-9a23-11eb-858f-a4fe888daf7f.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
+            [Neural Network Console](https://dl.sony.com/ja/)でKaggleのタイタニックを学習するサンプル<br>
+            前処理(Jupyter Notebook)、学習・モデル構造自動探索(Neural Network Console)、ONNX推論(Jupyter Notebook)を含みます<br>
         </td>
     </tr>
     <tr>
