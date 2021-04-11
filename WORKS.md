@@ -305,7 +305,7 @@
             <img src="https://user-images.githubusercontent.com/37477845/114303458-30c28f00-9b09-11eb-80ad-a7170a623c67.png" width="200px">
         </td>
         <td>
-            <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
+            <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-MNIST-Sample">[NeuralNetworkConsole-MNIST-Sample]</a><br>
             Neural Network ConsoleでMNISTを学習するサンプル<br>
             MNISTデータセットダウンロード(Jupyter Notebook)、学習・モデル構造自動探索(Neural Network Console)、ONNX推論(Jupyter Notebook)を含みます<br>
         </td>
