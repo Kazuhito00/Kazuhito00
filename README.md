@@ -15,11 +15,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 14 - [2値セグメンテーション向けのアノテーションツール自作🦔](https://kazuhito00.hatenablog.com/entry/2021/04/14/204953)
 - Apr 11 - [Neural Network Console に再入門しました。その２。MNIST🦔](https://kazuhito00.hatenablog.com/entry/2021/04/11/233004)
 - Apr 10 - [Neural Network Console に再入門しました🦔](https://kazuhito00.hatenablog.com/entry/2021/04/10/185452)
 - Apr 01 - [単一の手のLocalizationモデルお試し作成中。その3。いったん完了。](https://kazuhito00.hatenablog.com/entry/2021/04/02/011250)
 - Mar 26 - [単一の手のLocalizationモデルお試し作成中。その２。](https://kazuhito00.hatenablog.com/entry/2021/03/27/010517)
-- Mar 25 - [Unityで「ふっかつのじゅもん」的な処理🦔](https://kazuhito00.hatenablog.com/entry/2021/03/26/000222)
 <!-- feed end -->
 
 ### How to reach me
