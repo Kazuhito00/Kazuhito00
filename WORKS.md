@@ -443,6 +443,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/114702034-86dc4000-9d5e-11eb-9f8a-203c4bea191d.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/GrabCut-Tool">[GrabCut-Tool]</a><br>
+            grabCutを利用した2値セグメンテーション向けのアノテーションツール<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvSample">OpenCV：実装サンプル</a>　<a href="#Repositories">🔙</a>
         </th>
