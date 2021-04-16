@@ -15,6 +15,15 @@
     </tr>
     <tr>
         <td>
+            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/115014148-e8321980-9eec-11eb-9292-85f2ff9e7227.jpg" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/158">TensorflowのObject Detection APIで道路標識検出モデルを訓練するレシピ</a>」を寄稿しました。
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/110350460-16634480-8077-11eb-8f12-91281d76af13.jpg" width="200px"></a>
         </td>
         <td>
