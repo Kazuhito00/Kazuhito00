@@ -461,6 +461,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/37477845/115104498-bf189400-9f93-11eb-9cdc-6e86db96a08c.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/mouseselect-screenshot-windows">[mouseselect-screenshot-windows]</a><br>
+            マウス選択範囲を連番で保存する簡易なスクリーンショットツール(Window専用)<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvSample">OpenCV：実装サンプル</a>　<a href="#Repositories">🔙</a>
         </th>
