@@ -173,7 +173,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mediapipe-python-sample">[mediapipe-python-sample]</a><br>
-            MediaPipeのPythonパッケージのサンプル<br>2021/03/03時点でPython実装のある6機能(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron)を実装<br>
+            MediaPipeのPythonパッケージのサンプル<br>2021/03/03時点でPython実装のある6機能<br>(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron)を実装<br>
         </td>
     </tr>
     <tr>
@@ -306,7 +306,8 @@
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
             Neural Network ConsoleでKaggleのタイタニックを学習するサンプル<br>
-            前処理(Jupyter Notebook)、学習・モデル構造自動探索(Neural Network Console)、ONNX推論(Jupyter Notebook)を含みます<br>
+            以下をを含みます<br>
+            ・前処理(Jupyter Notebook)<br>・学習・モデル構造自動探索(Neural Network Console)<br>・ONNX推論(Jupyter Notebook)<br>
         </td>
     </tr>
     <tr>
@@ -316,7 +317,8 @@
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-MNIST-Sample">[NeuralNetworkConsole-MNIST-Sample]</a><br>
             Neural Network ConsoleでMNISTを学習するサンプル<br>
-            MNISTデータセットダウンロード(Jupyter Notebook)、学習・モデル構造自動探索(Neural Network Console)、ONNX推論(Jupyter Notebook)を含みます<br>
+            以下をを含みます<br>
+            ・MNISTデータセットダウンロード(Jupyter Notebook)<br>・学習・モデル構造自動探索(Neural Network Console)<br>・ONNX推論(Jupyter Notebook)
         </td>
     </tr>
     <tr>
