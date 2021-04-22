@@ -293,7 +293,7 @@
             <a href="https://github.com/Kazuhito00/nlpaug-examples">[nlpaug-examples]</a><br>
             自然言語処理データ拡張ライブラリnlpaugのJupyter上での実行例<br>
         </td>
-    </tr>>
+    </tr>
     <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
