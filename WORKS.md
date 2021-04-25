@@ -636,7 +636,16 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-SingleHandLocalization-WebGL">[Unity-Barracuda-SingleHandLocalization-WebGL]</a><br>
-            Unity Barracudaで<a href="https://github.com/Kazuhito00/Single-Hand-Localization">Single-Hand-Localization</a>を動作させるサンプルです。<br>
+            Unity Barracudaで<a href="https://github.com/Kazuhito00/Single-Hand-Localization">Single-Hand-Localization</a>を動作させるサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/115559147-637d3c00-a2ee-11eb-8751-a6dad0807372.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Presentation-using-DOTween">[Unity-Presentation-using-DOTween]</a><br>
+            UnityのDOTweenアセットを用いたプレゼンテーションの試験的なサンプル<br>
         </td>
     </tr>
     <tr>
