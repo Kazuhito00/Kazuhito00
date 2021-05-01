@@ -734,10 +734,19 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/116778575-a89f2c00-aaad-11eb-9ab5-3250a6e95873.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PlantUML-ColorSet-Example]</a><br>
+            PlantUML用の色セットの例<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
-            <a href="https://github.com/Kazuhito00/PyCaret-Learn">[PyCaret-Learn]</a><br>
+            <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PyCaret-Learn]</a><br>
             PyCaret(1.0)を使用したデータ分析の勉強記録<br>
         </td>
     </tr>
