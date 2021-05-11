@@ -173,7 +173,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mediapipe-python-sample">[mediapipe-python-sample]</a><br>
-            MediaPipeのPythonパッケージのサンプル<br>2021/03/03時点でPython実装のある6機能<br>(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron)を実装<br>
+            MediaPipeのPythonパッケージのサンプル<br>2021/05/12時点でPython実装のある6機能<br>(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron)を実装<br>
         </td>
     </tr>
     <tr>
