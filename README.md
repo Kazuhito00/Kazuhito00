@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- May 12 - [7セグメント表示の画像生成ツール👻](https://kazuhito00.hatenablog.com/entry/2021/05/13/024207)
 - May 11 - [MediaPipe 0.8.4.2でBlazePose GHUM 3Dが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/05/12/031904)
 - May 02 - [PlantUMLの見た目系Tips。覚書いろいろ🦔](https://kazuhito00.hatenablog.com/entry/2021/05/02/210550)
 - May 01 - [PlantUMLの色変更。いろいろ🦔](https://kazuhito00.hatenablog.com/entry/2021/05/01/185942)
 - Apr 25 - [Unity DOTweenを用いてプレゼンテーション試作。](https://kazuhito00.hatenablog.com/entry/2021/04/25/192456)
-- Apr 17 - [マウス選択範囲のスクリーンショットツール👻](https://kazuhito00.hatenablog.com/entry/2021/04/17/160617)
 <!-- feed end -->
 
 ### How to reach me
