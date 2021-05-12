@@ -472,6 +472,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/118017307-6c16de80-b391-11eb-9fc2-547f66f59e9f.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/7seg-image-generator">[7seg-image-generator]</a><br>
+            7セグメント表示の画像を生成するツール（機械学習向け）<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvSample">OpenCV：実装サンプル</a>　<a href="#Repositories">🔙</a>
         </th>
