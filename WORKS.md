@@ -65,6 +65,7 @@
 * <a href="#Unity">Unity関連</a>
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
+* <a href="#PlantUML">PlantUML関連</a>
 * <a href="#TensorFlow1">TensorFlow 1.x関連</a>
 * <a href="#Qiita">Qiita関連</a>
 * <a href="#Kaggle">Kaggle関連</a>
@@ -687,6 +688,20 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
+            <a name="PlantUML">PlantUML関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/116778575-a89f2c00-aaad-11eb-9ab5-3250a6e95873.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PlantUML-ColorSet-Example]</a><br>
+            PlantUML用の色セットの例<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
             <a name="TensorFlow1">TensorFlow 1.x関連</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
@@ -740,15 +755,6 @@
         <th align="left" colspan="2">
             <a name="Other">その他</a>　<a href="#Repositories">🔙</a>
         </th>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/116778575-a89f2c00-aaad-11eb-9ab5-3250a6e95873.png" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PlantUML-ColorSet-Example]</a><br>
-            PlantUML用の色セットの例<br>
-        </td>
     </tr>
     <tr>
         <td width="220">
