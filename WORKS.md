@@ -55,6 +55,7 @@
 * <a href="#ObjectDetection">Object Detection関連</a>
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
+* <a href="#GAN">GAN関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -252,6 +253,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
             単一の手の位置推定を行う試験的なモデル<br>→Raspberry PiやUnity Barracuda上で動作する軽量なモデルを目指しています<br>手のXY座標とクラス分類結果(無し、パー、グー)を出力
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="GAN">GAN関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/118026295-9e2d3e00-b39b-11eb-830f-9bd82ad48369.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/RO-GAN-using-Lightweight-GAN">[RO-GAN-using-Lightweight-GAN-examples]</a><br>
+            Lightweight GANを用いてラグナロクオンラインのキャラクター画像を生成するGAN<br>
         </td>
     </tr>
     <tr>
