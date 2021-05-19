@@ -256,6 +256,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/tf-keras-applications-cifar10-example">[tf-keras-applications-cifar10-example]</a><br>
+            Tensorflow Keras applicationsを用いてCIFAR10を学習する例
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="GAN">GAN関連</a>　<a href="#Repositories">🔙</a>
         </th>
