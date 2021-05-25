@@ -744,7 +744,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD">[hand-detection-2class-MobilenetV1-SSD]</a><br>
-            MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)<br>
+            MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル<br>(TensorflowLite、Tensorflowjs、CoreML)<br>
         </td>
     </tr>
     <tr>
