@@ -566,7 +566,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/desktopdraw-use-dxlib">[desktopdraw-use-dxlib]</a><br>
-            デスクトップ上に図形やテキストを重畳表示 ※DXライブラリ(C# DLL版)をPythonから利用<br>
+            デスクトップ上に図形やテキストを重畳表示 <br>※DXライブラリ(C# DLL版)をPythonから利用<br>
         </td>
     </tr>
     <tr>
