@@ -506,6 +506,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/119854349-f8a5cd00-bf4b-11eb-9b55-4a4d59c047f1.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/image-capture-class-annotation">[image-capture-class-annotation]</a><br>
+            領域を指定し、キーを入力することで画像を保存するツール<br>クラス分類用のデータセット作成を想定<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvSample">OpenCV：実装サンプル</a>　<a href="#Repositories">🔙</a>
         </th>
