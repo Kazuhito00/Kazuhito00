@@ -331,7 +331,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
             Neural Network ConsoleでKaggleのタイタニックを学習するサンプル<br>
-            以下をを含みます<br>
             ・前処理(Jupyter Notebook)<br>・学習・モデル構造自動探索(Neural Network Console)<br>・ONNX推論(Jupyter Notebook)<br>
         </td>
     </tr>
@@ -342,7 +341,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-MNIST-Sample">[NeuralNetworkConsole-MNIST-Sample]</a><br>
             Neural Network ConsoleでMNISTを学習するサンプル<br>
-            以下をを含みます<br>
             ・MNISTデータセットダウンロード(Jupyter Notebook)<br>・学習・モデル構造自動探索(Neural Network Console)<br>・ONNX推論(Jupyter Notebook)
         </td>
     </tr>
