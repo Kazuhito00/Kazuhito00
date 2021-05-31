@@ -265,6 +265,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/120185356-0b224e00-c24d-11eb-9e02-cc53e7f633d3.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/7segment-display-reader">[7segment-display-reader]</a><br>
+            7セグメントディスプレイの数値を認識するプログラム
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="GAN">GAN関連</a>　<a href="#Repositories">🔙</a>
         </th>
