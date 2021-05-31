@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- May 31 - [7セグメント画像識別🦔](https://kazuhito00.hatenablog.com/entry/2021/05/31/204526)
 - May 31 - [【OSC2021 Online Nagoya】Pythonパッケージ版のMediaPipeが超お手軽 (実演デモ版) ＋ MediaPipe Armビルド爆誕](https://kazuhito00.hatenablog.com/entry/2021/05/31/193357)
 - May 13 - [ラグナロクオンラインのキャラクターを生成するGAN👾](https://kazuhito00.hatenablog.com/entry/2021/05/13/222919)
 - May 12 - [7セグメント表示の画像生成ツール👻](https://kazuhito00.hatenablog.com/entry/2021/05/13/024207)
 - May 11 - [MediaPipe 0.8.4.2でBlazePose GHUM 3Dが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/05/12/031904)
-- May 02 - [PlantUMLの見た目系Tips。覚書いろいろ🦔](https://kazuhito00.hatenablog.com/entry/2021/05/02/210550)
 <!-- feed end -->
 
 ### How to reach me
