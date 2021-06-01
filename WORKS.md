@@ -15,7 +15,16 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/115014148-e8321980-9eec-11eb-9292-85f2ff9e7227.jpg" width="200px"></a>
+            <a href="https://axross-recipe.com/recipes/196"><img src="https://user-images.githubusercontent.com/37477845/120345092-21a3d480-c335-11eb-8f5e-87d08e6d7b5b.gif" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/196">Raspberry piでリアルタイムにディスプレイを読み取るレシピ</a>」を寄稿しました。
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <a href="https://axross-recipe.com/recipes/158"><img src="https://user-images.githubusercontent.com/37477845/115014148-e8321980-9eec-11eb-9292-85f2ff9e7227.jpg" width="200px"></a>
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
