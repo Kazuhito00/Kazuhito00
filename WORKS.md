@@ -726,6 +726,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/120523202-9a2b9380-c410-11eb-9589-bc30892fae3f.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Unity-Barracuda-Objectron-WebGL">[Unity-Barracuda-Objectron-WebGL]</a><br>
+            Unity BarracudaでMediaPipe Objectron(Shoe)を動作させるサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="JupyterNotebook">Jupyte Notebook関連</a>　<a href="#Repositories">🔙</a>
         </th>
