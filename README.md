@@ -12,7 +12,7 @@
 ### Works
 リポジトリ一覧、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。<br>
 ※画像を多く使用しており通信量が多くなる懸念があるため、モバイル回線や通信料従量制の方はご注意ください<br>　また、サムネイルの画像が小さいため、PCでの閲覧を推奨しています<br>
-Please refer to "WORKS.md" for the list of repositories and contributions.<br>
+Please refer to "[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)" for the list of repositories and contributions.<br>
 Because many images are used and there is a concern that the amount of communication will increase, <br>
 please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
 Also, since the thumbnail image is small, we recommend viewing it on a PC.
