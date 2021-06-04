@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jun 04 - [MediaPipe 0.8.5でSelfie Segmentationが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/06/05/082330)
 - Jun 02 - [Unity Barracuda：MediaPipe Objectron(Shoe)をWebGL上でお試し🦔](https://kazuhito00.hatenablog.com/entry/2021/06/03/023953)
 - Jun 02 - [マウスクリックで円指定＆極座標変換⌚](https://kazuhito00.hatenablog.com/entry/2021/06/03/000048)
 - May 31 - [Raspberry Pi4 でPythonパッケージ版MediaPipeの速度確認🦔](https://kazuhito00.hatenablog.com/entry/2021/06/01/003656)
 - May 31 - [7セグメント画像識別🦔](https://kazuhito00.hatenablog.com/entry/2021/05/31/204526)
-- May 31 - [【OSC2021 Online Nagoya】Pythonパッケージ版のMediaPipeが超お手軽 (実演デモ版) ＋ MediaPipe Armビルド爆誕](https://kazuhito00.hatenablog.com/entry/2021/05/31/193357)
 <!-- feed end -->
 
 ### How to reach me
