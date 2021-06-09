@@ -175,6 +175,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/121361039-e4ac9300-c96f-11eb-81f5-d8ee3c08bd16.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/TFLite-ModelMaker-EfficientDet-Colab-Hands-On">[TFLite-ModelMaker-EfficientDet-Colab-Hands-On]</a><br>
+            TensorFlow Lite Model Makerで物体検出を行うハンズオン用資料<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
