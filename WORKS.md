@@ -859,7 +859,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122236282-57ca8200-cef9-11eb-9691-eea0a44d5461.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/amzqr4lambda">[amzqr4lambda]</a><br>
@@ -868,7 +868,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122236282-57ca8200-cef9-11eb-9691-eea0a44d5461.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PyCaret-Learn]</a><br>
