@@ -862,6 +862,15 @@
             <img src="https://user-images.githubusercontent.com/37477845/110469949-9e038e80-811d-11eb-8b18-272e82c4ccd6.png" width="200px">
         </td>
         <td>
+            <a href="https://github.com/Kazuhito00/amzqr4lambda">[amzqr4lambda]</a><br>
+            Amazing-QRをAWS Lambda上で動かしたサンプル<br>Amazing-QRを用いて画像ファイルやアニメGifを用いたQRコードが作成可能<br>※埋め込める情報は半角英数字<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122236282-57ca8200-cef9-11eb-9691-eea0a44d5461.gif" width="200px">
+        </td>
+        <td>
             <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PyCaret-Learn]</a><br>
             PyCaret(1.0)を使用したデータ分析の勉強記録<br>
         </td>
