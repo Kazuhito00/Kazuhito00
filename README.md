@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jun 16 - [Amazing-QRをAWS Lambda上で動かしてみたデモ🦔](https://kazuhito00.hatenablog.com/entry/2021/06/17/014119)
 - Jun 09 - [【TensorFlow Lite】Model Makerを使用したEfficientDet-Liteの訓練と推論🦔](https://kazuhito00.hatenablog.com/entry/2021/06/10/014413)
 - Jun 04 - [MediaPipe 0.8.5でSelfie Segmentationが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/06/05/082330)
 - Jun 02 - [Unity Barracuda：MediaPipe Objectron(Shoe)をWebGL上でお試し🦔](https://kazuhito00.hatenablog.com/entry/2021/06/03/023953)
 - Jun 02 - [マウスクリックで円指定＆極座標変換⌚](https://kazuhito00.hatenablog.com/entry/2021/06/03/000048)
-- May 31 - [Raspberry Pi4 でPythonパッケージ版MediaPipeの速度確認🦔](https://kazuhito00.hatenablog.com/entry/2021/06/01/003656)
 <!-- feed end -->
 
 ### How to reach me
