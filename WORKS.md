@@ -808,7 +808,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/generate-1characters-qr">[generate-1characters-qr]</a><br>
-            QRコード保持情報とは別に、文字(アルファベット・数字・記号)を描画したQRコードを生成<br>管理タグ等にご使用ください<br>
+            QRコード保持情報とは別に、文字(アルファベット・数字・記号)を描画したQRコードを生成<br>管理タグ等にご使用ください<br>Amazing-QRを使用しています
         </td>
     </tr>
     <tr>
