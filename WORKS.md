@@ -77,6 +77,7 @@
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
 * <a href="#PlantUML">PlantUML関連</a>
+* <a href="#QRCode">QRコード関連</a>
 * <a href="#Neta">ネタアプリ</a>
 * <a href="#Qiita">Qiita関連</a>
 * <a href="#TensorFlow1">TensorFlow 1.x関連</a>
@@ -789,6 +790,29 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
+            <a name="QRCode">QRコード関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122236282-57ca8200-cef9-11eb-9691-eea0a44d5461.gif" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/amzqr4lambda">[amzqr4lambda]</a><br>
+            Amazing-QRをAWS Lambda上で動かしたサンプル<br>Amazing-QRを用いて画像ファイルやアニメGifを用いたQRコードが作成可能<br>※埋め込める情報は半角英数字<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122433251-02fa3a80-cfd1-11eb-9c6c-a85354465338.png" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/generate-1characters-qr">[generate-1characters-qr]</a><br>
+            QRコード保持情報とは別に、文字(アルファベット・数字・記号)を描画したQRコードを生成<br>管理タグ等にご使用ください<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
             <a name="Neta">ネタアプリ</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
@@ -856,15 +880,6 @@
         <th align="left" colspan="2">
             <a name="Other">その他</a>　<a href="#Repositories">🔙</a>
         </th>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122236282-57ca8200-cef9-11eb-9691-eea0a44d5461.gif" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/amzqr4lambda">[amzqr4lambda]</a><br>
-            Amazing-QRをAWS Lambda上で動かしたサンプル<br>Amazing-QRを用いて画像ファイルやアニメGifを用いたQRコードが作成可能<br>※埋め込める情報は半角英数字<br>
-        </td>
     </tr>
     <tr>
         <td width="220">
