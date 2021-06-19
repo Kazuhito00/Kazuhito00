@@ -519,7 +519,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628365-a0985b80-d0f0-11eb-9c1a-039c2d6cf1f7.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629881-0a1d6780-d0fb-11eb-822a-52c868c21b57.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/GrabCut-Tool">[GrabCut-Tool]</a><br>
@@ -528,7 +528,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628368-a42be280-d0f0-11eb-97a5-20c3595f200b.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122630056-1fdf5c80-d0fc-11eb-9efb-6989dfe440c3.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mouseselect-screenshot-windows">[mouseselect-screenshot-windows]</a><br>
