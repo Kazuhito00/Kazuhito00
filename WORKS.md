@@ -546,7 +546,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628370-a8f09680-d0f0-11eb-97bb-7b810afa4fa1.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629882-0b4e9480-d0fb-11eb-8007-efe508345893.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/image-capture-class-annotation">[image-capture-class-annotation]</a><br>
@@ -578,7 +578,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628391-bdcd2a00-d0f0-11eb-88da-dc1f05644567.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629883-0be72b00-d0fb-11eb-8de2-72fe796ec0be.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cv-warpPolar-example">[cv-warpPolar-example]</a><br>
@@ -587,7 +587,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628398-c45ba180-d0f0-11eb-957e-a0ea0e1aa44f.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629885-0d185800-d0fb-11eb-830d-edd2f537899d.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/click-warpPolar">[click-warpPolar]</a><br>
@@ -610,7 +610,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628411-d3425400-d0f0-11eb-9bc9-d27a0d36c5da.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629890-0e498500-d0fb-11eb-8d1d-382b47c2fb25.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/opencv2webslides-sample">[opencv2webslides-sample]</a><br>
