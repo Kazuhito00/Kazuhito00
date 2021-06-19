@@ -160,7 +160,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628259-151eca80-d0f0-11eb-8ff0-76dc993f54a1.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629859-fd990f00-d0fa-11eb-814f-7f300b826fc1.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/FaceDetection-Image-Overlay">[FaceDetection-Image-Overlay]</a><br>
@@ -169,7 +169,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628266-1e0f9c00-d0f0-11eb-9d71-5a437c7ab8ed.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629863-0093ff80-d0fb-11eb-98a9-7f8841973725.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/object-detection-bbox-art">[object-detection-bbox-art]</a><br>
@@ -219,7 +219,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628302-544d1b80-d0f0-11eb-8997-16448fc2bc5e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629869-04c01d00-d0fb-11eb-995e-89f9f500f441.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/simple-virtual-mouse-using-mediapipe">[simple-virtual-mouse-using-mediapipe]</a><br>
@@ -437,7 +437,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628348-90807c00-d0f0-11eb-9a90-c38964c9fd07.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629878-08ec3a80-d0fb-11eb-9d1f-7603d269cbf2.gif" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cv-comparison-slider-window">[cv-comparison-slider-window]</a><br>
