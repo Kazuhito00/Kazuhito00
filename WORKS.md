@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://axross-recipe.com/recipes/196"><img src="https://user-images.githubusercontent.com/37477845/122628231-f6203880-d0ef-11eb-8941-7e0f9f3019ed.gif" width="200px"></a>
+            <a href="https://axross-recipe.com/recipes/196"><img src="https://user-images.githubusercontent.com/37477845/122628231-f6203880-d0ef-11eb-8941-7e0f9f3019ed.gif" loading="lazy" width="200px"></a>
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://axross-recipe.com/recipes/158"><img src="https://user-images.githubusercontent.com/37477845/122628237-fe787380-d0ef-11eb-92f9-d98308ed3722.jpg" width="200px"></a>
+            <a href="https://axross-recipe.com/recipes/158"><img src="https://user-images.githubusercontent.com/37477845/122628237-fe787380-d0ef-11eb-92f9-d98308ed3722.jpg" loading="lazy" width="200px"></a>
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/122628238-fe787380-d0ef-11eb-9c76-901aefdfc5b0.jpg" width="200px"></a>
+            <a href="https://axross-recipe.com/recipes/136"><img src="https://user-images.githubusercontent.com/37477845/122628238-fe787380-d0ef-11eb-9c76-901aefdfc5b0.jpg" loading="lazy" width="200px"></a>
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/122628239-ff110a00-d0ef-11eb-846a-9e4703f08551.jpg" width="200px"></a>
+            <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/122628239-ff110a00-d0ef-11eb-846a-9e4703f08551.jpg" loading="lazy" width="200px"></a>
         </td>
         <td>
              からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」<br>
@@ -92,7 +92,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628240-ff110a00-d0ef-11eb-8caf-cb3dba6ffdd6.jpg" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628240-ff110a00-d0ef-11eb-8caf-cb3dba6ffdd6.jpg" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2021">[presentation-2021]</a><br>
@@ -101,7 +101,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628241-ffa9a080-d0ef-11eb-886a-f02d20696000.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628241-ffa9a080-d0ef-11eb-886a-f02d20696000.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2020">[presentation-2020]</a><br>
@@ -110,7 +110,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628242-00423700-d0f0-11eb-86d9-21268dea834a.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628242-00423700-d0f0-11eb-86d9-21268dea834a.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2019">[presentation-2019]</a><br>
@@ -124,7 +124,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628243-00423700-d0f0-11eb-84a8-e3c166690fdc.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628243-00423700-d0f0-11eb-84a8-e3c166690fdc.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">[NARUTO-HandSignDetection]</a><br>
@@ -133,7 +133,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628247-09330880-d0f0-11eb-9110-e993743a5adf.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628247-09330880-d0f0-11eb-9110-e993743a5adf.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">[Tensorflow2-ObjectDetectionAPI-Colab-Hands-On]</a><br>
@@ -142,7 +142,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628251-0cc68f80-d0f0-11eb-93c3-7fcab40d65e1.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628251-0cc68f80-d0f0-11eb-93c3-7fcab40d65e1.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/FingerFrameDetection-TF2">[FingerFrameDetection-TF2]</a><br>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628253-118b4380-d0f0-11eb-8233-7bb8930ad578.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628253-118b4380-d0f0-11eb-8233-7bb8930ad578.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/FingerFrameLens">[FingerFrameLens]</a><br>
@@ -160,7 +160,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629859-fd990f00-d0fa-11eb-814f-7f300b826fc1.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629859-fd990f00-d0fa-11eb-814f-7f300b826fc1.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/FaceDetection-Image-Overlay">[FaceDetection-Image-Overlay]</a><br>
@@ -169,7 +169,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629863-0093ff80-d0fb-11eb-98a9-7f8841973725.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629863-0093ff80-d0fb-11eb-98a9-7f8841973725.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/object-detection-bbox-art">[object-detection-bbox-art]</a><br>
@@ -178,7 +178,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628276-32539900-d0f0-11eb-82ff-fc0866048b10.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628276-32539900-d0f0-11eb-82ff-fc0866048b10.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/TFLite-ModelMaker-EfficientDet-Colab-Hands-On">[TFLite-ModelMaker-EfficientDet-Colab-Hands-On]</a><br>
@@ -192,7 +192,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628277-32ec2f80-d0f0-11eb-865c-d21400a0bbef.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628277-32ec2f80-d0f0-11eb-865c-d21400a0bbef.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mediapipe-python-sample">[mediapipe-python-sample]</a><br>
@@ -201,7 +201,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628284-3b446a80-d0f0-11eb-8d07-af9845b9a326.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628284-3b446a80-d0f0-11eb-8d07-af9845b9a326.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe">[hand-gesture-recognition-using-mediapipe]</a><br>
@@ -210,7 +210,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628295-4b5c4a00-d0f0-11eb-93b6-f1ccf9b3101d.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628295-4b5c4a00-d0f0-11eb-93b6-f1ccf9b3101d.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/iris-detection-using-py-mediapipe">[iris-detection-using-py-mediapipe]</a><br>
@@ -219,7 +219,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629869-04c01d00-d0fb-11eb-995e-89f9f500f441.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629869-04c01d00-d0fb-11eb-995e-89f9f500f441.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/simple-virtual-mouse-using-mediapipe">[simple-virtual-mouse-using-mediapipe]</a><br>
@@ -233,7 +233,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/tensorflow2-keras-learn">[tensorflow2-keras-learn]</a><br>
@@ -242,7 +242,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/ImageDataGenerator-examples">[ImageDataGenerator-examples]</a><br>
@@ -251,7 +251,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628312-5f07b080-d0f0-11eb-87d5-c9c994dfea5b.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628312-5f07b080-d0f0-11eb-87d5-c9c994dfea5b.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/tf2-keras-explain-examples">[tf2-keras-explain-examples]</a><br>
@@ -260,7 +260,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628313-5fa04700-d0f0-11eb-9d1c-f5894d0fd261.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628313-5fa04700-d0f0-11eb-9d1c-f5894d0fd261.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mnist-sample-using-tf-simple-metric-learning">[mnist-sample-using-tf-simple-metric-learning]</a><br>
@@ -269,7 +269,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628314-5fa04700-d0f0-11eb-93a9-3d00141e4de5.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628314-5fa04700-d0f0-11eb-93a9-3d00141e4de5.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
@@ -278,7 +278,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/tf-keras-applications-cifar10-example">[tf-keras-applications-cifar10-example]</a><br>
@@ -287,7 +287,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628317-6464fb00-d0f0-11eb-829c-3582fd5e3721.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628317-6464fb00-d0f0-11eb-829c-3582fd5e3721.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/7segment-display-reader">[7segment-display-reader]</a><br>
@@ -296,7 +296,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628322-70e95380-d0f0-11eb-8d1e-41ef9791464d.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628322-70e95380-d0f0-11eb-8d1e-41ef9791464d.gif" loading="lazy" width="200px">
 ![0025]()
         </td>
         <td>
@@ -311,7 +311,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628324-75157100-d0f0-11eb-9ca4-458b80150a6f.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628324-75157100-d0f0-11eb-9ca4-458b80150a6f.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/RO-GAN-using-Lightweight-GAN">[RO-GAN-using-Lightweight-GAN-examples]</a><br>
@@ -325,7 +325,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/albumentations-examples">[albumentations-examples]</a><br>
@@ -334,7 +334,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628328-79da2500-d0f0-11eb-8356-62a01cf8231c.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628328-79da2500-d0f0-11eb-8356-62a01cf8231c.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mixup">[mixup]</a><br>
@@ -343,7 +343,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628329-7a72bb80-d0f0-11eb-9005-747f595f8aae.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628329-7a72bb80-d0f0-11eb-9005-747f595f8aae.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cutmix">[cutmix]</a><br>
@@ -352,7 +352,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/nlpaug-examples">[nlpaug-examples]</a><br>
@@ -366,7 +366,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629872-0689e080-d0fb-11eb-9500-16884cea2e25.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629872-0689e080-d0fb-11eb-9500-16884cea2e25.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-Titanic-Sample">[NeuralNetworkConsole-Titanic-Sample]</a><br>
@@ -376,7 +376,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628334-81013300-d0f0-11eb-80b5-abc6872b74b0.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628334-81013300-d0f0-11eb-80b5-abc6872b74b0.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-MNIST-Sample">[NeuralNetworkConsole-MNIST-Sample]</a><br>
@@ -391,7 +391,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cvdrawtext">[cvdrawtext]</a><br>
@@ -400,7 +400,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cvoverlayimg">[cvoverlayimg]</a><br>
@@ -409,7 +409,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cvfpscalc">[cvfpscalc]</a><br>
@@ -418,7 +418,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/76235541-94c3b580-626e-11ea-803b-aa9e82aea324.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/76235541-94c3b580-626e-11ea-803b-aa9e82aea324.gif" loading="lazy" width="200px">
 <!-- ![0036](https://user-images.githubusercontent.com/37477845/122628342-852d5080-d0f0-11eb-93f2-03f315202b0b.gif) -->
         </td>
         <td>
@@ -428,7 +428,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628345-8b233180-d0f0-11eb-9924-401455471e4e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628345-8b233180-d0f0-11eb-9924-401455471e4e.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cv-picture-in-picture-window">[cv-picture-in-picture-window]</a><br>
@@ -437,7 +437,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629878-08ec3a80-d0fb-11eb-9d1f-7603d269cbf2.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629878-08ec3a80-d0fb-11eb-9d1f-7603d269cbf2.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cv-comparison-slider-window">[cv-comparison-slider-window]</a><br>
@@ -451,7 +451,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628355-9d9d6b00-d0f0-11eb-84c5-62396761a0d2.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628355-9d9d6b00-d0f0-11eb-84c5-62396761a0d2.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Kuwahara-Filter">[Kuwahara-Filter]</a><br>
@@ -460,7 +460,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628359-9d9d6b00-d0f0-11eb-9610-dba028066343.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628359-9d9d6b00-d0f0-11eb-9610-dba028066343.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Polygon-Filter">[Polygon-Filter]</a><br>
@@ -469,7 +469,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628360-9e360180-d0f0-11eb-95d3-f2c22f207dae.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628360-9e360180-d0f0-11eb-95d3-f2c22f207dae.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/XDoG-OpenCV-Sample">[XDoG-OpenCV-Sample]</a><br>
@@ -478,7 +478,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628361-9ece9800-d0f0-11eb-8912-bdd18bdde810.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628361-9ece9800-d0f0-11eb-8912-bdd18bdde810.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/color-equalize-hist-sample">[color-equalize-hist-sample]</a><br>
@@ -492,7 +492,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/movie2jpg">[movie2jpg]</a><br>
@@ -501,7 +501,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://img.youtube.com/vi/R-w-efaOKbY/0.jpg" width="200px">
+            <img src="https://img.youtube.com/vi/R-w-efaOKbY/0.jpg" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hsv-mask-extracter">[hsv-mask-extracter]</a><br>
@@ -510,7 +510,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628364-9fffc500-d0f0-11eb-9fbc-1ccc9a730e2f.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628364-9fffc500-d0f0-11eb-9fbc-1ccc9a730e2f.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/image-mask-replace">[image-mask-replace]</a><br>
@@ -519,7 +519,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629881-0a1d6780-d0fb-11eb-822a-52c868c21b57.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629881-0a1d6780-d0fb-11eb-822a-52c868c21b57.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/GrabCut-Tool">[GrabCut-Tool]</a><br>
@@ -528,7 +528,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122630056-1fdf5c80-d0fc-11eb-9efb-6989dfe440c3.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122630056-1fdf5c80-d0fc-11eb-9efb-6989dfe440c3.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mouseselect-screenshot-windows">[mouseselect-screenshot-windows]</a><br>
@@ -537,7 +537,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628369-a8580000-d0f0-11eb-8dde-990f2222b621.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628369-a8580000-d0f0-11eb-8dde-990f2222b621.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/7seg-image-generator">[7seg-image-generator]</a><br>
@@ -546,7 +546,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629882-0b4e9480-d0fb-11eb-8007-efe508345893.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629882-0b4e9480-d0fb-11eb-8007-efe508345893.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/image-capture-class-annotation">[image-capture-class-annotation]</a><br>
@@ -560,7 +560,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/OpenCV-readNetFromTensorflow-sample">[OpenCV-readNetFromTensorflow-sample]</a><br>
@@ -569,7 +569,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628376-ad1cb400-d0f0-11eb-89f0-a5ed4b5e8f37.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628376-ad1cb400-d0f0-11eb-89f0-a5ed4b5e8f37.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/click-warp-perspective">[click-warp-perspective]</a><br>
@@ -578,7 +578,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629883-0be72b00-d0fb-11eb-8de2-72fe796ec0be.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629883-0be72b00-d0fb-11eb-8de2-72fe796ec0be.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/cv-warpPolar-example">[cv-warpPolar-example]</a><br>
@@ -587,7 +587,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629885-0d185800-d0fb-11eb-830d-edd2f537899d.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629885-0d185800-d0fb-11eb-830d-edd2f537899d.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/click-warpPolar">[click-warpPolar]</a><br>
@@ -601,7 +601,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628404-caea1900-d0f0-11eb-9695-13f850608b19.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628404-caea1900-d0f0-11eb-9695-13f850608b19.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/opencv2eel-sample">[opencv2eel-sample]</a><br>
@@ -610,7 +610,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629890-0e498500-d0fb-11eb-8d1d-382b47c2fb25.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629890-0e498500-d0fb-11eb-8d1d-382b47c2fb25.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/opencv2webslides-sample">[opencv2webslides-sample]</a><br>
@@ -619,7 +619,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628415-d76e7180-d0f0-11eb-866e-553c4667cd53.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628415-d76e7180-d0f0-11eb-866e-553c4667cd53.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/desktopdraw-use-dxlib">[desktopdraw-use-dxlib]</a><br>
@@ -633,7 +633,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628423-de957f80-d0f0-11eb-9416-9f40e0b72df6.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628423-de957f80-d0f0-11eb-9416-9f40e0b72df6.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Quad-Shader-Learn">[Unity-Quad-Shader-Learn]</a><br>
@@ -642,7 +642,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-WebCamTexture-WebGL-Sample">[Unity-WebCamTexture-WebGL-Sample]</a><br>
@@ -651,7 +651,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628426-df2e1600-d0f0-11eb-893f-14e764ab3a1a.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628426-df2e1600-d0f0-11eb-893f-14e764ab3a1a.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-VideoPlayer-WebGL-Sample">[Unity-VideoPlayer-WebGL-Sample]</a><br>
@@ -660,7 +660,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629891-0f7ab200-d0fb-11eb-9461-7b73063d9b67.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629891-0f7ab200-d0fb-11eb-9461-7b73063d9b67.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-MousePaint-WebGL-Sample">[Unity-MousePaint-WebGL-Sample]</a><br>
@@ -669,7 +669,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629986-ad6e7c80-d0fb-11eb-8cdd-866c13d3415f.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629986-ad6e7c80-d0fb-11eb-8cdd-866c13d3415f.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample">[Unity-Barracuda-MNIST-WebGL-Sample]</a><br>
@@ -678,7 +678,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629892-10134880-d0fb-11eb-8033-f70d1adeae4e.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629892-10134880-d0fb-11eb-8033-f70d1adeae4e.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-MobileNet-WebGL-Sample">[Unity-Barracuda-MobileNet-WebGL-Sample]</a><br>
@@ -687,7 +687,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628437-ebb26e80-d0f0-11eb-85eb-43d5b7d3aca4.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628437-ebb26e80-d0f0-11eb-85eb-43d5b7d3aca4.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-TinyYoloV2-WebGL-Sample">[Unity-Barracuda-TinyYoloV2-WebGL-Sample]</a><br>
@@ -696,7 +696,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628438-eead5f00-d0f0-11eb-9adb-12688d7840fb.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628438-eead5f00-d0f0-11eb-9adb-12688d7840fb.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-MediaPipeJs-SendMessage-WebGL-Sample">[Unity-MediaPipeJs-SendMessage-WebGL-Sample]</a><br>
@@ -705,7 +705,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/110242874-5654f980-7f9b-11eb-911a-899375c100e9.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/110242874-5654f980-7f9b-11eb-911a-899375c100e9.gif" loading="lazy" width="200px">
 <!--![0064](https://user-images.githubusercontent.com/37477845/122628444-f79e3080-d0f0-11eb-995a-617433ef7e68.gif)-->
         </td>
         <td>
@@ -715,7 +715,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629894-1275a280-d0fb-11eb-9440-8b737c47fab5.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629894-1275a280-d0fb-11eb-9440-8b737c47fab5.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-SpellRestoration">[Unity-SpellRestoration]</a><br>
@@ -724,7 +724,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628447-fb31b780-d0f0-11eb-8a5f-875d2f3c5145.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628447-fb31b780-d0f0-11eb-8a5f-875d2f3c5145.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-SingleHandLocalization-WebGL">[Unity-Barracuda-SingleHandLocalization-WebGL]</a><br>
@@ -733,7 +733,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629896-130e3900-d0fb-11eb-8611-3e10064afe75.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122629896-130e3900-d0fb-11eb-8611-3e10064afe75.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Presentation-using-DOTween">[Unity-Presentation-using-DOTween]</a><br>
@@ -742,7 +742,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628452-04228900-d0f1-11eb-9748-46e203fab583.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628452-04228900-d0f1-11eb-9748-46e203fab583.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-Objectron-WebGL">[Unity-Barracuda-Objectron-WebGL]</a><br>
@@ -756,7 +756,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Jupyter-VideoCapture-Demo">[Jupyter-VideoCapture-Demo]</a><br>
@@ -770,7 +770,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Google-Colab-Julia">[Google-Colab-Julia]</a><br>
@@ -784,7 +784,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628455-0a186a00-d0f1-11eb-925e-a4e63580ac81.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628455-0a186a00-d0f1-11eb-925e-a4e63580ac81.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PlantUML-ColorSet-Example]</a><br>
@@ -798,7 +798,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628456-0a186a00-d0f1-11eb-95ce-7c843651181b.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628456-0a186a00-d0f1-11eb-95ce-7c843651181b.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/amzqr4lambda">[amzqr4lambda]</a><br>
@@ -807,7 +807,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628459-0dabf100-d0f1-11eb-94bf-33b68d320d6b.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628459-0dabf100-d0f1-11eb-94bf-33b68d320d6b.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/generate-1characters-qr">[generate-1characters-qr]</a><br>
@@ -821,7 +821,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/121928043-b87f8080-cd7a-11eb-8ce5-046e4fb67600.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/121928043-b87f8080-cd7a-11eb-8ce5-046e4fb67600.gif" loading="lazy" width="200px">
 <!--![0074](https://user-images.githubusercontent.com/37477845/122628460-0e448780-d0f1-11eb-96f9-a426e6f50cfa.gif)-->
         </td>
         <td>
@@ -836,7 +836,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628461-0f75b480-d0f1-11eb-812f-3f9bad34e446.gif" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628461-0f75b480-d0f1-11eb-812f-3f9bad34e446.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV">[Qiita-AdventCalendar-20201212-OpenCV]</a><br>
@@ -850,7 +850,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628463-169cc280-d0f1-11eb-97a9-cf33727c2e4f.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628463-169cc280-d0f1-11eb-97a9-cf33727c2e4f.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-detection-3class-MobilenetV2-SSDLite">[hand-detection-3class-MobilenetV2-SSDLite]</a><br>
@@ -859,7 +859,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628464-169cc280-d0f1-11eb-9e14-99bd1764acd5.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628464-169cc280-d0f1-11eb-9e14-99bd1764acd5.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/hand-detection-2class-MobilenetV1-SSD">[hand-detection-2class-MobilenetV1-SSD]</a><br>
@@ -873,7 +873,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/kaggle-memo">[kaggle-memo]</a><br>
@@ -887,7 +887,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/PlantUML-ColorSet-Example">[PyCaret-Learn]</a><br>
@@ -896,7 +896,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628467-17cdef80-d0f1-11eb-9c13-f04a5bac310c.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628467-17cdef80-d0f1-11eb-9c13-f04a5bac310c.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/pyboy-gbdk-examples">[pyboy-gbdk-examples]</a><br>
@@ -905,7 +905,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/SendGrid-Colaboratory">[SendGrid-Colaboratory]</a><br>
