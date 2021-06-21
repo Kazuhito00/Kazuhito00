@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jun 21 - [外付け180度魚眼アタッチメント購入 & 魚眼レンズキャリブレーションサンプル📷](https://kazuhito00.hatenablog.com/entry/2021/06/22/011118)
 - Jun 19 - [ELP グローバルシャッター 60FPS モノクロ USB Webカメラ 買いました📷](https://kazuhito00.hatenablog.com/entry/2021/06/19/135727)
 - Jun 17 - [ロジクール StreamCam C980GRを買いました📷](https://kazuhito00.hatenablog.com/entry/2021/06/17/234315)
 - Jun 16 - [Amazing-QRをAWS Lambda上で動かしてみたデモ🦔](https://kazuhito00.hatenablog.com/entry/2021/06/17/014119)
 - Jun 09 - [【TensorFlow Lite】Model Makerを使用したEfficientDet-Liteの訓練と推論🦔](https://kazuhito00.hatenablog.com/entry/2021/06/10/014413)
-- Jun 04 - [MediaPipe 0.8.5でSelfie Segmentationが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/06/05/082330)
 <!-- feed end -->
 
 ### How to reach me
