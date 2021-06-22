@@ -601,7 +601,7 @@
         <td>
             <a href="https://github.com/Kazuhito00/OpenCV-CameraCalibration-Example">[OpenCV-CameraCalibration-Example]</a><br>
             OpenCVを用いたカメラキャリブレーションのサンプル<br>2021/06/21時点でPython実装のある3種類<br>
-            ※通常カメラ向け、魚眼レンズ向け(fisheyeモジュール)、全方位カメラ向け(omnidirモジュール)について用意<br>
+            ※通常カメラ向け、魚眼レンズ向け(fisheyeモジュール)、<br>全方位カメラ向け(omnidirモジュール)について用意<br>
         </td>
     </tr>
     <tr>
