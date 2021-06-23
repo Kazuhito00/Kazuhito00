@@ -329,7 +329,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/MonocularDepthEstimator-Simple-Calibration">[MonocularDepthEstimator-Simple-Calibration]</a><br>
-            単眼デプス推定で推定した相対距離をシンプルなキャリブレーションで絶対距離へ変換するプログラム<br>
+            単眼デプス推定で推定した相対距離をシンプルなキャリブレーションで絶対距離へ変換<br>
         </td>
     </tr>
     <tr>
