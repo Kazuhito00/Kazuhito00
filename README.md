@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jun 26 - [サンワダイレクトの360度Webカメラ(400-CAM084)を購入📷](https://kazuhito00.hatenablog.com/entry/2021/06/26/185139)
 - Jun 23 - [単眼デプス推定の推定結果(相対距離)を簡単にキャリブレーションする📷](https://kazuhito00.hatenablog.com/entry/2021/06/24/014743)
 - Jun 21 - [外付け180度魚眼アタッチメント購入 & 魚眼レンズキャリブレーションサンプル📷](https://kazuhito00.hatenablog.com/entry/2021/06/22/011118)
 - Jun 19 - [ELP グローバルシャッター 60FPS モノクロ USB Webカメラ 買いました📷](https://kazuhito00.hatenablog.com/entry/2021/06/19/135727)
 - Jun 17 - [ロジクール StreamCam C980GRを買いました📷](https://kazuhito00.hatenablog.com/entry/2021/06/17/234315)
-- Jun 16 - [Amazing-QRをAWS Lambda上で動かしてみたデモ🦔](https://kazuhito00.hatenablog.com/entry/2021/06/17/014119)
 <!-- feed end -->
 
 ### How to reach me
