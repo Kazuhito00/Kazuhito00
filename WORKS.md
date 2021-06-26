@@ -73,6 +73,7 @@
 * <a href="#OpenCvImageFilter">OpenCV：画像フィルタ</a>
 * <a href="#OpenCvDaTool">OpenCV：機械学習 データ作成向けツール</a>
 * <a href="#OpenCvSample">OpenCV：実装サンプル</a>
+* <a href="#OpenCvCamera">OpenCV：カメラユーティリティ</a>
 * <a href="#OpenCvOther">OpenCV：その他</a>
 * <a href="#Unity">Unity関連</a>
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
@@ -609,6 +610,11 @@
         </td>
     </tr>
     <tr>
+        <th align="left" colspan="2">
+            <a name="OpenCvCamera">OpenCV：カメラユーティリティ</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
         <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122791517-410a9d80-d2f4-11eb-83cc-84e9ddee5aca.gif" loading="lazy" width="200px">
         </td>
@@ -616,6 +622,15 @@
             <a href="https://github.com/Kazuhito00/OpenCV-CameraCalibration-Example">[OpenCV-CameraCalibration-Example]</a><br>
             OpenCVを用いたカメラキャリブレーションのサンプル<br>2021/06/21時点でPython実装のある3種類<br>
             ※通常カメラ向け、魚眼レンズ向け(fisheyeモジュール)、<br>全方位カメラ向け(omnidirモジュール)について用意<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/123509012-0b780280-d6ae-11eb-9218-70ce03919425.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/WindowUtilFor360WebCam">[WindowUtilFor360WebCam]</a><br>
+            サンワダイレクトの360度Webカメラ(400-CAM084)のウィンドウをOpenCVで分割するプログラム<br>
         </td>
     </tr>
     <tr>
