@@ -610,6 +610,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/124159958-b174a400-dad6-11eb-960e-36a38f09c3de.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/OpenCV-img_hash-Sample">[OpenCV-img_hash-Sample]</a><br>
+            Python版OpenCVのimg_hashモジュールを用いた画像ハッシュのサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvCamera">OpenCV：カメラユーティリティ</a>　<a href="#Repositories">🔙</a>
         </th>
