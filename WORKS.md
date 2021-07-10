@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/243"><img src="https://user-images.githubusercontent.com/37477845/125166925-e2409180-e1d8-11eb-8e90-3be2fdb39922.gif" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/243">Unityで靴の3D物体検出を行うレシピ</a>」を寄稿しました。
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/196"><img src="https://user-images.githubusercontent.com/37477845/122628231-f6203880-d0ef-11eb-8941-7e0f9f3019ed.gif" loading="lazy" width="200px"></a>
         </td>
         <td>
