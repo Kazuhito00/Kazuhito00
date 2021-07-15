@@ -628,6 +628,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/125824907-262caae7-b70c-4954-8002-92a7cb732ce6.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/OpenCV-Object-Tracker-Python-Sample">[OpenCV-Object-Tracker-Python-Sample]</a><br>
+            Python版OpenCVのTracking APIのサンプル<br>DaSiamRPNアルゴリズムまで対応<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvCamera">OpenCV：カメラユーティリティ</a>　<a href="#Repositories">🔙</a>
         </th>
