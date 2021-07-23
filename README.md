@@ -19,11 +19,11 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 23 - [MediaPipe 0.8.6でPose/HolisticでWorld座標が返ってくるようになりました🦔](https://kazuhito00.hatenablog.com/entry/2021/07/23/160911)
 - Jul 15 - [【Python】OpenCV Tracking API 比較サンプル + DaSiamRPNトラッカーサンプル](https://kazuhito00.hatenablog.com/entry/2021/07/16/021257)
 - Jul 02 - [【Python】OpenCV img_hashモジュールで画像ハッシュ計算・比較](https://kazuhito00.hatenablog.com/entry/2021/07/03/085830)
 - Jun 26 - [サンワダイレクトの360度Webカメラ(400-CAM084)を購入📷](https://kazuhito00.hatenablog.com/entry/2021/06/26/185139)
 - Jun 23 - [単眼デプス推定の推定結果(相対距離)を簡単にキャリブレーションする📷](https://kazuhito00.hatenablog.com/entry/2021/06/24/014743)
-- Jun 21 - [外付け180度魚眼アタッチメント購入 & 魚眼レンズキャリブレーションサンプル📷](https://kazuhito00.hatenablog.com/entry/2021/06/22/011118)
 <!-- feed end -->
 
 ### How to reach me
