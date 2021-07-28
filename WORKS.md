@@ -896,6 +896,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/127343523-6d77e63a-1136-460f-a42a-4dabbafa8651.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe">[Tokyo2020-Pictogram-using-MediaPipe]</a><br>
+            MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ。<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Qiita">Qiita関連</a>　<a href="#Repositories">🔙</a>
         </th>
