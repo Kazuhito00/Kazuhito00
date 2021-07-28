@@ -897,7 +897,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/127343523-6d77e63a-1136-460f-a42a-4dabbafa8651.gif" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/127344776-57e19756-bf28-4640-9346-c9c66bdea771.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe">[Tokyo2020-Pictogram-using-MediaPipe]</a><br>
