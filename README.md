@@ -26,6 +26,10 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 - Jun 26 - [サンワダイレクトの360度Webカメラ(400-CAM084)を購入📷](https://kazuhito00.hatenablog.com/entry/2021/06/26/185139)
 <!-- feed end -->
 
+### Gitstar Ranking
+「[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)」にてスター数の多いリポジトリが確認できます。<br>
+You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)".
+
 ### How to reach me
 何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.
 [<img src="https://img.shields.io/badge/-ffffff.svg?logo=twitter&style=flat">](https://twitter.com/KzhtTkhs)
