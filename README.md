@@ -17,6 +17,10 @@ Because many images are used and there is a concern that the amount of communica
 please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
 Also, since the thumbnail image is small, we recommend viewing it on a PC.
 
+### Gitstar Ranking
+「[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)」にてスター数の多いリポジトリが確認できます。<br>
+You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)".
+
 ### Recent Blog Posts
 <!-- feed start -->
 - Jul 28 - [MediaPipeでTokyo2020オリンピック風ピクトグラム🏃](https://kazuhito00.hatenablog.com/entry/2021/07/29/000135)
@@ -25,10 +29,6 @@ Also, since the thumbnail image is small, we recommend viewing it on a PC.
 - Jul 02 - [【Python】OpenCV img_hashモジュールで画像ハッシュ計算・比較](https://kazuhito00.hatenablog.com/entry/2021/07/03/085830)
 - Jun 26 - [サンワダイレクトの360度Webカメラ(400-CAM084)を購入📷](https://kazuhito00.hatenablog.com/entry/2021/06/26/185139)
 <!-- feed end -->
-
-### Gitstar Ranking
-「[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)」にてスター数の多いリポジトリが確認できます。<br>
-You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)".
 
 ### How to reach me
 何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.
