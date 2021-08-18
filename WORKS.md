@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/273"><img src="https://user-images.githubusercontent.com/37477845/129439289-a2c833f1-60a8-43e1-a3e7-c699505024b0.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/273">TensorFlow Kerasで時系列データの異常検知を行うレシピ</a>」を寄稿しました。
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/243"><img src="https://user-images.githubusercontent.com/37477845/125166925-e2409180-e1d8-11eb-8e90-3be2fdb39922.gif" loading="lazy" width="200px"></a>
         </td>
         <td>
