@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 20 - [Axross様への寄稿まとめ](https://kazuhito00.hatenablog.com/entry/2021/08/21/023631)
 - Aug 03 - [オリンピック風ピクトグラム：ネットメディア掲載 & OSS的な広がり](https://kazuhito00.hatenablog.com/entry/2021/08/03/234320)
 - Jul 28 - [MediaPipeでTokyo2020オリンピック風ピクトグラム🏃](https://kazuhito00.hatenablog.com/entry/2021/07/29/000135)
 - Jul 23 - [MediaPipe 0.8.6でPose/HolisticでWorld座標が返ってくるようになりました🦔](https://kazuhito00.hatenablog.com/entry/2021/07/23/160911)
 - Jul 15 - [【Python】OpenCV Tracking API 比較サンプル + DaSiamRPNトラッカーサンプル](https://kazuhito00.hatenablog.com/entry/2021/07/16/021257)
-- Jul 02 - [【Python】OpenCV img_hashモジュールで画像ハッシュ計算・比較](https://kazuhito00.hatenablog.com/entry/2021/07/03/085830)
 <!-- feed end -->
 
 ### How to reach me
