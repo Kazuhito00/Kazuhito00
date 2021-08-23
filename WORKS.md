@@ -324,6 +324,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/130483561-2a91bf72-3ce2-4651-a12f-c8ba2d6330e8.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/MoveNet-Python-Example">[MoveNet-Python-Example]</a><br>
+            MoveNetを用いたPythonでの姿勢推定のデモ
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="GAN">GAN関連</a>　<a href="#Repositories">🔙</a>
         </th>
