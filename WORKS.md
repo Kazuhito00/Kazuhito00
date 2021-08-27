@@ -1006,3 +1006,11 @@
         </td>
     </tr>
 </table>
+
+## Kaggle
+Kaggleで公開しているノートブックです。<br>
+自分用の覚書がメインです。<br>
+* [PyCaret-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret-binary-classification-titanic-sample)<br>PyCaret2.0でタイタニックを試したサンプルです。 Public Score:0.76794
+* [Titanic XGBoost using Julia-1.5.0](https://www.kaggle.com/kazuhito00/titanic-xgboost-using-julia-1-5-0)<br>KaggleノートブックにJuliaをインストールしタイタニックを試したサンプルです。 Public Score:0.72727
+* [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
+* [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
