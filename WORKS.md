@@ -492,7 +492,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/imread_from_url">[imread_from_url]</a><br>
-            指定されたURLから画像を読み取り、OpenCVで利用できる形式を返す関数<br>※pip利用可能
+            指定されたURLから画像を読み取り、OpenCV形式で返す関数<br>※pip利用可能
         </td>
     </tr>
     <tr>
