@@ -487,6 +487,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/imread_from_url">[imread_from_url]</a><br>
+            指定されたURLから画像を読み取り、OpenCVで利用できる形式を返す関数<br>※pip利用可能
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>　<a href="#Repositories">🔙</a>
         </th>
