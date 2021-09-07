@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 07 - [はじめてPyPI登録をしました🦔](https://kazuhito00.hatenablog.com/entry/2021/09/08/003017)
 - Sep 01 - [GrabCutを使用したアノテーションツールをPySimpleGUIで作りました🦔](https://kazuhito00.hatenablog.com/entry/2021/09/02/001114)
 - Aug 31 - [PyGitHubを用いてリポジトリの情報を取得して眺めてみた🦔](https://kazuhito00.hatenablog.com/entry/2021/09/01/005123)
 - Aug 24 - [MediaPipe 0.8.7でPoseにenable_segmentationオプションが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/08/24/224044)
 - Aug 23 - [MoveNetで複数人姿勢推定おためし🦔](https://kazuhito00.hatenablog.com/entry/2021/08/24/013821)
-- Aug 20 - [Axross様への寄稿まとめ](https://kazuhito00.hatenablog.com/entry/2021/08/21/023631)
 <!-- feed end -->
 
 ### How to reach me
