@@ -84,6 +84,7 @@
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#GAN">GAN関連</a>
+* <a href="#SemanticSegmentation">Semantic Segmentation関連</a>
 * <a href="#DepthEstimate">デプス推定関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
@@ -344,6 +345,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/RO-GAN-using-Lightweight-GAN">[RO-GAN-using-Lightweight-GAN-examples]</a><br>
             Lightweight GANを用いてラグナロクオンラインのキャラクター画像を生成するGAN<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="SemanticSegmentation">Semantic Segmentation関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/132936510-1d72ddfb-1618-48f4-af07-1041d0c85147.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Skin-Clothes-Hair-Segmentation-using-SMP">[Skin-Clothes-Hair-Segmentation-using-SMP]</a><br>
+            3クラス(肌、服、髪)のセマンティックセグメンテーションを実施するモデル<br>
         </td>
     </tr>
     <tr>
