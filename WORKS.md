@@ -290,6 +290,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/133308286-1bc93982-c129-47d4-9b82-2e3d500f06c1.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/TensorFlow-Similarity-MNIST-Sample">[TensorFlow-Similarity-MNIST-Sample]</a><br>
+            TensorFlow Similarity を用いてMNISTで距離学習を実施するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628314-5fa04700-d0f0-11eb-93a9-3d00141e4de5.gif" loading="lazy" width="200px">
         </td>
         <td>
