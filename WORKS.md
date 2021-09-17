@@ -207,6 +207,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/133838504-0d4db577-916a-4985-af11-0fc6f707f57b.jpg" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/NanoDet-ONNX-Sample">[NanoDet-ONNX-Sample]</a><br>
+            NanoDetのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
