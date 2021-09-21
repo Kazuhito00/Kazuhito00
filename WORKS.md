@@ -163,6 +163,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628276-32539900-d0f0-11eb-82ff-fc0866048b10.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/TFLite-ModelMaker-EfficientDet-Colab-Hands-On">[TFLite-ModelMaker-EfficientDet-Colab-Hands-On]</a><br>
+            TensorFlow Lite Model Makerで物体検出を行うハンズオン用資料<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628251-0cc68f80-d0f0-11eb-93c3-7fcab40d65e1.gif" loading="lazy" width="200px">
         </td>
         <td>
@@ -195,15 +204,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/object-detection-bbox-art">[object-detection-bbox-art]</a><br>
             OpenCVを用いたバウンディングボックス装飾の作例集<br>
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628276-32539900-d0f0-11eb-82ff-fc0866048b10.png" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/TFLite-ModelMaker-EfficientDet-Colab-Hands-On">[TFLite-ModelMaker-EfficientDet-Colab-Hands-On]</a><br>
-            TensorFlow Lite Model Makerで物体検出を行うハンズオン用資料<br>
         </td>
     </tr>
     <tr>
