@@ -726,7 +726,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/134543961-0317837f-b444-41f6-a0ea-f37470290e9a.gif" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/125824907-262caae7-b70c-4954-8002-92a7cb732ce6.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/OpenCV-Object-Tracker-Python-Sample">[OpenCV-Object-Tracker-Python-Sample]</a><br>
@@ -735,7 +735,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/125824907-262caae7-b70c-4954-8002-92a7cb732ce6.gif" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/134543961-0317837f-b444-41f6-a0ea-f37470290e9a.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/AprilTag-Detection-Python-Sample">[AprilTag-Detection-Python-Sample]</a><br>
