@@ -987,6 +987,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/134705318-6997b078-4676-4908-85c2-168644b941a0.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/OpenCV-QRCodeDetector-Sample">[OpenCV-QRCodeDetector-Sample]</a><br>
+            OpenCVでのQRコード検出サンプルプログラム
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Neta">ネタアプリ</a>　<a href="#Repositories">🔙</a>
         </th>
