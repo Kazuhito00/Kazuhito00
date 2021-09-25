@@ -992,7 +992,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/OpenCV-QRCodeDetector-Sample">[OpenCV-QRCodeDetector-Sample]</a><br>
-            OpenCVでのQRコード検出サンプルプログラム
+            OpenCVでのQRコード検出サンプルプログラム<br>QRCodeDetector(detectAndDecode, detectAndDecodeMulti, detectAndDecodeCurved)とWeChatQRCode(detectAndDecode)の4サンプルを実装しています。
         </td>
     </tr>
     <tr>
