@@ -234,6 +234,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/133975343-ca71be19-5ce4-4f21-862c-7a36fc7a8045.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample">[YOLOX-Colaboratory-Training-Sample]</a><br>
+            YOLOXをGoogle Colaboratory上で訓練しONNX形式のファイルをエクスポートするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
