@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/326"><img src="https://user-images.githubusercontent.com/37477845/136024063-145556a3-14d4-494e-b373-746274bba3a8.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/326">MoveNetのキーポイントからボディランゲージを読み取るレシピ</a>」を寄稿しました。<br>※有料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/273"><img src="https://user-images.githubusercontent.com/37477845/129439289-a2c833f1-60a8-43e1-a3e7-c699505024b0.png" loading="lazy" width="200px"></a>
         </td>
         <td>
