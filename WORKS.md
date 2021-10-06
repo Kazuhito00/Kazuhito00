@@ -29,7 +29,7 @@
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
-            「<a href="https://axross-recipe.com/recipes/273">TensorFlow Kerasで時系列データの異常検知を行うレシピ</a>」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/273">TensorFlow Kerasで時系列データの異常検知を行うレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
-            「<a href="https://axross-recipe.com/recipes/243">Unityで靴の3D物体検出を行うレシピ</a>」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/243">Unityで靴の3D物体検出を行うレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
-            「<a href="https://axross-recipe.com/recipes/196">Raspberry piでリアルタイムにディスプレイを読み取るレシピ</a>」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/196">Raspberry piでリアルタイムにディスプレイを読み取るレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
-            「<a href="https://axross-recipe.com/recipes/158">TensorflowのObject Detection APIで道路標識検出モデルを訓練するレシピ</a>」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/158">TensorflowのObject Detection APIで道路標識検出モデルを訓練するレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
-            「<a href="https://axross-recipe.com/recipes/136">MediaPipeを利用して簡単なジェスチャーを推定するレシピ</a>」を寄稿しました。
+            「<a href="https://axross-recipe.com/recipes/136">MediaPipeを利用して簡単なジェスチャーを推定するレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
     <tr>
