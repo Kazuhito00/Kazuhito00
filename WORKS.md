@@ -94,6 +94,7 @@
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#GAN">GAN関連</a>
 * <a href="#SemanticSegmentation">Semantic Segmentation関連</a>
+* <a href="#FaceDetection">顔検出関連</a>
 * <a href="#DepthEstimate">デプス推定関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
@@ -195,15 +196,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/FingerFrameLens">[FingerFrameLens]</a><br>
             FingerFrame検出を行った結果に対し、画像クラス分類を行うデモ<br>
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122629859-fd990f00-d0fa-11eb-814f-7f300b826fc1.gif" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/FaceDetection-Image-Overlay">[FaceDetection-Image-Overlay]</a><br>
-            顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)<br>
         </td>
     </tr>
     <tr>
@@ -431,6 +423,29 @@
         <td>
             <a href="https://github.com/Kazuhito00/Skin-Clothes-Hair-Segmentation-using-SMP">[Skin-Clothes-Hair-Segmentation-using-SMP]</a><br>
             3クラス(肌、服、髪)のセマンティックセグメンテーションを実施するモデル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122629859-fd990f00-d0fa-11eb-814f-7f300b826fc1.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FaceDetection-Image-Overlay">[FaceDetection-Image-Overlay]</a><br>
+            顔検出を行い、検出した顔の上に画像を重ねるデモ(CenterFace, DBFace利用)<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/136250840-22d0e625-19ae-484f-a62b-cf29397517ee.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/YuNet-ONNX-TFLite-Sample">[YuNet-ONNX-TFLite-Sample]</a><br>
+            YuNetのPythonでのONNX、TensorFlow-Lite推論サンプル<br>
         </td>
     </tr>
     <tr>
