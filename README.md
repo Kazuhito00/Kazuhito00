@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 07 - [MediaPipe 0.8.8でHolisticにenable_segmentation、FaceMeshにrefine_landmarksオプションが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/10/07/221737)
 - Sep 30 - [YOLOXによる物体検出👀](https://kazuhito00.hatenablog.com/entry/2021/10/01/014646)
 - Sep 23 - [AprilTag検出サンプル(Python)](https://kazuhito00.hatenablog.com/entry/2021/09/24/012938)
 - Sep 23 - [画像から脈拍数の測定👀](https://kazuhito00.hatenablog.com/entry/2021/09/23/201423)
 - Sep 20 - [NanoDetによる物体検出👀](https://kazuhito00.hatenablog.com/entry/2021/09/20/175134)
-- Sep 19 - [Google MobileObjectLocalizerを用いた物体位置検出](https://kazuhito00.hatenablog.com/entry/2021/09/19/115024)
 <!-- feed end -->
 
 ### How to reach me
