@@ -299,7 +299,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Pulse-Rate-Recognition-using-MediaPipe-FaceDetection">[Pulse-Rate-Recognition-using-MediaPipe-FaceDetection]</a><br>
-            肌の色から脈拍を推定するサンプルプログラ<br>
+            肌の色から脈拍を推定するサンプルプログラム<br>
         </td>
     </tr>
     <tr>
