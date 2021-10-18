@@ -971,7 +971,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628464-169cc280-d0f1-11eb-9e14-99bd1764acd5.png" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/JINS-MEME-Python-WebSocketServer-Sample">[JINS-MEME-Python-WebSocketServer-Sample]</a><br>
