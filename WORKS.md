@@ -105,6 +105,7 @@
 * <a href="#OpenCvCamera">OpenCV：カメラユーティリティ</a>
 * <a href="#OpenCvOther">OpenCV：その他</a>
 * <a href="#Unity">Unity関連</a>
+* <a href="#JinsMeme">JINS MEME関連</a>
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
 * <a href="#PlantUML">PlantUML関連</a>
@@ -961,6 +962,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-Objectron-WebGL">[Unity-Barracuda-Objectron-WebGL]</a><br>
             Unity BarracudaでMediaPipe Objectron(Shoe)を動作させるサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="JinsMeme">JINS MEME関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628464-169cc280-d0f1-11eb-9e14-99bd1764acd5.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/JINS-MEME-Python-WebSocketServer-Sample">[JINS-MEME-Python-WebSocketServer-Sample]</a><br>
+            JINS MEME(2021年モデル)のJINS MEME LoggerをPythonのWebSocketサーバーで受信するサンプル<br>
         </td>
     </tr>
     <tr>
