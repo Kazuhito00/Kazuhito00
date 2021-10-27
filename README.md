@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 27 - [NHKで10月29日放送予定の「漫画家イエナガの複雑社会を超定義」に若干の技術協力をしました](https://kazuhito00.hatenablog.com/entry/2021/10/28/005542)
 - Oct 18 - [JINS MEME(2021年モデル)を購入しました👀](https://kazuhito00.hatenablog.com/entry/2021/10/19/021716)
 - Oct 07 - [YOLOX-NanoのONNX推論、TFLite推論サンプル](https://kazuhito00.hatenablog.com/entry/2021/10/08/004959)
 - Oct 07 - [YuNetのONNX推論、TFLite推論サンプル](https://kazuhito00.hatenablog.com/entry/2021/10/08/004806)
 - Oct 07 - [MediaPipe 0.8.8でHolisticにenable_segmentation、FaceMeshにrefine_landmarksオプションが追加されました🦔](https://kazuhito00.hatenablog.com/entry/2021/10/07/221737)
-- Sep 30 - [YOLOXによる物体検出👀](https://kazuhito00.hatenablog.com/entry/2021/10/01/014646)
 <!-- feed end -->
 
 ### How to reach me
