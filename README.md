@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 07 - [PyTorch Implementation of AnimeGANv2 お試し👀](https://kazuhito00.hatenablog.com/entry/2021/11/07/203530)
 - Oct 30 - [Fast-SRGANお試し🔍](https://kazuhito00.hatenablog.com/entry/2021/10/30/230257)
 - Oct 27 - [NHKで10月29日放送予定の「漫画家イエナガの複雑社会を超定義」に若干の技術協力をしました](https://kazuhito00.hatenablog.com/entry/2021/10/28/005542)
 - Oct 18 - [JINS MEME(2021年モデル)を購入しました👀](https://kazuhito00.hatenablog.com/entry/2021/10/19/021716)
 - Oct 07 - [YOLOX-NanoのONNX推論、TFLite推論サンプル](https://kazuhito00.hatenablog.com/entry/2021/10/08/004959)
-- Oct 07 - [YuNetのONNX推論、TFLite推論サンプル](https://kazuhito00.hatenablog.com/entry/2021/10/08/004806)
 <!-- feed end -->
 
 ### How to reach me
