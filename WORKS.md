@@ -413,6 +413,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/141314203-77b10536-bd2a-46dc-9223-08ab20cdf6d7.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/AnimeGANv2-ONNX-Sample">[AnimeGANv2-ONNX-Sample]</a><br>
+            「PyTorch Implementation of AnimeGANv2」のPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SemanticSegmentation">Semantic Segmentation関連</a>　<a href="#Repositories">🔙</a>
         </th>
