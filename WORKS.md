@@ -422,6 +422,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/141485378-9e94f27d-8d39-4ae9-9095-d0c1ae697397.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/AnimeGANv2-Face-Overlay-Demo">[AnimeGANv2-Face-Overlay-Demo]</a><br>
+            「PyTorch Implementation of AnimeGANv2」を用いて、生成した顔画像を元の画像に上書きするデモ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SemanticSegmentation">Semantic Segmentation関連</a>　<a href="#Repositories">🔙</a>
         </th>
