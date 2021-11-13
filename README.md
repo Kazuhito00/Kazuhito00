@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 13 - [PINTO_model_zoo：暗所ノイズ除去（176_StableLLVE）デモ追加 ※Low-Light Image Enhancement](https://kazuhito00.hatenablog.com/entry/2021/11/14/022616)
+- Nov 13 - [PINTO_model_zoo：単眼深度推定（146_FastDepth、158_HR-Depth）デモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/14/021832)
 - Nov 12 - [PyTorch Implementation of AnimeGANv2 お試し その②👀](https://kazuhito00.hatenablog.com/entry/2021/11/12/235433)
 - Nov 07 - [PyTorch Implementation of AnimeGANv2 お試し👀](https://kazuhito00.hatenablog.com/entry/2021/11/07/203530)
 - Oct 30 - [Fast-SRGANお試し🔍](https://kazuhito00.hatenablog.com/entry/2021/10/30/230257)
-- Oct 27 - [NHKで10月29日放送予定の「漫画家イエナガの複雑社会を超定義」に若干の技術協力をしました](https://kazuhito00.hatenablog.com/entry/2021/10/28/005542)
-- Oct 18 - [JINS MEME(2021年モデル)を購入しました👀](https://kazuhito00.hatenablog.com/entry/2021/10/19/021716)
 <!-- feed end -->
 
 ### How to reach me
