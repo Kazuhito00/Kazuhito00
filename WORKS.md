@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/352"><img src="https://user-images.githubusercontent.com/37477845/142468137-60ee7a7a-8a75-449a-86c9-9e0390432d60.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/352">YOLOX-NanoをRaspberry Pi4で実行するレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/326"><img src="https://user-images.githubusercontent.com/37477845/136024063-145556a3-14d4-494e-b373-746274bba3a8.png" loading="lazy" width="200px"></a>
         </td>
         <td>
