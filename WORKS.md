@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td width="220">
-            <a href="https://axross-recipe.com/recipes/352"><img src="https://user-images.githubusercontent.com/37477845/142468137-60ee7a7a-8a75-449a-86c9-9e0390432d60.png" loading="lazy" width="200px"></a>
+            <a href="https://axross-recipe.com/recipes/352"><img src="https://user-images.githubusercontent.com/37477845/142621103-d5a49db4-83aa-47d6-8a61-e7c4b3f0fe44.png" loading="lazy" width="200px"></a>
         </td>
         <td>
             <a href="https://axross-recipe.com">Axross</a>様に<br>
