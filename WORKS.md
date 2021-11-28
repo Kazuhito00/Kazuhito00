@@ -99,6 +99,7 @@
 
 * <a href="#LtDocument">LT資料</a>
 * <a href="#ObjectDetection">Object Detection関連</a>
+* <a href="#SalientObjectDetection">Salient Object Detection関連</a>
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
 * <a href="#GAN">GAN関連</a>
@@ -262,6 +263,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample">[YOLOX-Colaboratory-Training-Sample]</a><br>
             YOLOXをGoogle Colaboratory上で訓練しONNX形式のファイルをエクスポートするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="SalientObjectDetection">Salient Object Detection関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/143734942-66811c6b-d966-4f71-86fb-ecd67b2317ae.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/BASNet-ONNX-Sample">[BASNet-ONNX-Sample]</a><br>
+            BASNet(Salient Object Detection)のPythonでのONNX推論サンプル<br>
         </td>
     </tr>
     <tr>
