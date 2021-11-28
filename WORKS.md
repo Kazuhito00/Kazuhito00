@@ -145,6 +145,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/143735270-39289175-54dd-43ee-b557-ff78f4b4f147.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021-Talk4">[PyCon-mini-Shizuoka-2021-Talk4]</a><br>
+            PyCon mini Shizuoka 2021<br>トーク4 - Raspberry Pi 4でリアルタイムなディープラーニング 資料<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628241-ffa9a080-d0ef-11eb-886a-f02d20696000.png" loading="lazy" width="200px">
         </td>
         <td>
