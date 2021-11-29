@@ -289,6 +289,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/143877276-b9307dad-5f25-4fca-8178-ddcc5789dee6.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/U-2-Net-ONNX-Sample">[U-2-Net-ONNX-Sample]</a><br>
+            U-2-NetのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
