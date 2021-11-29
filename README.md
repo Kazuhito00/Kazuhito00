@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 29 - [U-2-Netお試し中 & PINTO_model_zoo：Salient Object Detection（061_U-2-Net）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/29/233126)
 - Nov 28 - [PINTO_model_zoo：顔検出（129_SCRFD）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/28/225947)
 - Nov 28 - [BASNet（Salient Object Detection）お試し中👀](https://kazuhito00.hatenablog.com/entry/2021/11/28/172153)
 - Nov 27 - [PINTO_model_zoo：模範画像を用いた画像変換（193_CoCosNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/27/210240)
 - Nov 24 - [PINTO_model_zoo：車検出（178_vehicle-detection-0200）、人検出（179_vehicle-detection-0202）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/25/022920)
-- Nov 23 - [PINTO_model_zoo：線検出（119_M-LSD）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/11/23/221634)
 <!-- feed end -->
 
 ### How to reach me
