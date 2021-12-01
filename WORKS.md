@@ -555,7 +555,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/144261036-bf1c379f-c595-4d2d-a288-3d43b4be83b5.gif" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/144262506-d3716d83-bb2f-4433-bda0-30c12a99a2ef.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample">[LearningToCountEverything-Colaboratory-Sample]</a><br>
