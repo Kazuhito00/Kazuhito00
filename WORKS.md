@@ -107,7 +107,7 @@
 * <a href="#FaceDetection">顔検出関連</a>
 * <a href="#DepthEstimate">デプス推定関連</a>
 * <a href="#MOT">MOT(Multi Object Tracking)関連</a>
-* <a href="#CrowdCounting">Crowd Counting関連</a>
+* <a href="#CrowdCounting">Crowd Counting、Object Counting関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -541,7 +541,7 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
-            <a name="CrowdCounting">Crowd Counting関連</a>　<a href="#Repositories">🔙</a>
+            <a name="CrowdCounting">Crowd Counting、Object Counting関連</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
     <tr>
@@ -551,6 +551,15 @@
         <td>
             <a href="https://github.com/Kazuhito00/DM-Count-ONNX-Sample">[DM-Count-ONNX-Sample]</a><br>
             DM-CountのONNX変換/推論のサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/144261036-bf1c379f-c595-4d2d-a288-3d43b4be83b5.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample">[LearningToCountEverything-Colaboratory-Sample]</a><br>
+            LearningToCountEverythingをColaboratory上で動かすサンプル<br>
         </td>
     </tr>
     <tr>
