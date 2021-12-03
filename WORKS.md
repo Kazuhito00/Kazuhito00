@@ -512,6 +512,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/144645529-42432b5f-cded-4c3d-b66c-543a93c2199d.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FaceDetection-Anti-Spoof-Demo">[FaceDetection-Anti-Spoof-Demo]</a><br>
+            なりすまし検出(anti-spoof-mn3)のWebカメラ向けデモ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="DepthEstimate">デプス推定関連</a>　<a href="#Repositories">🔙</a>
         </th>
