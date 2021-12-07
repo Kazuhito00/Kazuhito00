@@ -99,15 +99,18 @@
 
 * <a href="#LtDocument">LT資料</a>
 * <a href="#ObjectDetection">Object Detection関連</a>
+* <a href="#Classification">Classification関連</a>
 * <a href="#SalientObjectDetection">Salient Object Detection関連</a>
 * <a href="#MediaPipe">MediaPipe関連</a>
 * <a href="#TensorFlow2">TensorFlow 2.x関連</a>
+* <a href="#PoseEstimation">姿勢推定関連</a>
 * <a href="#GAN">GAN関連</a>
 * <a href="#SemanticSegmentation">Semantic Segmentation関連</a>
 * <a href="#FaceDetection">顔検出関連</a>
 * <a href="#DepthEstimate">デプス推定関連</a>
 * <a href="#MOT">MOT(Multi Object Tracking)関連</a>
 * <a href="#CrowdCounting">Crowd Counting、Object Counting関連</a>
+* <a href="#LSD">線分検出関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -275,6 +278,38 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628314-5fa04700-d0f0-11eb-93a9-3d00141e4de5.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
+            単一の手の位置推定を行う試験的なモデル<br>→Raspberry PiやUnity Barracuda上で動作する軽量なモデルを目指しています<br>手のXY座標とクラス分類結果(無し、パー、グー)を出力
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628317-6464fb00-d0f0-11eb-829c-3582fd5e3721.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/7segment-display-reader">[7segment-display-reader]</a><br>
+            7セグメントディスプレイの数値を認識するプログラム
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/open_nsfw_onnx_sample">[open_nsfw_onnx_sample]</a><br>
+            NSFW画像検出モデル(open_nsfw_android)をColaboratory上で動かすサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SalientObjectDetection">Salient Object Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
@@ -399,15 +434,6 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628314-5fa04700-d0f0-11eb-93a9-3d00141e4de5.gif" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/Single-Hand-Localization">[Single-Hand-Localization]</a><br>
-            単一の手の位置推定を行う試験的なモデル<br>→Raspberry PiやUnity Barracuda上で動作する軽量なモデルを目指しています<br>手のXY座標とクラス分類結果(無し、パー、グー)を出力
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
         </td>
         <td>
@@ -416,22 +442,9 @@
         </td>
     </tr>
     <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628317-6464fb00-d0f0-11eb-829c-3582fd5e3721.gif" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/7segment-display-reader">[7segment-display-reader]</a><br>
-            7セグメントディスプレイの数値を認識するプログラム
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628322-70e95380-d0f0-11eb-8d1e-41ef9791464d.gif" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/M-LSD-warpPerspective-Example">[M-LSD-warpPerspective-Example]</a><br>
-            M-LSDを用いて四角形を検出し、射影変換を行うサンプルプログラム
-        </td>
+        <th align="left" colspan="2">
+            <a name="PoseEstimation">姿勢推定関連</a>　<a href="#Repositories">🔙</a>
+        </th>
     </tr>
     <tr>
         <td width="220">
@@ -440,15 +453,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/MoveNet-Python-Example">[MoveNet-Python-Example]</a><br>
             MoveNetを用いたPythonでの姿勢推定のデモ
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/open_nsfw_onnx_sample">[open_nsfw_onnx_sample]</a><br>
-            NSFW画像検出モデル(open_nsfw_android)をColaboratory上で動かすサンプル<br>
         </td>
     </tr>
     <tr>
@@ -578,6 +582,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample">[LearningToCountEverything-Colaboratory-Sample]</a><br>
             LearningToCountEverythingをColaboratory上で動かすサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="LSD">線分検出関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628322-70e95380-d0f0-11eb-8d1e-41ef9791464d.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/M-LSD-warpPerspective-Example">[M-LSD-warpPerspective-Example]</a><br>
+            M-LSDを用いて四角形を検出し、射影変換を行うサンプルプログラム
         </td>
     </tr>
     <tr>
