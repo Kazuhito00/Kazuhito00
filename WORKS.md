@@ -127,6 +127,7 @@
 * <a href="#QRCode">QRコード関連</a>
 * <a href="#Neta">ネタアプリ</a>
 * <a href="#Qiita">Qiita関連</a>
+* <a href="#Zenn">Zenn関連</a>
 * <a href="#TensorFlow1">TensorFlow 1.x関連</a>
 * <a href="#Kaggle">Kaggle関連</a>
 * <a href="#Other">その他</a>
@@ -1223,6 +1224,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV">[Qiita-AdventCalendar-20201212-OpenCV]</a><br>
             Qiita OpenCV アドベントカレンダー(2020年12月12日)の投稿用のサンプル集<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Zenn">Zenn関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/147133190-b4174a0c-978f-458d-a78c-c922e01e254d.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Zenn-Book-S3-SageMaker-S3-Sample">[Zenn-Book-S3-SageMaker-S3-Sample]</a><br>
+            Zenn Book「【覚書】SageMakerトレーニングジョブで推論回す本」のソースコード
         </td>
     </tr>
     <tr>
