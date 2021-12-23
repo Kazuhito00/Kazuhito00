@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 23 - [Zenn投稿：【覚書】SageMakerトレーニングジョブで推論回す本](https://kazuhito00.hatenablog.com/entry/2021/12/24/023801)
 - Dec 20 - [PINTO_model_zoo：霧除去（209_MSBDN-DFF）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/12/21/002443)
 - Dec 19 - [PINTO_model_zoo：雨除去（208_SAPNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/12/20/001036)
 - Dec 19 - [PINTO_model_zoo：暗所ノイズ除去（207_GLADNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/12/20/000343)
 - Dec 19 - [PINTO_model_zoo：人物セグメンテーション（206_Matting）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2021/12/19/235745)
-- Dec 18 - [Qiita投稿：アドベントカレンダー15日目、16日目](https://kazuhito00.hatenablog.com/entry/2021/12/19/010009)
 <!-- feed end -->
 
 ### How to reach me
