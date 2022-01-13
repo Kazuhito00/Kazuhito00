@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/404"><img src="https://user-images.githubusercontent.com/37477845/149315485-98a2e619-e048-4132-acce-746e03dcf88e.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/404">単眼デプス推定を用いて距離を計測するレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/352"><img src="https://user-images.githubusercontent.com/37477845/142621103-d5a49db4-83aa-47d6-8a61-e7c4b3f0fe44.png" loading="lazy" width="200px"></a>
         </td>
         <td>
