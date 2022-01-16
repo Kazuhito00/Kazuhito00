@@ -522,6 +522,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/149649066-8468db5d-0c3b-43e3-8a63-1bc109478845.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/YOLOP-ONNX-Video-Inference-Sample">[YOLOP-ONNX-Video-Inference-Sample]</a><br>
+            YOLOPのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
