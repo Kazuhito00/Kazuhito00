@@ -153,6 +153,15 @@
             <img src="https://user-images.githubusercontent.com/37477845/150630855-94ec4dbd-70ad-45b3-930a-ca9335944577.png" loading="lazy" width="200px">
         </td>
         <td>
+            <a href="https://github.com/Kazuhito00/presentation-2022">[presentation-2022]</a><br>
+            presentation-2022は作成したプレゼンテーション資料をまとめたリポジトリ<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/150630855-94ec4dbd-70ad-45b3-930a-ca9335944577.png" loading="lazy" width="200px">
+        </td>
+        <td>
             <a href="https://github.com/Kazuhito00/NGK2022S-LT">[NGK2022S-LT]</a><br>
             NGK2022S(名古屋合同懇親会 2022年新年会) LT資料<br>Unity Barracuda でニューラルネットワークの推論<br>
         </td>
