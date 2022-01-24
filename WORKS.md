@@ -348,6 +348,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/150824394-c68fb525-424e-4ada-8dcd-4ef603d0e124.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/landmarks-classifier-asia-onnx-sample">[landmarks-classifier-asia-onnx-sample]</a><br>
+            landmarks_classifier_asia_V1のPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SalientObjectDetection">Salient Object Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
