@@ -154,7 +154,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2022">[presentation-2022]</a><br>
-            presentation-2022は作成したプレゼンテーション資料をまとめたリポジトリ<br>
+            LT資料をまとめたリポジトリ(202２年用)<br>
         </td>
     </tr>
     <tr>
