@@ -618,6 +618,24 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/153743577-29f1b958-86fd-4e1f-85c3-d5fd04d7925e.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/yolox-motpy-sample">[yolox-motpy-sample]</a><br>
+            YOLOXとmotpyを用いたMOT(Multiple Object Tracking)のPythonサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/153743577-29f1b958-86fd-4e1f-85c3-d5fd04d7925e.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/yolox-bytetrack-sample">[yolox-bytetrack-sample]</a><br>
+            YOLOXとByteTrackを用いたMOT(Multiple Object Tracking)のPythonサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="CrowdCounting">Crowd Counting、Object Counting関連</a>　<a href="#Repositories">🔙</a>
         </th>
