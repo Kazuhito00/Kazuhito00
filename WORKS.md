@@ -325,6 +325,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/153885432-66e47104-2e5e-463a-afc6-4cebf3074b12.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Object-Detection-API-TensorFlow2ONNX">[Object-Detection-API-TensorFlow2ONNX]</a><br>
+            TensorFlow Object Detection APIのONNX推論サンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
