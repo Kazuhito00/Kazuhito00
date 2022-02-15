@@ -650,7 +650,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/MOT-Tracking-by-Detection-Pipeline">[MOT-Tracking-by-Detection-Pipeline]</a><br>
-            Tracking-by-Detection形式のMOT(Multi Object Tracking)について、 DetectionとTrackingの処理を分離したフレームワーク<br>
+            Tracking-by-Detection形式のMOT(Multi Object Tracking)について<br>DetectionとTrackingの処理を分離したフレームワーク<br>
         </td>
     </tr>
     <tr>
