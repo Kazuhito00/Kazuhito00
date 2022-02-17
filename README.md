@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Feb 17 - [MOT-Tracking-by-Detection-Pipeline に YoutuReID を追加👻](https://kazuhito00.hatenablog.com/entry/2022/02/18/012424)
 - Feb 16 - [MOT-Tracking-by-Detection-Pipeline に Person ReIdentification を追加👻](https://kazuhito00.hatenablog.com/entry/2022/02/17/001938)
 - Feb 15 - [MOTのいくつかのアルゴリズム(motpy、ByteTrack、Norfair)とDetection寄せ集め🦔](https://kazuhito00.hatenablog.com/entry/2022/02/16/013322)
 - Feb 13 - [YOLOXとByteTrackでMOT(Multi Object Tracking)👀](https://kazuhito00.hatenablog.com/entry/2022/02/13/164302)
 - Feb 13 - [YOLOXとmotpyでMOT(Multi Object Tracking)👀](https://kazuhito00.hatenablog.com/entry/2022/02/13/164007)
-- Feb 11 - [2021年作成物まとめ動画🦔](https://kazuhito00.hatenablog.com/entry/2022/02/11/172929)
 <!-- feed end -->
 
 ### How to reach me
