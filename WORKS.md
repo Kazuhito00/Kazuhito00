@@ -646,6 +646,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/153743577-29f1b958-86fd-4e1f-85c3-d5fd04d7925e.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/yolox-bytetrack-mcmot-sample">[yolox-bytetrack-mcmot-sample]</a><br>
+            yolox-bytetrack-sampleのマルチクラス拡張版<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/154203899-cdaf544a-89fe-483c-b146-dc9cf5ce61d1.png" loading="lazy" width="200px">
         </td>
         <td>
