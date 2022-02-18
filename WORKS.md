@@ -597,6 +597,15 @@
             <a href="https://github.com/Kazuhito00/FaceDetection-Anti-Spoof-Demo">[FaceDetection-Anti-Spoof-Demo]</a><br>
             なりすまし検出(anti-spoof-mn3)のWebカメラ向けデモ<br>
         </td>
+    </tr>    
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/154732508-ffae5c0b-f348-44a1-812f-6c880a08744e.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/mediapipe-sface-sample">[mediapipe-sface-sample]</a><br>
+            MediaPipe Face Detectionで検出した顔画像にSFaceを用いて顔認証を行うサンプル<br>
+        </td>
     </tr>
     <tr>
         <th align="left" colspan="2">
