@@ -334,6 +334,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/154995473-aa79f02a-1216-447a-848e-621c04e84c26.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/sahi-yolox-onnx-sample">[sahi-yolox-onnx-sample]</a><br>
+            SAHI(Slicing Aided Hyper Inference)をYOLOX(ONNX)で動かしたサンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
