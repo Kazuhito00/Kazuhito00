@@ -438,6 +438,7 @@
             MediaPipeを用いたハンドジェスチャーによる簡単なマウス操作を行うプログラム<br>
         </td>
     </tr>
+    <!--
     <tr>
         <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/134505165-d29ec404-abdd-46b9-aab7-7719bdadbf22.gif" loading="lazy" width="200px">
@@ -447,6 +448,7 @@
             肌の色から脈拍を推定するサンプルプログラム<br>
         </td>
     </tr>
+    -->
     <tr>
         <th align="left" colspan="2">
             <a name="TensorFlow2">TensorFlow 2.x関連</a>　<a href="#Repositories">🔙</a>
