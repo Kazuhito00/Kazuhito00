@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 08 - [PINTO_model_zoo：雨除去（261_EfficientDerain）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2022/03/08/234506)
 - Feb 21 - [SAHI(Slicing Aided Hyper Inference) お試し👀](https://kazuhito00.hatenablog.com/entry/2022/02/22/014149)
 - Feb 18 - [ByteTrack マルチクラス拡張🦔](https://kazuhito00.hatenablog.com/entry/2022/02/19/001641)
 - Feb 17 - [MOT-Tracking-by-Detection-Pipeline に YoutuReID を追加👻](https://kazuhito00.hatenablog.com/entry/2022/02/18/012424)
 - Feb 16 - [MOT-Tracking-by-Detection-Pipeline に Person ReIdentification を追加👻](https://kazuhito00.hatenablog.com/entry/2022/02/17/001938)
-- Feb 15 - [MOTのいくつかのアルゴリズム(motpy、ByteTrack、Norfair)とDetection寄せ集め🦔](https://kazuhito00.hatenablog.com/entry/2022/02/16/013322)
 <!-- feed end -->
 
 ### How to reach me
