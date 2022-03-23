@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/464"><img src="https://user-images.githubusercontent.com/37477845/159646580-276f5d8d-ad45-40ac-ad82-bc7b543362d4.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/464">画像データ拡張ライブラリAlbumentationsでRandAugmentを行うレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/404"><img src="https://user-images.githubusercontent.com/37477845/149315485-98a2e619-e048-4132-acce-746e03dcf88e.png" loading="lazy" width="200px"></a>
         </td>
         <td>
