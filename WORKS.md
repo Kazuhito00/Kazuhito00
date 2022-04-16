@@ -227,6 +227,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/163666964-ab92f6e3-26b9-4d30-bcfb-d30dce7eada5.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/NARUTO-Sharingan-Iris-Overlay">[NARUTO-Sharingan-Iris-Overlay]</a><br>
+            MediaPipeのFaceMesh検出を用いて、虹彩部分に写輪眼(©NARUTO -ナルト-)を表示するプログラム<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628247-09330880-d0f0-11eb-9110-e993743a5adf.gif" loading="lazy" width="200px">
         </td>
         <td>
