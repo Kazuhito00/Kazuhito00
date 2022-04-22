@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px">
 
 ### About Me
-- 名古屋で組込みエンジニア(C/C++)をしています。<br>I am an embedded engineer(C/C++) in Japan Aichi Nagoya.
+- 名古屋で組込みエンジニア(C/C++)をしていました。<br>I was an embedded engineer(C/C++) in Japan Aichi Nagoya.
 - 最近は画像処理(C++/Python)、Web(Azure/AWS/SFDC)やIoTの仕事もしています。<br>Recently I've been working on image processing(C++/Python), Web Application(Azure/AWS/SFDC) and IoT.
 - 機械学習やKaggle勉強中(🥉×２)です。<br>Currently studying machine learning and Kaggle(🥉×2)
 - 物体検出やセマンティックセグメンテーションに興味があります。<br>I am interested in ObjectDetection and SemanticSegmentation
