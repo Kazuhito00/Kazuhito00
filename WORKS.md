@@ -371,6 +371,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/165435709-637b6910-c15d-44c7-948c-d7d2c916e3e8.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Person-Detection-using-RaspberryPi-CPU">[Person-Detection-using-RaspberryPi-CPU]</a><br>
+            Raspberry Pi 4のCPU動作を想定した人検出モデルとデモスクリプト<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
