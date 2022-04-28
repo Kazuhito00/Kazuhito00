@@ -956,6 +956,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/convert_image_compression">[convert_image_compression]</a><br>
+            OpenCVを使用して簡易に画像圧縮形式を変換するスクリプト
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>　<a href="#Repositories">🔙</a>
         </th>
