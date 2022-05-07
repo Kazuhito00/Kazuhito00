@@ -160,11 +160,11 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/150630855-94ec4dbd-70ad-45b3-930a-ca9335944577.png" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/167247366-6ff44f83-0133-42d1-ba4c-d4fbf5755767.png" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2022">[presentation-2022]</a><br>
-            LT資料をまとめたリポジトリ(202２年用)<br>
+            LT資料をまとめたリポジトリ(2022年用)<br>
         </td>
     </tr>
     <tr>
