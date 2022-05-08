@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- May 08 - [PINTO_model_zoo：単眼深度推定（294_FSRE-Depth）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/05/08/154229)
 - Apr 28 - [Raspberry Pi 4向けのPerson Tracking(CPU推論4スレッドで85~120ms)](https://kazuhito00.hatenablog.com/entry/2022/04/28/194248)
 - Apr 27 - [Raspberry Pi 4向けのPerson Detection(CPU推論4スレッドで45~60ms)](https://kazuhito00.hatenablog.com/entry/2022/04/27/130846)
 - Apr 23 - [暗所ノイズ除去 比較(231、241、243、285、SCI)](https://kazuhito00.hatenablog.com/entry/2022/04/23/233011)
 - Apr 23 - [暗所ノイズ除去（SCI）のONNX変換お試し👀](https://kazuhito00.hatenablog.com/entry/2022/04/23/182629)
-- Apr 17 - [YOLOXでDeep写輪眼](https://kazuhito00.hatenablog.com/entry/2022/04/17/151650)
 <!-- feed end -->
 
 ### How to reach me
