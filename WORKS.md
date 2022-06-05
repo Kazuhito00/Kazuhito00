@@ -125,6 +125,7 @@
 リポジトリ数が増えてきたためカテゴリー分けしてまとめています。
 
 * <a href="#LtDocument">LT資料</a>
+* <a href="#Application">アプリケーション</a>
 * <a href="#ObjectDetection">Object Detection関連</a>
 * <a href="#Classification">Classification関連</a>
 * <a href="#SalientObjectDetection">Salient Object Detection関連</a>
@@ -220,6 +221,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/presentation-2019">[presentation-2019]</a><br>
             LT資料をまとめたリポジトリ(2019年用)<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Application">アプリケーション</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/172050779-49176a8a-db9a-443a-b35d-0d73dd791f6f.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Image-Processing-Node-Editor">[Image-Processing-Node-Editor]</a><br>
+            処理の検証や比較検討での用途を想定したノードエディターベースの画像処理アプリ<br>
         </td>
     </tr>
     <tr>
