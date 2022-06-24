@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jun 24 - [ノードエディターベースの画像処理ツールを作りました Ver0.1.1＋α🦔](https://kazuhito00.hatenablog.com/entry/2022/06/24/105539)
 - Jun 05 - [ノードエディターベースの画像処理ツールを作りました🦔](https://kazuhito00.hatenablog.com/entry/2022/06/05/223605)
 - May 28 - [【OSC2022 Online Nagoya】DearPyGuiに入門しました](https://kazuhito00.hatenablog.com/entry/2022/05/28/214741)
 - May 14 - [在宅勤務でWeb会議中かどうかM5Stackで表示👀](https://kazuhito00.hatenablog.com/entry/2022/05/15/010406)
 - May 08 - [PINTO_model_zoo：インスタンスセグメンテーション（295_SparseInst）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/05/08/211915)
-- May 08 - [PINTO_model_zoo：単眼深度推定（294_FSRE-Depth）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/05/08/154229)
 <!-- feed end -->
 
 ### How to reach me
