@@ -238,6 +238,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/179128561-d4e23896-98fd-4439-8489-223c92976899.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/IPNE-YouTube-Input-Node">[IPNE-YouTube-Input-Node]</a><br>
+            Image-Processing-Node-Editor で動作するYouTube入力用ノード<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="ObjectDetection">Object Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
