@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 15 - [Image-Processing-Node-Editor v0.2.0リリース🦔](https://kazuhito00.hatenablog.com/entry/2022/07/15/132404)
 - Jul 13 - [PINTO_model_zoo：画像捏造検出（309_ImageForensicsOSN）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/07/13/100409)
 - Jul 10 - [PINTO_model_zoo：物体検出（308_FastestDet）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/07/11/081856)
 - Jul 09 - [Image-Processing-Node-Editor の 次のリリースタイミングいつにしよう👀 + WeDX](https://kazuhito00.hatenablog.com/entry/2022/07/09/184125)
 - Jul 03 - [ROBOT TECHNOLOGY JAPAN2022に遊びにいってきました🦔](https://kazuhito00.hatenablog.com/entry/2022/07/03/172803)
-- Jun 26 - [【Pythonデータ分析勉強会#33】「DearPyGuiに入門しました」の続き ～Image-Processing-Node-Editor～](https://kazuhito00.hatenablog.com/entry/2022/06/26/172440)
 <!-- feed end -->
 
 ### How to reach me
