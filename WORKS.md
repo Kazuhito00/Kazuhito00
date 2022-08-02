@@ -999,6 +999,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/182305847-1a718426-68ed-4b24-b3d7-1dcfe8503104.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/omnidirectional-viewer-sample-using-opencv">[omnidirectional-viewer-sample-using-opencv]</a><br>
+            OpenCVを利用した360度画像の簡易ビューア
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>　<a href="#Repositories">🔙</a>
         </th>
