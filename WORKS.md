@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/548"><img src="https://user-images.githubusercontent.com/37477845/183413181-f396b561-e6bc-4cf8-8332-9d0828346ceb.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/548">YOLOXをColaboratory上でトレーニングするレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/484"><img src="https://user-images.githubusercontent.com/37477845/168795266-8847d30b-fb16-44a2-8fdd-2c24f469b0a4.png" loading="lazy" width="200px"></a>
         </td>
         <td>
