@@ -1260,6 +1260,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/184492876-c766bb61-202e-45dc-bbec-0c654a7b6c11.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Draw-Audio-Spectrum-Using-OpenCV">[Draw-Audio-Spectrum-Using-OpenCV]</a><br>
+            オーディオスペクトラムや波形をOpenCVで描画するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="M5Stack">M5Stack関連</a>　<a href="#Repositories">🔙</a>
         </th>
