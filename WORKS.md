@@ -1017,6 +1017,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/184626554-19b52e07-ae1a-405c-8b54-019eb4ba9d2a.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cv_overlay_inset_image">[cv_overlay_inset_image]</a><br>
+            OpenCVを用いてはめ込み画像を作るサンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>　<a href="#Repositories">🔙</a>
         </th>
