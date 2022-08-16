@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 16 - [OpenCVでオーディオスペクトラムをはめ込み画像風合成🦔](https://kazuhito00.hatenablog.com/entry/2022/08/16/183715)
 - Aug 15 - [OpenCVではめ込み画像風合成🦔](https://kazuhito00.hatenablog.com/entry/2022/08/15/202546)
 - Aug 14 - [オーディオスペクトラムとか波形をOpenCVで描画してみる👀](https://kazuhito00.hatenablog.com/entry/2022/08/14/215636)
 - Aug 01 - [Image-Processing-Node-Editorで360度画像を表示するサンプル🦔](https://kazuhito00.hatenablog.com/entry/2022/08/01/194921)
 - Jul 30 - [OpenCVで360度画像を表示するサンプル🦔](https://kazuhito00.hatenablog.com/entry/2022/07/30/190244)
-- Jul 15 - [Image-Processing-Node-Editor v0.2.0リリース🦔](https://kazuhito00.hatenablog.com/entry/2022/07/15/132404)
 <!-- feed end -->
 
 ### How to reach me
