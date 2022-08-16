@@ -1278,6 +1278,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/184846162-a2a8a8cb-c0f5-49f6-9d31-355a14f21aa6.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Overlay-Audio-Spectrum-Using-OpenCV">[Overlay-Audio-Spectrum-Using-OpenCV]</a><br>
+            オーディオスペクトラムや波形をOpenCVで、はめ込み描画するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="M5Stack">M5Stack関連</a>　<a href="#Repositories">🔙</a>
         </th>
