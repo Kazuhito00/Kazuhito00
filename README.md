@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 13 - [ONNX Runtime：CUDNN error executing cudnnAddTensor() の処置（2022年10月13現在）](https://kazuhito00.hatenablog.com/entry/2022/10/13/133248)
 - Sep 28 - [ThinkPad X1 Extreme Gen5購入](https://kazuhito00.hatenablog.com/entry/2022/09/28/091815)
 - Sep 07 - [Stable Diffusion img2imgさんに僕を神絵師にしてほしかった🦔](https://kazuhito00.hatenablog.com/entry/2022/09/07/102053)
 - Sep 03 - [PINTO_model_zoo：マルチタスクネットワーク（326_YOLOPv2）デモ追加 ※交通物体検出、道路・ラインセグメンテーション](https://kazuhito00.hatenablog.com/entry/2022/09/03/212858)
 - Aug 23 - [ColaboratoryでStable Diffusion触っています👀](https://kazuhito00.hatenablog.com/entry/2022/08/23/093647)
-- Aug 20 - [ロイヤリティフリーの360度画像を用意したかった👀](https://kazuhito00.hatenablog.com/entry/2022/08/20/215608)
 <!-- feed end -->
 
 ### How to reach me
