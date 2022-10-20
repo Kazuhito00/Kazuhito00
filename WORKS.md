@@ -16,6 +16,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/625"><img src="https://user-images.githubusercontent.com/37477845/196829589-7c73a675-0e18-4d21-8787-22bab61b56e8.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/625">物体検出モデルとmotpyを組み合わせてMOTを実現するレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/548"><img src="https://user-images.githubusercontent.com/37477845/183413181-f396b561-e6bc-4cf8-8332-9d0828346ceb.png" loading="lazy" width="200px"></a>
         </td>
         <td>
