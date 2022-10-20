@@ -635,6 +635,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/196827402-511ac1a6-869b-472e-a233-f4f06fa47a68.gif" loading="lazy" width="200px">
+       </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Informative-Drawings-ONNX-Sample">[Informative-Drawings-ONNX-Sample]</a><br>
+            Informative DrawingsのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SemanticSegmentation">Semantic Segmentation関連</a>　<a href="#Repositories">🔙</a>
         </th>
