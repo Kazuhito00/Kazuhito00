@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 21 - [Mubert-Text-to-Music での音楽生成お試し🦔](https://kazuhito00.hatenablog.com/entry/2022/10/21/094341)
 - Oct 20 - [Informative Drawingsでラフスケッチ風イラストへ変換👀](https://kazuhito00.hatenablog.com/entry/2022/10/20/131558)
 - Oct 20 - [Informative Drawingsでラフスケッチ風イラストへ変換👀](https://kazuhito00.hatenablog.com/entry/2022/10/20/131546)
 - Oct 19 - [Zenn：Pythonの辞書型(dict)でドットアクセス(dot notation)するメモ](https://kazuhito00.hatenablog.com/entry/2022/10/19/154019)
 - Oct 13 - [ONNX Runtime：CUDNN error executing cudnnAddTensor() の処置（2022年10月13現在）](https://kazuhito00.hatenablog.com/entry/2022/10/13/133248)
-- Sep 28 - [ThinkPad X1 Extreme Gen5購入](https://kazuhito00.hatenablog.com/entry/2022/09/28/091815)
 <!-- feed end -->
 
 ### How to reach me
