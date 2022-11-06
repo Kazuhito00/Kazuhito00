@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 06 - [OpenCVのremap()を用いてメッシュ変形👻](https://kazuhito00.hatenablog.com/entry/2022/11/06/215234)
 - Nov 05 - [Pop2PianoでPop音楽ベースのピアノカバー生成お試し👀](https://kazuhito00.hatenablog.com/entry/2022/11/05/133259)
 - Oct 31 - [onnx2tf で高速なTFLiteモデルに変換🏃](https://kazuhito00.hatenablog.com/entry/2022/11/01/000938)
 - Oct 23 - [NiceGUI お試し👀](https://kazuhito00.hatenablog.com/entry/2022/10/23/175354)
 - Oct 21 - [Mubert-Text-to-Music での音楽生成お試し🦔](https://kazuhito00.hatenablog.com/entry/2022/10/21/094341)
-- Oct 20 - [Informative Drawingsでラフスケッチ風イラストへ変換👀](https://kazuhito00.hatenablog.com/entry/2022/10/20/131558)
 <!-- feed end -->
 
 ### How to reach me
