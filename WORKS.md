@@ -432,6 +432,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/206067140-a0102eb5-7f25-4009-8b95-ec70658d7cc7.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/DAMO-YOLO-ONNX-Sample">[DAMO-YOLO-ONNX-Sample]</a><br>
+            DAMO-YOLOのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
