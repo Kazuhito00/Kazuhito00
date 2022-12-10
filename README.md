@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 10 - [DAMO-YOLOをColaboratory上でトレーニングするサンプル👻](https://kazuhito00.hatenablog.com/entry/2022/12/10/145925)
 - Dec 10 - [PINTO_model_zoo：セマンティックセグメンテーション（335_PIDNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2022/12/10/140956)
 - Dec 07 - [PINTO_model_zoo：姿勢推定（333_E2Pose）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/12/07/184012)
 - Dec 07 - [DAMO-YOLOのONNX推論お試し👀](https://kazuhito00.hatenablog.com/entry/2022/12/07/121224)
 - Dec 07 - [Ogaki Mini Maker Faire 2022に出展しました🦔](https://kazuhito00.hatenablog.com/entry/2022/12/07/113241)
-- Nov 14 - [PINTO_model_zoo：単眼深度推定（210_SC_Depth_pl v3）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/11/14/110320)
 <!-- feed end -->
 
 ### How to reach me
