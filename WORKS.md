@@ -441,6 +441,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/206831414-971a0238-911f-480b-9438-2a7c0a517c71.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/DAMO-YOLO-Colaboratory-Training-Sample">[DAMO-YOLO-Colaboratory-Training-Sample]</a><br>
+            DAMO-YOLOをGoogle Colaboratory上で訓練しONNX形式のファイルをエクスポートするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
