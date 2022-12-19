@@ -16,6 +16,16 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/704"><img src="https://user-images.githubusercontent.com/37477845/208381652-fc1fc054-5d9d-4053-893d-ea369306fd3b.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/704">SAHIを用いて高解像度画像・低サイズの物体を検出するレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/625"><img src="https://user-images.githubusercontent.com/37477845/196829589-7c73a675-0e18-4d21-8787-22bab61b56e8.png" loading="lazy" width="200px"></a>
         </td>
         <td>
