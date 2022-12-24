@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 24 - [Qiita：NiceGUI と OpenCV を組み合わせたい。](https://kazuhito00.hatenablog.com/entry/2022/12/24/182723)
 - Dec 21 - [Qiita：ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」](https://kazuhito00.hatenablog.com/entry/2022/12/21/144353)
 - Dec 13 - [FreeYOLOのONNX推論お試し👀](https://kazuhito00.hatenablog.com/entry/2022/12/13/153849)
 - Dec 11 - [PINTO_model_zoo：物体検出（336_PP-YOLOE-Plus）デモ追加](https://kazuhito00.hatenablog.com/entry/2022/12/11/214411)
 - Dec 10 - [DAMO-YOLOをColaboratory上でトレーニングするサンプル👻](https://kazuhito00.hatenablog.com/entry/2022/12/10/145925)
-- Dec 10 - [PINTO_model_zoo：セマンティックセグメンテーション（335_PIDNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2022/12/10/140956)
 <!-- feed end -->
 
 ### How to reach me
