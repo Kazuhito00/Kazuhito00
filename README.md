@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 31 - [2022年振り返り](https://kazuhito00.hatenablog.com/entry/2022/12/31/232901)
 - Dec 31 - [2022年振り返り その２：Kindle](https://kazuhito00.hatenablog.com/entry/2022/12/31/153847)
 - Dec 30 - [2022年振り返り その１：GitHub](https://kazuhito00.hatenablog.com/entry/2022/12/30/203828)
 - Dec 26 - [FreeYOLO(CrowdHuman)のお試し👀](https://kazuhito00.hatenablog.com/entry/2022/12/26/230941)
 - Dec 24 - [Qiita：NiceGUI と OpenCV を組み合わせたい。](https://kazuhito00.hatenablog.com/entry/2022/12/24/182723)
-- Dec 21 - [Qiita：ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」](https://kazuhito00.hatenablog.com/entry/2022/12/21/144353)
 <!-- feed end -->
 
 ### How to reach me
