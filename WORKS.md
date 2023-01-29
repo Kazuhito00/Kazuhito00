@@ -869,6 +869,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/215318473-9a1bbca5-ab2a-4730-bb51-a3806a729f27.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Bread-ONNX-Sample">[Bread-ONNX-Sample]</a><br>
+            Low-Light Image EnhancementモデルであるBreadのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="LSD">線分検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
