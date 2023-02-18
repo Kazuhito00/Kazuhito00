@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Feb 18 - [暗所ノイズ除去（SCI）の3種モデル(easy、medium、difficult)をお試し👀](https://kazuhito00.hatenablog.com/entry/2023/02/18/202006)
 - Jan 29 - [PINTO_model_zoo：暗所ノイズ除去（348_Bread）Pythonデモ追加 ＋ γ値とStrength指定デモ](https://kazuhito00.hatenablog.com/entry/2023/01/29/183823)
 - Jan 22 - [【NGK2023S】 ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」](https://kazuhito00.hatenablog.com/entry/2023/01/22/162521)
 - Jan 13 - [ATOM Cam2で庭にくる野良猫？を監視👀](https://kazuhito00.hatenablog.com/entry/2023/01/13/111709)
 - Jan 05 - [PINTO_model_zoo：人物属性判定（124_person-attributes-recognition-crossroad-0230 ～ 126_person-attributes-recognition-crossroad-0238）デモ追加](https://kazuhito00.hatenablog.com/entry/2023/01/06/003227)
-- Jan 02 - [2022年振り返り その３：Twitter](https://kazuhito00.hatenablog.com/entry/2023/01/02/130602)
 <!-- feed end -->
 
 ### How to reach me
