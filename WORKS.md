@@ -524,6 +524,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/221350622-b4f947c0-9602-4538-b06e-f8f31a200260.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/DIS-ONNX-Sample">[DIS-ONNX-Sample]</a><br>
+            背景除去モデルであるDIS/IS-NetのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
