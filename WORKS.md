@@ -16,6 +16,16 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/775"><img src="https://user-images.githubusercontent.com/37477845/222006836-f07d9208-b1d8-4735-9af3-ba6bdf088fd4.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/775">LLIE（Low-Light Image Enhancement）で低照度画像を補正し、物体検出の検出精度を底上げするレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/704"><img src="https://user-images.githubusercontent.com/37477845/208381652-fc1fc054-5d9d-4053-893d-ea369306fd3b.png" loading="lazy" width="200px"></a>
         </td>
         <td>
