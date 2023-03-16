@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 16 - [3値化（Multi-Otsu Thresholding）お試し🦔](https://kazuhito00.hatenablog.com/entry/2023/03/16/111228)
 - Mar 01 - [PINTO_model_zoo：背景除去（353_ShadowFormer）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/03/01/203259)
 - Feb 25 - [背景除去（DIS）の isnet-general-useモデルの性能をお試し👀](https://kazuhito00.hatenablog.com/entry/2023/02/25/184545)
 - Feb 25 - [PINTO_model_zoo：背景除去（313_IS-Net）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/02/25/141753)
 - Feb 24 - [PINTO_model_zoo：擬態検出（299_DGNet）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/02/24/100422)
-- Feb 23 - [PINTO_model_zoo：霧除去（325_DehazeFormer）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/02/23/235924)
 <!-- feed end -->
 
 ### How to reach me
