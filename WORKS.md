@@ -1329,6 +1329,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/225491265-5f9c3f7c-1e1f-4a7b-978d-b6c926d7cf84.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Multi-Otsu-Thresholding-Sample">[Multi-Otsu-Thresholding-Sample]</a><br>
+            OpenCVで画像を読み込み、scikit-imageのMulti-Otsu-Thresholdingを実行するサンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvOther">OpenCV：その他</a>　<a href="#Repositories">🔙</a>
         </th>
