@@ -567,6 +567,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/229956771-5e151c89-fa38-4f81-87dd-8cbad6d6cae1.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/hand-keypoint-classification-model-zoo">[hand-keypoint-classification-model-zoo]</a><br>
+            hand-gesture-recognition-using-mediapipe のキーポイント分類を寄せ集めたリポジトリ<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/122628295-4b5c4a00-d0f0-11eb-93b6-f1ccf9b3101d.gif" loading="lazy" width="200px">
         </td>
         <td>
