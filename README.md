@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 09 - [日経Linux2023年5月号に「Image-Processing-Node-Editor」を取り上げていただきました👾](https://kazuhito00.hatenablog.com/entry/2023/04/09/191357)
 - Apr 05 - [ハンドキーポイント分類向けModel Zoo🦔](https://kazuhito00.hatenablog.com/entry/2023/04/05/100746)
 - Apr 01 - [参考資料：Mobility Technologies (MoT) さんの発表資料いろいろ](https://kazuhito00.hatenablog.com/entry/2023/04/01/190714)
 - Apr 01 - [参考資料：機械学習の社会実装とか失敗とか](https://kazuhito00.hatenablog.com/entry/2023/04/01/190147)
 - Apr 01 - [参考資料：「私考える人、あなた作業する人」を越えて、プロダクトマネジメントがあたりまえになるチームを明日から実現していく方法](https://kazuhito00.hatenablog.com/entry/2023/04/01/185616)
-- Apr 01 - [参考資料：羽山さんのUXデザイン発表資料](https://kazuhito00.hatenablog.com/entry/2023/04/01/184228)
 <!-- feed end -->
 
 ### How to reach me
