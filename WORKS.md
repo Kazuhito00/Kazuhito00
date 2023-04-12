@@ -796,6 +796,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/231479158-bec9a5a5-0486-4bc4-a858-8819e7d09543.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Lite-Mono-ONNX-Sample">[Lite-Mono-ONNX-Sample]</a><br>
+            単眼深度推定モデルのLite-MonoのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MOT">MOT(Multi Object Tracking)関連</a>　<a href="#Repositories">🔙</a>
         </th>
