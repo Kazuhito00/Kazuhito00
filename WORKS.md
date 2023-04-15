@@ -186,6 +186,7 @@
 * <a href="#PoseEstimation">姿勢推定関連</a>
 * <a href="#GAN">GAN関連</a>
 * <a href="#SemanticSegmentation">Semantic Segmentation関連</a>
+* <a href="#EdgeDetection">Edge Detection関連</a>
 * <a href="#FaceDetection">顔検出関連</a>
 * <a href="#DepthEstimate">デプス推定関連</a>
 * <a href="#MOT">MOT(Multi Object Tracking)関連</a>
@@ -729,6 +730,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Informative-Drawings-ONNX-Sample">[Informative-Drawings-ONNX-Sample]</a><br>
             Informative DrawingsのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="EdgeDetection">Edge Detection関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/232208735-7923d7a6-833f-426f-b116-9e2296ba0c5b.png" loading="lazy" width="200px">　
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Skin-Clothes-Hair-Segmentation-using-SMP">[Skin-Clothes-Hair-Segmentation-using-SMP]</a><br>
+            LDC: Lightweight Dense CNN for Edge DetectionのPythonでのONNX推論サンプル<br>
         </td>
     </tr>
     <tr>
