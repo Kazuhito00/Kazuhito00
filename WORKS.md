@@ -742,7 +742,7 @@
             <img src="https://user-images.githubusercontent.com/37477845/232208735-7923d7a6-833f-426f-b116-9e2296ba0c5b.png" loading="lazy" width="200px">　
         </td>
         <td>
-            <a href="https://github.com/Kazuhito00/Skin-Clothes-Hair-Segmentation-using-SMP">[Skin-Clothes-Hair-Segmentation-using-SMP]</a><br>
+            <a href="https://github.com/Kazuhito00/LDC-ONNX-Sample">[LDC-ONNX-Sample]</a><br>
             LDC: Lightweight Dense CNN for Edge DetectionのPythonでのONNX推論サンプル<br>
         </td>
     </tr>
