@@ -153,7 +153,7 @@
         </td>
         <td>
             「<a href="https://amzn.to/43y2ZVq">日経Linux 2023年5月号</a>」の「特集1 フリーソフト究極活用術」にて、以下のリポジトリをご紹介いただきました。<br><br>
-            ・AIも活用した多様なパターンで画像処理したい！<br>
+            ・AIも活用した多様なパターンで画像処理したい！（ライター：からあげさん）<br>
             　[<a href="https://github.com/Kazuhito00/Image-Processing-Node-Editor">Kazuhito00/Image-Processing-Node-Editor</a>]<br>
         </td>
     </tr>
