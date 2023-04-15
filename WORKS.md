@@ -149,16 +149,26 @@
 <table>
     <tr>
         <td width="220">
+            <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/232175230-4fb9f614-e241-4147-845f-0592e4acf7ec.png" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            「<a href="https://amzn.to/43y2ZVq">日経Linux 2023年5月号</a>」の「特集1 フリーソフト究極活用術」にて、以下のリポジトリをご紹介いただきました。<br><br>
+            ・AIも活用した多様なパターンで画像処理したい！<br>
+            　[<a href="https://github.com/Kazuhito00/Image-Processing-Node-Editor">Kazuhito00/Image-Processing-Node-Editor</a>]<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/122628239-ff110a00-d0ef-11eb-846a-9e4703f08551.jpg" loading="lazy" width="200px"></a>
         </td>
         <td>
-             からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」「2章：AIで画像認識」にて以下のリポジトリをご紹介いただきました。<br><br>
+             からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」の「2章：AIで画像認識」にて、以下のリポジトリをご紹介いただきました。<br><br>
             ・TensorFlow Object Detection APIハンズオン資料<br>
-            [<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>]<br>
+            　[<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>]<br>
             ・データ拡張ライブラリAlbumentationsサンプル集<br>
-            [<a href="https://github.com/Kazuhito00/albumentations-examples">Kazuhito00/albumentations-examples</a>]<br>
+            　[<a href="https://github.com/Kazuhito00/albumentations-examples">Kazuhito00/albumentations-examples</a>]<br>
             ・Deep写輪眼<br>
-            [<a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">Kazuhito00/NARUTO-HandSignDetection</a>]<br>
+            　[<a href="https://github.com/Kazuhito00/NARUTO-HandSignDetection">Kazuhito00/NARUTO-HandSignDetection</a>]<br>
         </td>
     </tr>
 </table>
