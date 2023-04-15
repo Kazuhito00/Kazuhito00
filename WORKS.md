@@ -5,14 +5,10 @@
 ## Contribution
 提供した情報等をまとめています。
 
-### Axross
 <table>
     <tr>
-        <th align="left">
-            提供先
-        </th>
-        <th align="left">
-            提供内容
+        <th align="left" colspan="2">
+            <a name="LtDocument">Axross</a>
         </th>
     </tr>
     <tr>
@@ -145,8 +141,12 @@
     </tr>
 </table>
 
-### 書籍関連
 <table>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="LtDocument">書籍関連</a>
+        </th>
+    </tr>
     <tr>
         <td width="220">
             <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/232175230-4fb9f614-e241-4147-845f-0592e4acf7ec.png" loading="lazy" width="200px"></a>
