@@ -1776,6 +1776,14 @@
     </tr>
 </table>
 
+## Qiita
+Qiitaで公開している投稿一覧です。<br>
+* https://qiita.com/Kazuhito
+
+## Zenn
+Zennで公開している投稿一覧です。<br>
+* https://zenn.dev/kazuhito
+
 ## Kaggle
 Kaggleで公開しているノートブックです。<br>
 自分用の覚書がメインです。<br>
