@@ -5,6 +5,7 @@
 ## Contribution
 提供した情報等をまとめています。
 
+### Axross
 <table>
     <tr>
         <th align="left">
@@ -142,13 +143,16 @@
             「<a href="https://axross-recipe.com/recipes/136">MediaPipeを利用して簡単なジェスチャーを推定するレシピ</a>」を寄稿しました。<br>※無料記事
         </td>
     </tr>
+</table>
+
+### 書籍関連
+<table>
     <tr>
         <td width="220">
             <a href="https://amzn.to/3v5eEd7"><img src="https://user-images.githubusercontent.com/37477845/122628239-ff110a00-d0ef-11eb-846a-9e4703f08551.jpg" loading="lazy" width="200px"></a>
         </td>
         <td>
-             からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」<br>
-            「2章：AIで画像認識」にて以下のリポジトリをご紹介いただきました。<br><br>
+             からあげさんの書籍「<a href="https://amzn.to/3v5eEd7">人気ブロガーからあげ先生のとにかく楽しいAI自作教室</a>」「2章：AIで画像認識」にて以下のリポジトリをご紹介いただきました。<br><br>
             ・TensorFlow Object Detection APIハンズオン資料<br>
             [<a href="https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On">Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On</a>]<br>
             ・データ拡張ライブラリAlbumentationsサンプル集<br>
