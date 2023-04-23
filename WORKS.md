@@ -747,6 +747,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/233829579-9d3b47ab-acdc-4957-9303-ccfa20723cd1.png" loading="lazy" width="200px">　
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/LDC-Skeletonize-Sample">[LDC-Skeletonize-Sample]</a><br>
+            LDC: Lightweight Dense CNN for Edge Detectionでエッジ抽出を行い、その結果を細線化するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SemanticSegmentation">Semantic Segmentation関連</a>　<a href="#Repositories">🔙</a>
         </th>
