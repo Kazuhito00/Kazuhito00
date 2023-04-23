@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 23 - [LDC + 細線化アルゴリズム をお試し👻](https://kazuhito00.hatenablog.com/entry/2023/04/23/181055)
 - Apr 16 - [LDC: Lightweight Dense CNN for Edge Detection(線画抽出) を ONNX に変換して味見👀](https://kazuhito00.hatenablog.com/entry/2023/04/16/100105)
 - Apr 12 - [単眼深度推定 Lite-Mono を ONNX に変換して味見👀](https://kazuhito00.hatenablog.com/entry/2023/04/12/230307)
 - Apr 11 - [暗所ノイズ除去モデル FLW-Net を ONNX や TFLite（onnx2tf使用）に変換して動作確認👀](https://kazuhito00.hatenablog.com/entry/2023/04/11/112124)
 - Apr 09 - [日経Linux2023年5月号に「Image-Processing-Node-Editor」を取り上げていただきました👾](https://kazuhito00.hatenablog.com/entry/2023/04/09/191357)
-- Apr 05 - [ハンドキーポイント分類向けModel Zoo🦔](https://kazuhito00.hatenablog.com/entry/2023/04/05/100746)
 <!-- feed end -->
 
 ### How to reach me
