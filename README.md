@@ -1,7 +1,7 @@
 ![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
 
-### Github Trophy & Kaggle Badge
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px">
+### Github Trophy <!--& Kaggle Badge-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy) <!--<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px">-->
 
 ### About Me
 - 名古屋で組込みエンジニア(C/C++)をしていました。<br>I was an embedded engineer(C/C++) in Japan Aichi Nagoya.
