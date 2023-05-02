@@ -196,6 +196,7 @@
 * <a href="#LSD">線分検出関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
+* <a href="#Colaboratory">Colaboratory関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
 * <a href="#OpenCvImageFilter">OpenCV：画像フィルタ</a>
 * <a href="#OpenCvDaTool">OpenCV：機械学習 データ作成向けツール</a>
@@ -1075,6 +1076,21 @@
             <a href="https://github.com/Kazuhito00/NeuralNetworkConsole-MNIST-Sample">[NeuralNetworkConsole-MNIST-Sample]</a><br>
             Neural Network ConsoleでMNISTを学習するサンプル<br>
             ・MNISTデータセットダウンロード(Jupyter Notebook)<br>・学習・モデル構造自動探索(Neural Network Console)<br>・ONNX推論(Jupyter Notebook)
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Colaboratory">Colaboratory関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/235562840-7910ed92-71d3-4d25-9af1-70b9eb35ac77.gif" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/simple-annotation-on-colab">[simple-annotation-on-colab]</a><br>
+            colab_utils.pyを使用しColaboratory上で簡易なアノテーションを実施<br>
+            オリジナル版のバウンディングボックスのアノテーション機能の他に、試験的に多角形のアノテーション機能を追加<br>
         </td>
     </tr>
     <tr>
