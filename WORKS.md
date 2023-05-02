@@ -1090,7 +1090,7 @@
         <td>
             <a href="https://github.com/Kazuhito00/simple-annotation-on-colab">[simple-annotation-on-colab]</a><br>
             colab_utils.pyを使用しColaboratory上で簡易なアノテーションを実施<br>
-            オリジナル版のバウンディングボックスのアノテーション機能の他に、試験的に多角形のアノテーション機能を追加<br>
+            オリジナル版のバウンディングボックスのアノテーション機能の他に、<br>試験的に多角形のアノテーション機能を追加<br>
         </td>
     </tr>
     <tr>
