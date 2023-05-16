@@ -13,6 +13,16 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/1095"><img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/a5c3cc95-b201-4c83-a81e-621b35097cc7" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/1095">DM-Countを用いて群衆カウント(Crowd Counting)を行うレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/775"><img src="https://user-images.githubusercontent.com/37477845/222006836-f07d9208-b1d8-4735-9af3-ba6bdf088fd4.png" loading="lazy" width="200px"></a>
         </td>
         <td>
