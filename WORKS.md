@@ -204,6 +204,7 @@
 * <a href="#DeHazingDeRainDeSnow">霧除去、雨除去、雪除去関連</a>
 * <a href="#LLIE">Low-Light Image Enhancement関連</a>
 * <a href="#LSD">線分検出関連</a>
+* <a href="#OCR">OCR関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#Colaboratory">Colaboratory関連</a>
@@ -984,6 +985,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/M-LSD-warpPerspective-Example">[M-LSD-warpPerspective-Example]</a><br>
             M-LSDを用いて四角形を検出し、射影変換を行うサンプルプログラム
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="OCR">OCR関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/PaddleOCR-ONNX-Sample/assets/37477845/190adbc9-c65d-47b8-a7fe-d73f4f28e1b2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PaddleOCR-ONNX-Sample">[PaddleOCR-ONNX-Sample]</a><br>
+            PaddleOCRのPythonでのONNX推論サンプル
         </td>
     </tr>
     <tr>
