@@ -13,6 +13,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/1172"><img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/dcd156a9-3919-41d4-9046-640cba68224b" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/1172">YOLOPv2で車検出、路面セグメンテーション、レーン検出を行うレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/1095"><img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/a5c3cc95-b201-4c83-a81e-621b35097cc7" loading="lazy" width="200px"></a>
         </td>
         <td>
