@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 25 - [OpenCVのNanoTrackを動作確認👀](https://kazuhito00.hatenablog.com/entry/2023/07/25/112934)
 - Jul 12 - [PINTO_model_zoo：インタラクティブセグメンテーション（391_MagicTouch）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/07/12/145049)
 - Jul 12 - [PINTO_model_zoo：霧除去・雨除去・雪除去（389_WGWS-Net）Pythonデモ追加](https://kazuhito00.hatenablog.com/entry/2023/07/12/105323)
 - Jul 10 - [【Python東海#43】Image-Processing-Node-Editor](https://kazuhito00.hatenablog.com/entry/2023/07/10/202743)
 - Jul 07 - [YOLOPv2 ONNX推論お試し👀](https://kazuhito00.hatenablog.com/entry/2023/07/07/121024)
-- Jun 26 - [【機械学習名古屋 2023/06/24】Visual Blocks for ML](https://kazuhito00.hatenablog.com/entry/2023/06/26/101631)
 <!-- feed end -->
 
 ### How to reach me
