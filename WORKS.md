@@ -1224,6 +1224,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/888355c8-81fd-4462-8338-dd07ba1d80ee" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cv_rotate_3d">[cv_rotate_3d]</a><br>
+            OpenCVでX軸、Y軸、Z軸の回転を行うサンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenCvImageFilter">OpenCV：画像フィルタ</a>　<a href="#Repositories">🔙</a>
         </th>
