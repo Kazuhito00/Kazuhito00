@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 28 - [OpenLendaで信号機検出をお試し🚥](https://kazuhito00.hatenablog.com/entry/2023/10/28/181826)
 - Oct 07 - [Colab AIお試し👀](https://kazuhito00.hatenablog.com/entry/2023/10/07/182857)
 - Oct 02 - [ProPainterお試し👀](https://kazuhito00.hatenablog.com/entry/2023/10/03/080355)
 - Sep 16 - [【Python】NumPyのmemmap()を使って、OpenCVの画像を他プロセスに受け渡すメモ](https://kazuhito00.hatenablog.com/entry/2023/09/16/172839)
 - Sep 09 - [Heronの学習済モデルをお試し🦔](https://kazuhito00.hatenablog.com/entry/2023/09/09/191132)
-- Aug 16 - [【Unagi.py 56枚目】動物園（PINTO_model_zoo）に遊びに行こう🦔](https://kazuhito00.hatenablog.com/entry/2023/08/16/102530)
 <!-- feed end -->
 
 ### How to reach me
