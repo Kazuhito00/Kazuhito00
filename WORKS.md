@@ -714,7 +714,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/94e8db39-a7a2-4a16-ae8c-a21a41fd1988" loading="lazy" width="200px">
+            <img src="https://user-images.githubusercontent.com/37477845/130483561-2a91bf72-3ce2-4651-a12f-c8ba2d6330e8.gif" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/MoveNet-Python-Example">[MoveNet-Python-Example]</a><br>
@@ -723,7 +723,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/130483561-2a91bf72-3ce2-4651-a12f-c8ba2d6330e8.gif" loading="lazy" width="200px">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/94e8db39-a7a2-4a16-ae8c-a21a41fd1988" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Detection-PoseEstimation-Pipeline">[Detection-PoseEstimation-Pipeline]</a><br>
