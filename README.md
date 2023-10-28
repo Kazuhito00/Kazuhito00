@@ -23,7 +23,7 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Oct 28 - [物体検出した結果を姿勢推定する🏃](https://kazuhito00.hatenablog.com/entry/2023/10/29/001221)
+- Oct 28 - [物体検出した結果に対して姿勢推定をする🏃](https://kazuhito00.hatenablog.com/entry/2023/10/29/001221)
 - Oct 28 - [OpenLendaで信号機検出をお試し🚥](https://kazuhito00.hatenablog.com/entry/2023/10/28/181826)
 - Oct 07 - [Colab AIお試し👀](https://kazuhito00.hatenablog.com/entry/2023/10/07/182857)
 - Oct 02 - [ProPainterお試し👀](https://kazuhito00.hatenablog.com/entry/2023/10/03/080355)
