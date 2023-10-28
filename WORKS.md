@@ -515,6 +515,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/8fd02599-c303-4fe4-abfe-99c580a2f72e" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/openlenda-onnx-inference-sample">[openlenda-onnx-inference-sample]</a><br>
+            OpenLendaのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
