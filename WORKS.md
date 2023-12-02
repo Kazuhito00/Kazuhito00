@@ -13,6 +13,15 @@
     </tr>
     <tr>
         <td width="220">
+            <a href="https://axross-recipe.com/recipes/1348"><img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/1f217d0c-0751-4342-b637-25615863758a" loading="lazy" width="200px"></a>
+        </td>
+        <td>
+            <a href="https://axross-recipe.com">Axross</a>様に<br>
+            「<a href="https://axross-recipe.com/recipes/1348">Visual Blocks for MLを用いて視覚的にMLを試すレシピ</a>」を寄稿しました。<br>※無料記事
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <a href="https://axross-recipe.com/recipes/1172"><img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/5a64e1ed-852e-4949-a7c2-18ce4fe74170" loading="lazy" width="200px"></a>
         </td>
         <td>
