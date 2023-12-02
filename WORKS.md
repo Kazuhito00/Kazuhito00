@@ -950,6 +950,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/79cffc96-5f5a-49e1-9e10-2c2bd209dc07" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/vehicle-reid-0001-onnx-sample">[vehicle-reid-0001-onnx-sample]</a><br>
+            vehicle-reid-0001 を用いて、Vehicle ReIDを行うサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="CrowdCounting">Crowd Counting、Object Counting関連</a>　<a href="#Repositories">🔙</a>
         </th>
