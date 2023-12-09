@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 09 - [Qiita：【Python】OpenCVでAudio読み込みお試し](https://kazuhito00.hatenablog.com/entry/2023/12/10/004720)
 - Dec 09 - [試作：ラズパイで音拾ってインターホンの音だったらLINE通知🦔](https://kazuhito00.hatenablog.com/entry/2023/12/09/150115)
 - Dec 06 - [Qiita：あれ？ dnnモジュールのONNX推論早くねえ？いや、やっぱ遅えかも。。。 ※2023/12/05時点](https://kazuhito00.hatenablog.com/entry/2023/12/06/093818)
 - Dec 02 - [vehicle-reid-0001 お試し👀](https://kazuhito00.hatenablog.com/entry/2023/12/02/203438)
 - Nov 30 - [PINTO_model_zoo：人検出（425_Gold-YOLO-Body-Head-Hand）味見👀](https://kazuhito00.hatenablog.com/entry/2023/11/30/101616)
-- Nov 18 - [【Python東海#44】Pydroid3で画像処理🦔](https://kazuhito00.hatenablog.com/entry/2023/11/18/190641)
 <!-- feed end -->
 
 ### How to reach me
