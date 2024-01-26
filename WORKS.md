@@ -1443,7 +1443,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/OpenCV-Object-Tracker-Python-Sample">[OpenCV-Object-Tracker-Python-Sample]</a><br>
-            Python版OpenCVのTracking APIのサンプル<br>DaSiamRPNアルゴリズムまで対応<br>
+            Python版OpenCVのTracking APIのサンプル<br>
         </td>
     </tr>
     <tr>
