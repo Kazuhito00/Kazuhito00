@@ -1572,6 +1572,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/8cae3920-3b6b-47d6-a27b-0ac0a96de0c7" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/csp-psd-image-viewer">[csp-psd-image-viewer]</a><br>
+           CLIP STUDIO PAINT（.clip）や Photoshop（.psd）のレイヤー画像の簡易ビューア<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="M5Stack">M5Stack関連</a>　<a href="#Repositories">🔙</a>
         </th>
