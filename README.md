@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 06 - [クリスタのclipファイルから、レイヤー名や画像を取得するツール（非公式）🦔](https://kazuhito00.hatenablog.com/entry/2024/04/06/160822)
 - Apr 06 - [【Python】パワポのオートシェイプでQRコードを作るスクリプト](https://kazuhito00.hatenablog.com/entry/2024/04/06/144154)
 - Mar 21 - [heron-blip-v1 を Colab で試してから2週間たっている、、、ですって、、、👀](https://kazuhito00.hatenablog.com/entry/2024/03/21/211508)
 - Jan 28 - [【NGK2024S】 それ、パワポですか？](https://kazuhito00.hatenablog.com/entry/2024/01/28/193349)
 - Jan 26 - [OpenCVのViTトラッカー味見👀](https://kazuhito00.hatenablog.com/entry/2024/01/26/161023)
-- Jan 21 - [LLaVA-JPをColaboratoryでお試し。](https://kazuhito00.hatenablog.com/entry/2024/01/21/111549)
 <!-- feed end -->
 
 ### How to reach me
