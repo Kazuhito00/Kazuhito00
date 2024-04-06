@@ -232,6 +232,7 @@
 * <a href="#OpenCvSample">OpenCV：実装サンプル</a>
 * <a href="#OpenCvCamera">OpenCV：カメラユーティリティ</a>
 * <a href="#OpenCvOther">OpenCV：その他</a>
+* <a href="#ClipStudio">CLIP STUDIO PAINT関連</a>
 * <a href="#M5Stack">M5Stack関連</a>
 * <a href="#Unity">Unity関連</a>
 * <a href="#JinsMeme">JINS MEME関連</a>
@@ -1554,6 +1555,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Overlay-Audio-Spectrum-Using-OpenCV">[Overlay-Audio-Spectrum-Using-OpenCV]</a><br>
             オーディオスペクトラムや波形をOpenCVで、はめ込み描画するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="ClipStudio">CLIP STUDIO PAINT関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/a4824a90-64dc-4671-9eb4-4ff05d04f41a" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/clip_studio_paint_tool">[clip_studio_paint_tool]</a><br>
+            CLIP STUDIO PAINT（クリスタ）のファイル（.clip）から、レイヤー名やサムネイル画像、ラスター画像を取得するツール（非公式）<br>
         </td>
     </tr>
     <tr>
