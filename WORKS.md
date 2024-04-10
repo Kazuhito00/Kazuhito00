@@ -846,6 +846,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/04c0bd8a-82b3-4860-bec2-f1f5519d82f7" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Segment-Anything-Model-ONNX-Sample">[Segment-Anything-Model-ONNX-Sample]</a><br>
+            segment-anything のエンコーダー/デコーダーをONNXに変換し、推論するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
