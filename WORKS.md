@@ -869,7 +869,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/EfficientSAM-ONNX-Sample">[EfficientSAM-ONNX-Sample]</a><br>
-            EfficientSAM のエンコーダー/デコーダーをONNXに変換し、推論するサンプル<br>
+            EfficientSAM をColaboraotry上でONNX推論するサンプル<br>
         </td>
     </tr>
     <tr>
