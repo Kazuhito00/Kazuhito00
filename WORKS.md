@@ -1594,6 +1594,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/b03ee118-4f82-4aa6-bae7-1345434f72b2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/VidStab-Compare-Sample">[VidStab-Compare-Sample]</a><br>
+            VidStab の各キーポイント抽出方法を比較し、動画を出力するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="ClipStudio">CLIP STUDIO PAINT関連</a>　<a href="#Repositories">🔙</a>
         </th>
