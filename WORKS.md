@@ -232,6 +232,7 @@
 * <a href="#OpenCvSample">OpenCV：実装サンプル</a>
 * <a href="#OpenCvCamera">OpenCV：カメラユーティリティ</a>
 * <a href="#OpenCvOther">OpenCV：その他</a>
+* <a href="#VideoStabilizer">手ブレ補正関連</a>
 * <a href="#ClipStudio">CLIP STUDIO PAINT関連</a>
 * <a href="#M5Stack">M5Stack関連</a>
 * <a href="#Unity">Unity関連</a>
@@ -1592,6 +1593,11 @@
             <a href="https://github.com/Kazuhito00/Overlay-Audio-Spectrum-Using-OpenCV">[Overlay-Audio-Spectrum-Using-OpenCV]</a><br>
             オーディオスペクトラムや波形をOpenCVで、はめ込み描画するサンプル<br>
         </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="VideoStabilizer">手ブレ補正関連</a>　<a href="#Repositories">🔙</a>
+        </th>
     </tr>
     <tr>
         <td width="220">
