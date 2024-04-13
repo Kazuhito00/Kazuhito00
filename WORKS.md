@@ -1609,6 +1609,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/15f97f57-b188-4afa-9890-af90f4b2914c" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/GlobalFlowNet-Colaboratory-Sample">[GlobalFlowNet-Colaboratory-Sample]</a><br>
+            GlobalFlowNet をColaboraotry上で推論するサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="ClipStudio">CLIP STUDIO PAINT関連</a>　<a href="#Repositories">🔙</a>
         </th>
