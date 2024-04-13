@@ -1599,7 +1599,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/VidStab-Compare-Sample">[VidStab-Compare-Sample]</a><br>
-            VidStab の各キーポイント抽出方法を比較し、動画を出力するサンプル<br>
+            ブレ補正ライブラリのVidStab の各キーポイント抽出方法を比較し、動画を出力するサンプル<br>
         </td>
     </tr>
     <tr>
