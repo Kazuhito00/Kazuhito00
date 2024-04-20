@@ -1619,7 +1619,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/15f97f57-b188-4afa-9890-af90f4b2914c" loading="lazy" width="200px">
+            <img src="https://github.com/Kazuhito00/Kazuhito00/assets/37477845/bc8ae253-78cc-4fa8-91a7-97d9fcabbb44" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/MeshFlow-Colaboratory-Sample">[MeshFlow-Colaboratory-Sample]</a><br>
