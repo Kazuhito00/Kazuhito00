@@ -1066,6 +1066,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/164887146-c1fae2cc-3f79-4330-8518-9e2bd1d5beb0.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/LYT-Net-ONNX-Sample">[LYT-Net-ONNX-Sample]</a><br>
+            Low-Light Image EnhancementモデルであるLYT-NetのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="LSD">線分検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
