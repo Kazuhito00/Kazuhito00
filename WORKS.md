@@ -225,6 +225,7 @@
 * <a href="#OCR">OCR関連</a>
 * <a href="#ImageMatching">Image Matching関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
+* <a href="#ChatGPT">ChatGPT関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#Colaboratory">Colaboratory関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -1192,6 +1193,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/onnx-model-encrypt-sample">[onnx-model-encrypt-sample]</a><br>
             ONNXモデルをpyca/cryptographyを用いて暗号化/復号化するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="ChatGPT">ChatGPT関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/Kazuhito00/OpenAI-chat-completions-Colaboratory-Sample/assets/37477845/cb46d213-de0e-4917-9799-6203d5b90787" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/OpenAI-chat-completions-Colaboratory-Sample">[OpenAI-chat-completions-Colaboratory-Sample]</a><br>
+            Colaboratory上でChatGPTのAPIをお試しするサンプル<br>
         </td>
     </tr>
     <tr>
