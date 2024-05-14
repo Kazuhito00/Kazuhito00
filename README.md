@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- May 14 - [ChatGPTのAPI（モデル：gpt-4o-2024-05-13）をお試し👀](https://kazuhito00.hatenablog.com/entry/2024/05/14/104051)
 - May 07 - [【Python】指定のS3ディレクトリから再帰的にファイルをダウンロード🦔](https://kazuhito00.hatenablog.com/entry/2024/05/08/001237)
 - May 07 - [【Python】GetClipを使用してAmazon Kinesis Videoから指定時間分の動画をダウンロードするスクリプト🦔](https://kazuhito00.hatenablog.com/entry/2024/05/08/000903)
 - May 04 - [XFeatをONNXに変換してお試し👀](https://kazuhito00.hatenablog.com/entry/2024/05/04/143610)
 - Apr 24 - [LLIE系モデルLYT-Netお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/24/203614)
-- Apr 24 - [一人歩きする資料くん👀](https://kazuhito00.hatenablog.com/entry/2024/04/24/201424)
 <!-- feed end -->
 
 ### How to reach me
