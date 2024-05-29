@@ -258,6 +258,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://github.com/Kazuhito00/presentation-2024/assets/37477845/4b25af37-0e00-498f-abbb-4fda3665f2e7" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/presentation-2024">[presentation-2024]</a><br>
+            LT資料をまとめたリポジトリ(2024年用)<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://github.com/Kazuhito00/presentation-2023/assets/37477845/3a31f6bc-9879-4aad-8aac-96bca78be4df" loading="lazy" width="200px">
         </td>
         <td>
