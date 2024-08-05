@@ -894,6 +894,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/32d5b837-7214-42a7-8f41-62cba79ce4f8" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/SAM2-Colaboratory-Sample">[SAM2-Colaboratory-Sample]</a><br>
+            Colaboratory上でSAM2をお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
