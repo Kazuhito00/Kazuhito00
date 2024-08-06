@@ -1049,6 +1049,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/b6780b58-ce4d-487c-aac0-7a74c9ff7628" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/MPCount-ONNX-Sample">[MPCount-ONNX-Sample]</a><br>
+            MPCountのONNX変換/推論のサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="DeHazingDeRainDeSnow">霧除去、雨除去、雪除去関連</a>　<a href="#Repositories">🔙</a>
         </th>
