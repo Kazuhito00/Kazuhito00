@@ -234,6 +234,7 @@
 * <a href="#OpenCvSample">OpenCV：実装サンプル</a>
 * <a href="#OpenCvCamera">OpenCV：カメラユーティリティ</a>
 * <a href="#OpenCvOther">OpenCV：その他</a>
+* <a href="#OpenVINO">OpenVINO関連</a>
 * <a href="#VideoStabilizer">手ブレ補正関連</a>
 * <a href="#ClipStudio">CLIP STUDIO PAINT関連</a>
 * <a href="#M5Stack">M5Stack関連</a>
@@ -1667,6 +1668,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Overlay-Audio-Spectrum-Using-OpenCV">[Overlay-Audio-Spectrum-Using-OpenCV]</a><br>
             オーディオスペクトラムや波形をOpenCVで、はめ込み描画するサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="OpenVINO">OpenVINO関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/a4e5e88b-8935-4b65-9485-ba4217b59de5" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/OpenVINO-Colab-Inference-Sample-using-various-frameworks-weights">[OpenVINO-Colab-Inference-Sample-using-various-frameworks-weights]</a><br>
+            OpenVINOのColaboratory上での各フレームワークの重み推論サンプル<br>
         </td>
     </tr>
     <tr>
