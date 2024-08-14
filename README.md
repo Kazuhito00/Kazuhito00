@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 14 - [BiRefNetをONNXに変換して味見👻](https://kazuhito00.hatenablog.com/entry/2024/08/14/123132)
 - Aug 13 - [PINTO_model_zoo：暗所ノイズ除去（418_Diffusion-Low-Light）味見👀](https://kazuhito00.hatenablog.com/entry/2024/08/13/092409)
 - Aug 10 - [OpenVINOで各フレームワーク（ONNX、TensorFlow、TFLite、PaddlePad）の重みを読み込んで推論🦔](https://kazuhito00.hatenablog.com/entry/2024/08/10/185151)
 - Aug 06 - [MPCountで群衆カウントお試し👀](https://kazuhito00.hatenablog.com/entry/2024/08/06/204630)
 - Aug 05 - [SAM2をColaboratoryで味見👀](https://kazuhito00.hatenablog.com/entry/2024/08/05/213633)
-- Jul 27 - [Zenn：Jetson Xavier NX でインターネット経由でリモート接続するメモ ※要ngrok有料プラン](https://kazuhito00.hatenablog.com/entry/2024/07/27/180628)
 <!-- feed end -->
 
 ### How to reach me
