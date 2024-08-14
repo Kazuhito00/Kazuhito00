@@ -629,6 +629,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/56aa87c1-7203-49af-b89e-be82e538abd6" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/BiRefNet-ONNX-Sample">[BiRefNet-ONNX-Sample]</a><br>
+            BiRefNetのPythonでのONNX変換・推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="MediaPipe">MediaPipe関連</a>　<a href="#Repositories">🔙</a>
         </th>
