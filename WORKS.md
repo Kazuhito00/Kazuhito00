@@ -630,7 +630,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/56aa87c1-7203-49af-b89e-be82e538abd6" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/9179f796-de1b-4c1f-a3e8-0340cbc65661" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/BiRefNet-ONNX-Sample">[BiRefNet-ONNX-Sample]</a><br>
