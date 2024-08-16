@@ -597,6 +597,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/nsfw_model_onnx_sample">[nsfw_model_onnx_sample]</a><br>
+            NSFW判定モデルのGantMan/nsfw_modelのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="SalientObjectDetection">Salient Object Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
