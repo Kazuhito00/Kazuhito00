@@ -226,6 +226,7 @@
 * <a href="#ImageMatching">Image Matching関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#ChatGPT">ChatGPT関連</a>
+* <a href="#VLM">VLM関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#Colaboratory">Colaboratory関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -1271,6 +1272,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/OpenAI-chat-completions-Colaboratory-Sample">[OpenAI-chat-completions-Colaboratory-Sample]</a><br>
             Colaboratory上でChatGPTのAPIをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="VLM">VLM関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/b38048dd-0fc6-4e97-9fae-8454ce8e04c3" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/MobileVLM-V2-Colaboratory-Sample">[MobileVLM-V2-Colaboratory-Sample]</a><br>
+            Colaboratory上でMobileVLM V2をお試しするサンプル<br>
         </td>
     </tr>
     <tr>
