@@ -1289,6 +1289,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/21310ec8-fe9c-43f7-9268-745f0caefeec" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Florence-2-Colaboratory-Sample">[Florence-2-Colaboratory-Sample]</a><br>
+            Microsoft の軽量VLMのFlorence-2のColaboratory上でのサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
