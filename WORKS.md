@@ -1298,6 +1298,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/8fe7fca9-ec48-42a8-8a9d-658be518cdf2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/MiniCPM-V2.6-Colaboratory-Sample">[MiniCPM-V2.6-Colaboratory-Sample]</a><br>
+            軽量VLMのMiniCPM-V2.6のColaboratoryサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
