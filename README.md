@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 21 - [メモ：Colaboratoryで個人的に良く使うのに毎回ググったり探し回ったりしているもの](https://kazuhito00.hatenablog.com/entry/2024/08/21/135524)
 - Aug 20 - [MiniCPM-V2.6 を Colaboratory でお試し🔍](https://kazuhito00.hatenablog.com/entry/2024/08/20/204803)
 - Aug 17 - [Florence 2 を Colaboratory でお試し🔍](https://kazuhito00.hatenablog.com/entry/2024/08/17/173138)
 - Aug 17 - [MobileVLM V2 を Colaboratory でお試し🔍](https://kazuhito00.hatenablog.com/entry/2024/08/17/104228)
 - Aug 16 - [Zennスクラップ：insightface と inswapper_128.onnx を用いてフェイススワップを行うColaboratoryノートブック](https://kazuhito00.hatenablog.com/entry/2024/08/16/183706)
-- Aug 16 - [nsfw_modelをONNXに変換して味見🦔](https://kazuhito00.hatenablog.com/entry/2024/08/16/174509)
 <!-- feed end -->
 
 ### How to reach me
