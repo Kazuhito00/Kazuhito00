@@ -932,6 +932,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/c1b0f333-2cf3-4925-9fe6-4a9686bda3c5" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/cloths_segmentation-onnx-sample">[cloths_segmentation-onnx-sample]</a><br>
+            衣服セグメンテーションモデルのcloths_segmentationのONNX変換/推論のサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
