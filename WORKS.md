@@ -1,4 +1,10 @@
 <!-- https://developers.google.com/speed/pagespeed/insights/?hl=JA&url=https%3A%2F%2Fgithub.com%2FKazuhito00%2FKazuhito00%2Fblob%2Fmaster%2FWORKS.md -->
+
+<!--
+更新履歴メモ：
+　2024/08/31　https://github.com/Kazuhito00/cloths_segmentation-onnx-sample
+-->
+
 # WORKS
 提供物、寄稿、公開リポジトリの内容をまとめています。
 
