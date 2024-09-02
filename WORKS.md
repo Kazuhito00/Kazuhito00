@@ -669,11 +669,11 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/122628277-32ec2f80-d0f0-11eb-865c-d21400a0bbef.gif" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/b6db982a-fb64-490b-abbf-6d15de141f1b" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/mediapipe-python-sample">[mediapipe-python-sample]</a><br>
-            MediaPipeのPythonパッケージのサンプル<br>2021/12/14時点でPython実装のある7機能<br>(Hands、Pose、Face Mesh、Holistic、Face Detection、Objectron、Selfie Segmentation)を実装<br>
+            MediaPipeのPythonパッケージのサンプル<br>2024/9/1時点でPython実装のある15機能を実装<br>
         </td>
     </tr>
     <tr>
