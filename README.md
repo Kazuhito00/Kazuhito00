@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 08 - [White-box-Cartoonization（TensorFlow1.x系モデル） を Colaboratory で実行🦔](https://kazuhito00.hatenablog.com/entry/2024/09/08/114102)
 - Sep 04 - [Qwen2-VLをColaboratoryでお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/09/04/225352)
 - Sep 02 - [MediaPipe Python サンプルをレガシーソリューションから新ソリューションに更新🦔](https://kazuhito00.hatenablog.com/entry/2024/09/02/203624)
 - Sep 01 - [cloths_segmentationをONNXに変換してお試し🏃](https://kazuhito00.hatenablog.com/entry/2024/09/01/150721)
 - Aug 30 - [Large Language Mario：VLMはやっぱり位置関係の把握が苦手🍄？](https://kazuhito00.hatenablog.com/entry/2024/08/30/130815)
-- Aug 29 - [PythonでBrainf*ckのソースコードを生成して、Brainf*ckのソースコードをPythonで実行🙄](https://kazuhito00.hatenablog.com/entry/2024/08/29/225204)
 <!-- feed end -->
 
 ### How to reach me
