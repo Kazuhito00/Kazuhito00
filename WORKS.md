@@ -1167,7 +1167,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/d1124ac1-8787-485c-9748-7ac3124f3a22" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/bc2fab02-f400-4188-9976-98798ab18fc1" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/CoLIE-Colaboratory-Sample">[CoLIE-Colaboratory-Sample]</a><br>
