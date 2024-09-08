@@ -847,6 +847,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/b1087822-903f-4e26-a50d-bb5daa205f92" loading="lazy" width="200px">
+       </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/White-box-Cartoonization-Colaboratory-Sample">[White-box-Cartoonization-Colaboratory-Sample]</a><br>
+            Colaboratory上でWhite-box-Cartoonizationをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="EdgeDetection">Edge Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
