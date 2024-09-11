@@ -952,7 +952,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/a7aca593-7abd-47e2-8d8d-9df93202837e" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/3e2b2eca-6d6e-4afd-86c0-ba5e45c3dce9" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/CartoonSegmentationOnnx-Colaboratory-Sample">[CartoonSegmentationOnnx-Colaboratory-Sample]</a><br>
@@ -961,7 +961,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/3e2b2eca-6d6e-4afd-86c0-ba5e45c3dce9" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/a7aca593-7abd-47e2-8d8d-9df93202837e" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/SegGPT-Colaboratory-Sample">[SegGPT-Colaboratory-Sample]</a><br>
