@@ -1,10 +1,5 @@
 <!-- https://developers.google.com/speed/pagespeed/insights/?hl=JA&url=https%3A%2F%2Fgithub.com%2FKazuhito00%2FKazuhito00%2Fblob%2Fmaster%2FWORKS.md -->
 
-<!--
-更新履歴メモ：
-　2024/08/31　https://github.com/Kazuhito00/cloths_segmentation-onnx-sample
--->
-
 # WORKS
 提供物、寄稿、公開リポジトリの内容をまとめています。
 
@@ -957,11 +952,20 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/3e2b2eca-6d6e-4afd-86c0-ba5e45c3dce9" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/a7aca593-7abd-47e2-8d8d-9df93202837e" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/CartoonSegmentationOnnx-Colaboratory-Sample">[CartoonSegmentationOnnx-Colaboratory-Sample]</a><br>
             Colaboratory上でCartoonSegmentationOnnxをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/3e2b2eca-6d6e-4afd-86c0-ba5e45c3dce9" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/SegGPT-Colaboratory-Sample">[SegGPT-Colaboratory-Sample]</a><br>
+            Colaboratory上でSegGPTをお試しするサンプル<br>
         </td>
     </tr>
     <tr>
