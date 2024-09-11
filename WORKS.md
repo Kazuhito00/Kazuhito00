@@ -956,6 +956,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/3e2b2eca-6d6e-4afd-86c0-ba5e45c3dce9" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/CartoonSegmentationOnnx-Colaboratory-Sample">[CartoonSegmentationOnnx-Colaboratory-Sample]</a><br>
+            Colaboratory上でCartoonSegmentationOnnxをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="FaceDetection">顔検出関連</a>　<a href="#Repositories">🔙</a>
         </th>
