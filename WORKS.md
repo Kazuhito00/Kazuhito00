@@ -961,6 +961,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://github.com/user-attachments/assets/f070a525-94f8-4786-9def-88de2aacc347" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Anime-Segmentation-ONNX-Colaboratory-Sample">[Anime-Segmentation-ONNX-Colaboratory-Sample]</a><br>
+            Colaboratory上でSegGPTをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://github.com/user-attachments/assets/a7aca593-7abd-47e2-8d8d-9df93202837e" loading="lazy" width="200px">
         </td>
         <td>
