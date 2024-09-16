@@ -1362,6 +1362,24 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/7b314942-ff51-4463-8d95-a1c36a839de2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qwen2-VL-Colaboratory-Sample">[Qwen2-VL-Colaboratory-Sample]</a><br>
+            Colaboratory上でQwenLM/Qwen2-VLをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/3af2c2d6-d154-4923-acbb-f2857f88f136" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Phi3.5-Vision-Colaboratory-Sample">[QPhi3.5-Vision-Colaboratory-Sample]</a><br>
+            Colaboratory上でPhi-3.5-vision-instructをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
