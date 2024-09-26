@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 26 - [Molmo を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/09/26/235326)
 - Sep 16 - [Phi3.5-Vision を Colaboratory でお試し👀](https://kazuhito00.hatenablog.com/entry/2024/09/16/180048)
 - Sep 12 - [Anime-Segmentation の ONNX を Colaboraotry上でお試し📚](https://kazuhito00.hatenablog.com/entry/2024/09/12/115042)
 - Sep 11 - [SegGPT を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/09/11/235532)
 - Sep 11 - [CartoonSegmentationOnnx を Colaboratory でお試し📚](https://kazuhito00.hatenablog.com/entry/2024/09/11/202712)
-- Sep 08 - [暗闇補正のCoLIEをColaboratoryでお試し🌙](https://kazuhito00.hatenablog.com/entry/2024/09/08/121532)
 <!-- feed end -->
 
 ### How to reach me
