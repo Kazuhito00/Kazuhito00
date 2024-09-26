@@ -1372,7 +1372,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/49a9e3e5-a364-4d6c-ac1d-6dd9f79f7ae6" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/3af2c2d6-d154-4923-acbb-f2857f88f136" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Phi3.5-Vision-Colaboratory-Sample">[Phi3.5-Vision-Colaboratory-Sample]</a><br>
@@ -1381,7 +1381,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/3af2c2d6-d154-4923-acbb-f2857f88f136" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/49a9e3e5-a364-4d6c-ac1d-6dd9f79f7ae6" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Molmo-Colaboratory-Sample">[Molmo-Colaboratory-Sample]</a><br>
