@@ -1385,7 +1385,16 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Molmo-Colaboratory-Sample">[Molmo-Colaboratory-Sample]</a><br>
-            Colaboratory上でallenai/Molmoをお試しするサンプル<br>
+            Colaboratory上でMolmoをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/484b6b34-2584-4e29-8b51-cce8f86fd610" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Phantom-Colaboratory-Sample">[Phantom-Colaboratory-Sample]</a><br>
+            Colaboratory上でPhantomをお試しするサンプル<br>
         </td>
     </tr>
     <tr>
