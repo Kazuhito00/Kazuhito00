@@ -567,6 +567,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/51abb029-3223-4629-b2ed-0d9412762d55" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/RT-DETR-ONNX-Sample">[RT-DETR-ONNX-Sample]</a><br>
+            RT-DETR(v2)のPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
