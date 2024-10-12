@@ -576,6 +576,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/6828e61a-9622-41b5-a792-3ddc3326319a" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/RT-DETR-Colaboratory-Training-Sample">[RT-DETR-Colaboratory-Training-Sample]</a><br>
+            RT-DETR(v2 ※PyTorch版)をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
