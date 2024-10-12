@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 12 - [RT-DETR(v2) を ONNX推論おためし👀](https://kazuhito00.hatenablog.com/entry/2024/10/12/111104)
 - Sep 27 - [肌、服、髪セグメンテーション に イラストのデータセットを追加しトレーニング🦔](https://kazuhito00.hatenablog.com/entry/2024/09/27/215517)
 - Sep 27 - [Phantom を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/09/27/161638)
 - Sep 26 - [Molmo を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/09/26/235326)
 - Sep 16 - [Phi3.5-Vision を Colaboratory でお試し👀](https://kazuhito00.hatenablog.com/entry/2024/09/16/180048)
-- Sep 12 - [Anime-Segmentation の ONNX を Colaboraotry上でお試し📚](https://kazuhito00.hatenablog.com/entry/2024/09/12/115042)
 <!-- feed end -->
 
 ### How to reach me
