@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 27 - [RT-DETRの改良モデル？ D-FINEをお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/10/27/193748)
 - Oct 19 - [Janus-1.3B を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/10/19/171529)
 - Oct 16 - [PINTO_model_zoo：人検出＋顔向き＋属性判定＋パーツ検出モデル（460_RT-DETRv2-Wholebody25）味見👀](https://kazuhito00.hatenablog.com/entry/2024/10/17/084102)
 - Oct 15 - [OpenAI の Swarm で 画像認識したり、処理の移譲をするメモ🐝](https://kazuhito00.hatenablog.com/entry/2024/10/15/213519)
 - Oct 12 - [RT-DETR(v2) を Colaboratoryでトレーニングするサンプル👻](https://kazuhito00.hatenablog.com/entry/2024/10/12/135633)
-- Oct 12 - [RT-DETR(v2) を ONNX推論おためし👀](https://kazuhito00.hatenablog.com/entry/2024/10/12/111104)
 <!-- feed end -->
 
 ### How to reach me
