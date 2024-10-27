@@ -585,6 +585,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/f8597453-f9a5-478f-bfe9-e402166adc76" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/D-FINE-ONNX-Sample">[D-FINE-ONNX-Sample]</a><br>
+            D-FINEのPythonでのONNX推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
