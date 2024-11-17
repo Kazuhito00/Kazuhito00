@@ -265,7 +265,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample">[Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample]</a><br>
-            PyCon mini 東海 2024 のトーク「Google Colaboratoryで試すVLM」で紹介したサンプル集<br>
+            PyCon mini 東海 2024 トーク「Google Colaboratoryで試すVLM」<br>紹介したサンプルノートブック集<br>
         </td>
     </tr>
     <tr>
