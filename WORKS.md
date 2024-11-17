@@ -261,6 +261,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://github.com/user-attachments/assets/59bc1f90-7fa6-4f98-86eb-3a4f2054f06b" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample">[Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample]</a><br>
+            PyCon mini 東海 2024 のトーク「Google Colaboratoryで試すVLM」で紹介したサンプル集<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://github.com/Kazuhito00/presentation-2024/assets/37477845/4b25af37-0e00-498f-abbb-4fda3665f2e7" loading="lazy" width="200px">
         </td>
         <td>
