@@ -2208,6 +2208,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/d11a58a3-8ae3-4640-b8d4-d8879564e53e" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20241210-OpenCV">[Qiita-AdventCalendar-20241210-OpenCV]</a><br>
+            Qiita OpenCV アドベントカレンダー(2024年12月10日)の投稿「OpenCVのInpaintingでオクルージョン画像の物体検出精度向上🔍」で使用したソースコード<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Zenn">Zenn関連</a>　<a href="#Repositories">🔙</a>
         </th>
