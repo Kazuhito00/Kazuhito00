@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 11 - [Ivy-VL を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/12/12/000209)
 - Dec 11 - [InternVL を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/12/11/232232)
 - Dec 10 - [Qiita：OpenCVのInpaintingでオクルージョン画像の物体検出精度向上🔍](https://kazuhito00.hatenablog.com/entry/2024/12/10/110642)
 - Nov 18 - [PyCon mini 東海 2024で発表してきました & レポート](https://kazuhito00.hatenablog.com/entry/2024/11/18/220418)
 - Oct 27 - [RT-DETRの改良モデル？ D-FINEをお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/10/27/193748)
-- Oct 19 - [Janus-1.3B を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/10/19/171529)
 <!-- feed end -->
 
 ### How to reach me
