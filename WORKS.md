@@ -1461,6 +1461,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/ba6cfff8-350e-47c3-af5a-ceeb01d6abc1" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Ivy-VL-Colaboratory-Sample">[Ivy-VL-Colaboratory-Sample]</a><br>
+            Colaboratory上でAI-Safeguard/Ivy-VL-llavaをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
