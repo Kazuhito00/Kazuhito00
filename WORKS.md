@@ -2240,7 +2240,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20241214-Pyxel">[Qiita-AdventCalendar-20241214-Pyxel]</a><br>
-            Qiita Pyxel アドベントカレンダー(2024年12月14日)の投稿「Pyxel で (むりやり) Oggファイルを再生する（ローカルPC、Web、plumOS-RN）」で使用したソースコード<br>
+            Qiita Pyxel アドベントカレンダー(2024年12月14日)の投稿「Pyxel アプリで Oggファイルを再生する（ローカルPC、Web、plumOS-RN 対応）」で使用したソースコード<br>
         </td>
     </tr>
     <tr>
