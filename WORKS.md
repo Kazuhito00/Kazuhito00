@@ -2235,6 +2235,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/bb32b73e-4ebb-41ae-80b5-c0c20987faa1" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20241214-Pyxel">[Qiita-AdventCalendar-20241214-Pyxel]</a><br>
+            Qiita Pyxel アドベントカレンダー(2024年12月14日)の投稿「Pyxel で (むりやり) Oggファイルを再生する（ローカルPC、Web、plumOS-RN）」で使用したソースコード<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Zenn">Zenn関連</a>　<a href="#Repositories">🔙</a>
         </th>
