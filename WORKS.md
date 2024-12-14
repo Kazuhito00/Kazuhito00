@@ -2244,6 +2244,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/604bf4b7-cdba-46d7-ac4c-4b7663a407b2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qiita-AdventCalendar-20241217-OpenCV">[Qiita-AdventCalendar-20241217-OpenCV]</a><br>
+            Qiita OpenCV アドベントカレンダー(2024年12月17日)の投稿「PyScriptでOpenCVを使ってWebで画像処理AI」で使用したソースコード<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Zenn">Zenn関連</a>　<a href="#Repositories">🔙</a>
         </th>
