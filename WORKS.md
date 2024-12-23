@@ -241,6 +241,7 @@
 * <a href="#ClipStudio">CLIP STUDIO PAINT関連</a>
 * <a href="#M5Stack">M5Stack関連</a>
 * <a href="#Unity">Unity関連</a>
+* <a href="#Pyxel">Pyxel関連</a>
 * <a href="#JinsMeme">JINS MEME関連</a>
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
@@ -2097,6 +2098,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Unity-Barracuda-Objectron-WebGL">[Unity-Barracuda-Objectron-WebGL]</a><br>
             Unity BarracudaでMediaPipe Objectron(Shoe)を動作させるサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="Pyxel">Pyxel関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/d9670154-bbd8-45da-b7f1-b91373030472" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/pyxel-pymunk-web-test">[pyxel-pymunk-web-test]</a><br>
+            Qiita Pyxel アドベントカレンダー(2024年12月24日)の投稿「「Pyxel × Pymunkで物理シミュレーションを始めよう！」を Webで動かしたい🌎」で使用したソースコード<br>
         </td>
     </tr>
     <tr>
