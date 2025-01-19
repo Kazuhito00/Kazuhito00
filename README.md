@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 19 - [【NGK2025S】動物園（PINTO_model_zoo）に遊びに行こう🦔](https://kazuhito00.hatenablog.com/entry/2025/01/19/114742)
 - Jan 08 - [2024年に色々やったことの動画まとめ🦔](https://kazuhito00.hatenablog.com/entry/2025/01/08/211629)
 - Dec 29 - [2024年振り返り](https://kazuhito00.hatenablog.com/entry/2024/12/29/190727)
 - Dec 23 - [Qiita：「Pyxel × Pymunkで物理シミュレーションを始めよう！」を Webで動かしたい🌎](https://kazuhito00.hatenablog.com/entry/2024/12/24/070000)
 - Dec 18 - [Zenn：作業メモ 中華ゲーム機にplumOS-RNを導入してPyxelアプリを起動](https://kazuhito00.hatenablog.com/entry/2024/12/18/214103)
-- Dec 17 - [Qiita：PyScriptでOpenCVを使ってWebで画像処理AI](https://kazuhito00.hatenablog.com/entry/2024/12/17/184520)
 <!-- feed end -->
 
 ### How to reach me
