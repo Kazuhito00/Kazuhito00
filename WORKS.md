@@ -1489,6 +1489,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/ab990445-fdd8-412a-ad3a-10ca87c143e2" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Qwen2.5-VL-Colaboratory-Sample">[Qwen2.5-VL-Colaboratory-Sample]</a><br>
+            Colaboratory上でQwen2.5-VLをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
