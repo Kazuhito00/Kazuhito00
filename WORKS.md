@@ -1471,6 +1471,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/5841a8f7-3d96-4b24-92d3-0a75a0a30843" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Asagi-VLM-Colaboratory-Sample">[Asagi-VLM-Colaboratory-Sample]</a><br>
+            Colaboratory上でAsagi: 合成データセットを活用した大規模日本語VLMをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
