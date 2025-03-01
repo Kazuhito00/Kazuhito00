@@ -1480,6 +1480,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/12942cb4-55a4-47d2-9739-2109996712b5" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Ovis2-Colaboratory-Sample">[Ovis2-Colaboratory-Sample]</a><br>
+            Colaboratory上でOvis2をお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
