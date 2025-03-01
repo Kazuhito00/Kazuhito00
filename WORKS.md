@@ -1476,7 +1476,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Asagi-VLM-Colaboratory-Sample">[Asagi-VLM-Colaboratory-Sample]</a><br>
-            Colaboratory上でAsagi: 合成データセットを活用した大規模日本語VLMをお試しするサンプル<br>
+            Colaboratory上でAsagi(合成データセットを活用した大規模日本語VLM)をお試しするサンプル<br>
         </td>
     </tr>
     <tr>
