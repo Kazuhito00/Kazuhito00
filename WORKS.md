@@ -622,6 +622,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/36bb310e-452f-4fbf-9626-98512632253d" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/DEIM-Colaboratory-Training-Sample">[DEIM-Colaboratory-Training-Sample]</a><br>
+            DEIMをGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
