@@ -623,7 +623,7 @@
     </tr>
     <tr>
         <td width="220">
-            <img src="https://github.com/user-attachments/assets/36bb310e-452f-4fbf-9626-98512632253d" loading="lazy" width="200px">
+            <img src="https://github.com/user-attachments/assets/76a6d3b1-0d76-46e7-a692-26f535054642" loading="lazy" width="200px">
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/DEIM-Colaboratory-Training-Sample">[DEIM-Colaboratory-Training-Sample]</a><br>
