@@ -2248,6 +2248,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/825e4ad6-bfcc-4f11-91bb-4b98bb532365" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/qrcode-pose-estimation">[qrcode-pose-estimation]</a><br>
+            QRコードの姿勢推定サンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Neta">ネタアプリ</a>　<a href="#Repositories">🔙</a>
         </th>
