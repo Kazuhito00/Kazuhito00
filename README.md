@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 17 - [Sarashina2-Vision を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/03/17/205129)
 - Mar 15 - [QRコードの姿勢推定サンプル👀](https://kazuhito00.hatenablog.com/entry/2025/03/15/165152)
 - Mar 02 - [DEIM（高速収束のためのマッチングを改善した DETR）をColaboratoryで実行👀](https://kazuhito00.hatenablog.com/entry/2025/03/02/155846)
 - Mar 01 - [Qwen2.5-VL を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/03/01/185450)
 - Mar 01 - [Ovis2 を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/03/01/182108)
-- Mar 01 - [Asagi(合成データセットを活用した大規模日本語VLM) を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/03/01/165805)
 <!-- feed end -->
 
 ### How to reach me
