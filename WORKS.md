@@ -228,6 +228,7 @@
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#ChatGPT">ChatGPT関連</a>
 * <a href="#VLM">VLM関連</a>
+* <a href="#DSP">音声処理・DSP関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
 * <a href="#Colaboratory">Colaboratory関連</a>
 * <a href="#OpenCvUtility">OpenCV：ユーティリティ</a>
@@ -1522,6 +1523,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/Sarashina2-Vision-Colaboratory-Sample">[Sarashina2-Vision-Colaboratory-Sample]</a><br>
             Colaboratory上でSarashina2-Visionをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="DSP">音声処理・DSP関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/GTCRN-ONNX-RealTime-Inference-Sample">[GTCRN-ONNX-RealTime-Inference-Sample]</a><br>
+            GTCRNのリアルタイム推論（チャンク毎処理）のサンプル<br>
         </td>
     </tr>
     <tr>
