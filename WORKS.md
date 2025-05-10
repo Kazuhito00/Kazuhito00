@@ -1549,6 +1549,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/27923275-f922-41c9-a9f3-2a2c835dfdec" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Audio-Processing-Node-Editor">[Audio-Processing-Node-Editor]</a><br>
+            処理の検証や比較検討での用途を想定したノードエディターベースのオーディオ処理アプリ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="NeuralNetworkConsole">Neural Network Console関連</a>　<a href="#Repositories">🔙</a>
         </th>
