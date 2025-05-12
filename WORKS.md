@@ -1530,7 +1530,7 @@
             <img src="https://github.com/user-attachments/assets/37272c0a-e14d-4ef8-b241-e966ba72b87e" loading="lazy" width="200px">
         </td>
         <td>
-            <a href="https://github.com/Kazuhito00/Sarashina2-Vision-Colaboratory-Sample">[Sarashina2-Vision-Colaboratory-Sample]</a><br>
+            <a href="https://github.com/Kazuhito00/Heron-NVILA-Colaboratory-Sample">[Heron-NVILA-Colaboratory-Sample]</a><br>
             Colaboratory上でHeron-NVILAをお試しするサンプル<br>
         </td>
     </tr>
