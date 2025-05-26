@@ -632,6 +632,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/4228a122-58bb-4de0-8679-e249ccb0e17f" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/PlateYOLO-JP-Prototype">[PlateYOLO-JP-Prototype]</a><br>
+            日本のナンバープレート検出と認識の技術検証用プロトタイプ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="Classification">Classification関連</a>　<a href="#Repositories">🔙</a>
         </th>
