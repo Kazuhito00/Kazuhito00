@@ -357,6 +357,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://github.com/user-attachments/assets/27923275-f922-41c9-a9f3-2a2c835dfdec" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Audio-Processing-Node-Editor">[Audio-Processing-Node-Editor]</a><br>
+            処理の検証や比較検討での用途を想定したノードエディターベースのオーディオ処理アプリ<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/179128561-d4e23896-98fd-4439-8489-223c92976899.png" loading="lazy" width="200px">
         </td>
         <td>
@@ -1586,15 +1595,6 @@
         <td>
             <a href="https://github.com/Kazuhito00/Silero-VAD-ONNX-Sample">[Silero-VAD-ONNX-Sample]</a><br>
             Silero VADのONNX推論(PyTorch依存処理無し)サンプル<br>
-        </td>
-    </tr>
-    <tr>
-        <td width="220">
-            <img src="https://github.com/user-attachments/assets/27923275-f922-41c9-a9f3-2a2c835dfdec" loading="lazy" width="200px">
-        </td>
-        <td>
-            <a href="https://github.com/Kazuhito00/Audio-Processing-Node-Editor">[Audio-Processing-Node-Editor]</a><br>
-            処理の検証や比較検討での用途を想定したノードエディターベースのオーディオ処理アプリ<br>
         </td>
     </tr>
     <tr>
