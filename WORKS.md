@@ -2022,6 +2022,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Chaquopy-OpenCV-Camera-Sample">[Chaquopy-OpenCV-Camera-Sample]</a><br>
+            Zenn Articles「【Android】Chaquopy で Python OpenCVを動かしてカメラ表示📷」のソースコード公開用リポジトリ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="OpenVINO">OpenVINO関連</a>　<a href="#Repositories">🔙</a>
         </th>
