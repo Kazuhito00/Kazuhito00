@@ -1575,6 +1575,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/7d39b209-612d-4116-9719-ab61b58daff3" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/FastVLM-Colaboratory-Sample">[FastVLM-Colaboratory-Sample]</a><br>
+            Colaboratory上でFastVLM(apple/ml-fastvlm)をお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="DSP">音声処理・DSP関連</a>　<a href="#Repositories">🔙</a>
         </th>
