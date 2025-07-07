@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 07 - [Gemini CLI で ミニゲーム作成を試しています🦔](https://kazuhito00.hatenablog.com/entry/2025/07/08/001430)
 - Jul 05 - [GLM-4.1V-9B-Thinking を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/06/001732)
 - Jul 01 - [FastVLM を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/02/004041)
 - Jun 27 - [Zenn：【Android】Chaquopy で Python OpenCVを動かしてカメラ表示📷](https://kazuhito00.hatenablog.com/entry/2025/06/28/004425)
 - Jun 22 - [alltracker を Colaboratoryでお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/06/22/161907)
-- Jun 21 - [EdgeTAM のオブジェクトトラッキングを味見👀](https://kazuhito00.hatenablog.com/entry/2025/06/21/185239)
 <!-- feed end -->
 
 ### How to reach me
