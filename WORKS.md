@@ -2280,6 +2280,21 @@
     </tr>
     <tr>
         <th align="left" colspan="2">
+            <a name="pygame">pygame関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/83197d81-ccc7-471f-af2d-389a6e9a24f5" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/pygame-hexagonal2048">[pygame-hexagonal2048]</a><br>
+            Pygameを使って実装されたヘキサゴン2048ゲーム<br>
+            ※Gemini CLIを用いて作成された試験的なリポジトリ
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
             <a name="JinsMeme">JINS MEME関連</a>　<a href="#Repositories">🔙</a>
         </th>
     </tr>
