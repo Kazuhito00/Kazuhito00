@@ -242,6 +242,7 @@
 * <a href="#M5Stack">M5Stack関連</a>
 * <a href="#Unity">Unity関連</a>
 * <a href="#Pyxel">Pyxel関連</a>
+* <a href="#pygame">pygame関連</a>
 * <a href="#JinsMeme">JINS MEME関連</a>
 * <a href="#JupyterNotebook">Jupyte Notebook関連</a>
 * <a href="#Julia">Julia関連</a>
