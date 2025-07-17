@@ -2288,6 +2288,15 @@
             ※Gemini CLIを用いて作成された試験的なリポジトリ
         </td>
     </tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/eb999bb2-f277-40c7-9ae6-b457cff83f07" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Pyxel-EscapeSweeper">[Pyxel-EscapeSweeper]</a><br>
+            Pyxelで作成されたマインスイーパ風の脱出ゲーム<br>
+            ※Gemini CLIを用いて作成された試験的なリポジトリ
+        </td>
+    </tr>
     <tr>
         <th align="left" colspan="2">
             <a name="pygame">pygame関連</a>　<a href="#Repositories">🔙</a>
