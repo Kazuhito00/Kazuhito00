@@ -226,6 +226,7 @@
 * <a href="#ImageMatching">Image Matching関連</a>
 * <a href="#MachineLearning">機械学習関連</a>
 * <a href="#ChatGPT">ChatGPT関連</a>
+* <a href="#LLM">LLM関連</a>
 * <a href="#VLM">VLM関連</a>
 * <a href="#DSP">音声処理・DSP関連</a>
 * <a href="#NeuralNetworkConsole">Neural Network Console関連</a>
@@ -1433,6 +1434,20 @@
         <td>
             <a href="https://github.com/Kazuhito00/OpenAI-chat-completions-Colaboratory-Sample">[OpenAI-chat-completions-Colaboratory-Sample]</a><br>
             Colaboratory上でChatGPTのAPIをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <th align="left" colspan="2">
+            <a name="LLM">LLM関連</a>　<a href="#Repositories">🔙</a>
+        </th>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/d7f448cf-ad3c-4213-b629-28d24c2041ed" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Voxtral-Mini-3B-Colaboratory-Sample">[Voxtral-Mini-3B-Colaboratory-Sample]</a><br>
+            Colaboratory上でVoxtral-Mini-3B-2507をお試しするサンプル<br>
         </td>
     </tr>
     <tr>
