@@ -1447,7 +1447,7 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/Voxtral-Mini-3B-Colaboratory-Sample">[Voxtral-Mini-3B-Colaboratory-Sample]</a><br>
-            Colaboratory上でVoxtral-Mini-3B-2507をお試しするサンプル<br>
+            Colaboratory上でVoxtral-Mini-3B-2507のチャットとSTTをお試しするサンプル<br>
         </td>
     </tr>
     <tr>
