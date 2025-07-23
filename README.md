@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 23 - [Gemini-2.5-Flash の物体検出・セグメンテーションをAPIでお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/23/103349)
 - Jul 19 - [Voxtral-Mini-3B の文字起こしを Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/20/013240)
 - Jul 19 - [Gemini CLI で Image-Processing-Node-Editor と Audio-Processing-Node-Editor のノードを作成🦔](https://kazuhito00.hatenablog.com/entry/2025/07/19/144643)
 - Jul 07 - [Gemini CLI で ミニゲーム作成を試しています🦔](https://kazuhito00.hatenablog.com/entry/2025/07/08/001430)
 - Jul 05 - [GLM-4.1V-9B-Thinking を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/06/001732)
-- Jul 01 - [FastVLM を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/02/004041)
 <!-- feed end -->
 
 ### How to reach me
