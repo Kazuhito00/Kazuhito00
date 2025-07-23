@@ -1618,6 +1618,16 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/6c030270-df3a-4ed9-bd5f-f9aa77dd431b" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Gemini-2.5-API-Object-Detection-Colaboratory-Sample">[Gemini-2.5-API-Object-Detection-Colaboratory-Sample]</a><br>
+            Colaboratory上で、Gemini-2.5-Flash を用いて、物体検出とセグメンテーションをお試しするサンプル<br>
+            ※Google AI Studioで取得したAPIキーが必要
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="DSP">音声処理・DSP関連</a>　<a href="#Repositories">🔙</a>
         </th>
