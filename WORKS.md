@@ -385,6 +385,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/0177158c-6f66-4a42-9897-1115ef1ef96b" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/APNE-Input-ReSpeaker-v2-Node">[APNE-Input-ReSpeaker-v2-Node]</a><br>
+            Audio-Processing-Node-Editor で動作するReSpeaker v2入力用ノード<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="ObjectDetection">Object Detection関連</a>　<a href="#Repositories">🔙</a>
         </th>
