@@ -1637,6 +1637,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/143692db-2601-4f53-be2f-7555e95bb885" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/SmolVLM2-Colaboratory-Sample">[SmolVLM2-Colaboratory-Sampl]</a><br>
+            Colaboratory上でSmolVLM2の推論とファインチューニングをお試しするサンプル
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="DSP">音声処理・DSP関連</a>　<a href="#Repositories">🔙</a>
         </th>
@@ -2609,4 +2618,5 @@ Kaggleで公開しているノートブックです。<br>
 * [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
 * [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
 * [Titanic-dtreeviz-sample](https://www.kaggle.com/kazuhito00/titanic-dtreeviz-sample)<br>タイタニックでdtreevizによる決定木の可視化をしたサンプルです。<br><img src="https://user-images.githubusercontent.com/37477845/133099917-6dd22000-738c-4782-9486-11fd43e1f658.png" loading="lazy" width="400px">
+
 
