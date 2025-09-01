@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 01 - [SmolVLM2 を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/09/01/163017)
 - Aug 20 - [Audio-Processing-Node-Editor v0.3.1 をリリースしました👀](https://kazuhito00.hatenablog.com/entry/2025/08/21/021626)
 - Jul 26 - [Audio-Processing-Node-Editor に ReSpeaker v2 ノードを追加🎤](https://kazuhito00.hatenablog.com/entry/2025/07/27/013720)
 - Jul 26 - [Image-Processing-Node-Editor v0.5.0、Audio-Processing-Node-Editor v0.2.0 をリリースしました👀](https://kazuhito00.hatenablog.com/entry/2025/07/26/115202)
 - Jul 23 - [Gemini-2.5-Flash の物体検出・セグメンテーションをAPIでお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/23/103349)
-- Jul 19 - [Voxtral-Mini-3B の文字起こしを Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/07/20/013240)
 <!-- feed end -->
 
 ### How to reach me
