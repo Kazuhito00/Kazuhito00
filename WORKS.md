@@ -1683,7 +1683,16 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/VoiceFixer-ONNX">[VoiceFixer-ONNX]</a><br>
-            haoheliu/voicefixerのONNXエクスポート/推論サンプル<br>
+            haoheliu/voicefixerのONNXエクスポート・推論サンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/5f40e520-b897-45af-b002-686a0c5be990" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/LiSenNet-ONNX">[LiSenNet-ONNX]</a><br>
+            hyyan2k/LiSenNetのONNXエクスポート・推論サンプル<br>
         </td>
     </tr>
     <tr>
@@ -2636,6 +2645,7 @@ Kaggleで公開しているノートブックです。<br>
 * [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
 * [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
 * [Titanic-dtreeviz-sample](https://www.kaggle.com/kazuhito00/titanic-dtreeviz-sample)<br>タイタニックでdtreevizによる決定木の可視化をしたサンプルです。<br><img src="https://user-images.githubusercontent.com/37477845/133099917-6dd22000-738c-4782-9486-11fd43e1f658.png" loading="lazy" width="400px">
+
 
 
 
