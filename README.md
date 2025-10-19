@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 19 - [X(旧Twitter) で クリックすると画像が変わるやつを作るPythonスクリプト🦔](https://kazuhito00.hatenablog.com/entry/2025/10/19/113233)
 - Oct 08 - [DEIMv2 の ONNX変換 と Colaboratory上でのトレーニング👀](https://kazuhito00.hatenablog.com/entry/2025/10/08/093631)
 - Oct 07 - [音声強調モデル LiSenNet をONNXに変換🦔](https://kazuhito00.hatenablog.com/entry/2025/10/07/174621)
 - Oct 02 - [音声復元モデル VoiceFixer をONNXに変換🦔](https://kazuhito00.hatenablog.com/entry/2025/10/02/183657)
 - Sep 09 - [Audio-Processing-Node-Editor v0.4.0 をリリースしました👀](https://kazuhito00.hatenablog.com/entry/2025/09/09/101818)
-- Sep 07 - [PINTO_model_zoo：インスタンスセグメンテーション（470_RHIS）味見👀](https://kazuhito00.hatenablog.com/entry/2025/09/07/102002)
 <!-- feed end -->
 
 ### How to reach me
