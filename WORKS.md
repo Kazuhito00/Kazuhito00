@@ -264,6 +264,15 @@
     </tr>
     <tr>
         <td width="220">
+            <img src="https://github.com/user-attachments/assets/6fd581f3-7b3c-4468-b11e-40e5ac23b7ea" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Pycon-mini-Tokai-2025-PyScript-OpenCV">[Pycon-mini-Tokai-2025-PyScript-OpenCV]</a><br>
+            PyCon mini 東海 2025 のトーク「PyScriptとOpenCVを使ってWebで画像処理AI」用リポジトリ<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
             <img src="https://github.com/user-attachments/assets/59bc1f90-7fa6-4f98-86eb-3a4f2054f06b" loading="lazy" width="200px">
         </td>
         <td>
@@ -2671,6 +2680,7 @@ Kaggleで公開しているノートブックです。<br>
 * [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
 * [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
 * [Titanic-dtreeviz-sample](https://www.kaggle.com/kazuhito00/titanic-dtreeviz-sample)<br>タイタニックでdtreevizによる決定木の可視化をしたサンプルです。<br><img src="https://user-images.githubusercontent.com/37477845/133099917-6dd22000-738c-4782-9486-11fd43e1f658.png" loading="lazy" width="400px">
+
 
 
 
