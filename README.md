@@ -23,11 +23,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 29 - [Pythonで日本株の自動売買システムトレードに入門しました🦔](https://kazuhito00.hatenablog.com/entry/2025/11/29/124124)
 - Nov 26 - [Sarashina2.2-Vision を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/11/26/090929)
 - Nov 24 - [PINTO_model_zoo：人検出＋深度推定（473_HISDF）をGradioアプリ化して味見👀](https://kazuhito00.hatenablog.com/entry/2025/11/24/152841)
 - Nov 24 - [PINTO_model_zoo：人検出＋視線推定（474_Gaze-LLE-DINOv3）をGradioアプリ化して味見👀](https://kazuhito00.hatenablog.com/entry/2025/11/24/151143)
 - Nov 18 - [Zenn：ColaboratoryでStreamlitを起動するメモ（cloudflared使用）](https://kazuhito00.hatenablog.com/entry/2025/11/18/133445)
-- Nov 13 - [Qwen3-VL を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/11/13/101945)
 <!-- feed end -->
 
 ### How to reach me
