@@ -25,11 +25,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 06 - [ノードエディタ形式の画像・オーディオ処理ツール「Multimodal-Node-Editor」を公開しました🍜](https://kazuhito00.hatenablog.com/entry/2026/01/06/192041)
 - Dec 31 - [2025年振り返り](https://kazuhito00.hatenablog.com/entry/2025/12/31/185402)
 - Dec 27 - [2025年に投稿したアドベントカレンダー記事🦔](https://kazuhito00.hatenablog.com/entry/2025/12/27/092900)
 - Nov 29 - [Pythonで日本株の自動売買システムトレードに入門しました🦔](https://kazuhito00.hatenablog.com/entry/2025/11/29/124124)
 - Nov 26 - [Sarashina2.2-Vision を Colaboratory でお試し🦔](https://kazuhito00.hatenablog.com/entry/2025/11/26/090929)
-- Nov 24 - [PINTO_model_zoo：人検出＋深度推定（473_HISDF）をGradioアプリ化して味見👀](https://kazuhito00.hatenablog.com/entry/2025/11/24/152841)
 <!-- feed end -->
 
 ### How to reach me
