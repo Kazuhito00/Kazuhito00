@@ -33,8 +33,8 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 <!-- feed end -->
 
 ### How to reach me
-何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.
-[<img src="https://img.shields.io/badge/-ffffff.svg?logo=twitter&style=flat">](https://twitter.com/KzhtTkhs)
+何かご相談の際には、XのDMから連絡をお願いします。<br>If you have any questions, please contact us via X DM.
+[<img src="https://img.shields.io/badge/-000000.svg?logo=x&style=flat">](https://twitter.com/KzhtTkhs)
 
 ### SNS
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/KzhtTkhs) [<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://kazuhito00.hatenablog.com/) [<img src="https://user-images.githubusercontent.com/37477845/94174261-06dcae80-fed0-11ea-99d4-cc66d7a91c31.png" width="32px">](https://qiita.com/Kazuhito) [<img src="https://user-images.githubusercontent.com/37477845/94174263-07754500-fed0-11ea-8ef3-004bee2cbcc5.jpg" width="32px">](https://zenn.dev/kazuhito)  [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/kazuhitotakahashi) [<img src="https://user-images.githubusercontent.com/37477845/102078263-fb08e480-3e4d-11eb-907f-8bdd10d77da4.png" width="32px">](https://www.kaggle.com/kazuhito00)<!--<a href="https://www.buymeacoffee.com/Kazuhito00" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174" ></a>--><a href="https://www.buymeacoffee.com/Kazuhito00" target="_blank"><br><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="36" width="170" >[<img src="https://user-images.githubusercontent.com/37477845/120681754-aa0dab00-c4d6-11eb-8b1d-7902d5d8fc5a.png" height="30px">](https://ofuse.me/o?uid=38065)
