@@ -1344,7 +1344,16 @@
         </td>
         <td>
             <a href="https://github.com/Kazuhito00/CoLIE-Colaboratory-Sample">[CoLIE-Colaboratory-Sample]</a><br>
-           Colaboratory上でcolieをお試しするサンプル<br>
+            Colaboratory上でcolieをお試しするサンプル<br>
+        </td>
+    </tr>
+    <tr>
+        <td width="220">
+            <img src="https://github.com/user-attachments/assets/3d218b67-3f47-4a2d-841d-159d776acf15" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/Retinexformer-ONNX-Sample">[Retinexformer-ONNX-Sample]</a><br>
+            Low-Light Image Enhancement モデルである Retinexformer のONNX推論サンプル<br>
         </td>
     </tr>
     <tr>
@@ -2716,6 +2725,7 @@ Kaggleで公開しているノートブックです。<br>
 * [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
 * [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
 * [Titanic-dtreeviz-sample](https://www.kaggle.com/kazuhito00/titanic-dtreeviz-sample)<br>タイタニックでdtreevizによる決定木の可視化をしたサンプルです。<br><img src="https://user-images.githubusercontent.com/37477845/133099917-6dd22000-738c-4782-9486-11fd43e1f658.png" loading="lazy" width="400px">
+
 
 
 
