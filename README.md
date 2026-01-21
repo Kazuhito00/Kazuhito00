@@ -25,11 +25,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 21 - [暗闇補正のRetinexformerをONNX変換してお試し🌙](https://kazuhito00.hatenablog.com/entry/2026/01/21/140403)
 - Jan 15 - [PaddleOCRv5をONNXに変換してお試し🦔](https://kazuhito00.hatenablog.com/entry/2026/01/15/151038)
 - Jan 09 - [2025年に色々やったことの動画まとめ🦔](https://kazuhito00.hatenablog.com/entry/2026/01/09/212605)
 - Jan 06 - [ノードエディタ形式の画像・オーディオ処理ツール「Multimodal-Node-Editor」を公開しました🍜](https://kazuhito00.hatenablog.com/entry/2026/01/06/192041)
 - Dec 31 - [2025年振り返り](https://kazuhito00.hatenablog.com/entry/2025/12/31/185402)
-- Dec 27 - [2025年に投稿したアドベントカレンダー記事🦔](https://kazuhito00.hatenablog.com/entry/2025/12/27/092900)
 <!-- feed end -->
 
 ### How to reach me
