@@ -1,7 +1,7 @@
 ![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
 
 ### Github Trophy <!--& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px"> -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues,PullRequest&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- https://vercel.com/kazuhitotakahashis-projects/github-profile-trophy/settings/domains -->
 [![trophy](https://github-profile-trophy-plum-one.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
 
