@@ -25,11 +25,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Feb 25 - [PyCon mini Shizuoka 2026で発表してきました & レポート](https://kazuhito00.hatenablog.com/entry/2026/02/25/230719)
 - Feb 05 - [画面の4隅をキーポイント検出するプロトタイプ🦔](https://kazuhito00.hatenablog.com/entry/2026/02/05/103726)
 - Jan 31 - [MiniCPM-V4.5 を Colaboratory でお試し🔍](https://kazuhito00.hatenablog.com/entry/2026/01/31/100126)
 - Jan 26 - [【NGK2026S】日本株のシステムトレードに入門してみた👻](https://kazuhito00.hatenablog.com/entry/2026/01/26/102020)
 - Jan 21 - [暗闇補正のRetinexformerをONNX変換してお試し🌙](https://kazuhito00.hatenablog.com/entry/2026/01/21/140403)
-- Jan 15 - [PaddleOCRv5をONNXに変換してお試し🦔](https://kazuhito00.hatenablog.com/entry/2026/01/15/151038)
 <!-- feed end -->
 
 ### How to reach me
