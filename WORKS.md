@@ -1531,6 +1531,15 @@
         </td>
     </tr>
     <tr>
+        <td width="220">
+            <img src="https://user-images.githubusercontent.com/37477845/122628310-5e6f1a00-d0f0-11eb-946c-55d1dc6920ef.png" loading="lazy" width="200px">
+        </td>
+        <td>
+            <a href="https://github.com/Kazuhito00/litellm-ledger">[litellm-ledger]</a><br>
+            LiteLLM の completion() を薄くラップし、呼び出し履歴・コスト計算をローカルDBに記録するライブラリ<br>
+        </td>
+    </tr>
+    <tr>
         <th align="left" colspan="2">
             <a name="VLM">VLM関連</a>　<a href="#Repositories">🔙</a>
         </th>
