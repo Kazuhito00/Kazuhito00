@@ -19,7 +19,7 @@ Because many images are used and there is a concern that the amount of communica
 please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
 Also, since the thumbnail image is small, we recommend viewing it on a PC.<br>
 
-今年のプレゼンテーションまとめは以下ページを参照ください。
+今年のプレゼンテーションまとめは以下ページを参照ください。<br>
 A summary of this year's presentation materials can be found on the page below.<br>
 https://github.com/Kazuhito00/presentation-2026
 
