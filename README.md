@@ -17,7 +17,11 @@
 Please refer to "[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)" for the list of repositories and contributions.<br>
 Because many images are used and there is a concern that the amount of communication will increase, <br>
 please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
-Also, since the thumbnail image is small, we recommend viewing it on a PC.
+Also, since the thumbnail image is small, we recommend viewing it on a PC.<br>
+
+今年のプレゼンテーションまとめは以下ページを参照ください。
+A summary of this year's presentation materials can be found on the page below.<br>
+https://github.com/Kazuhito00/presentation-2026
 
 ### Gitstar Ranking
 「[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)」にてスター数の多いリポジトリが確認できます。<br>
