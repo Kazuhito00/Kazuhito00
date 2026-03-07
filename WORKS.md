@@ -421,7 +421,6 @@
             画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター<br>
         </td>
     </tr>
-
     <tr>
         <td width="220">
             <img src="https://github.com/user-attachments/assets/4e0872bb-6743-44b7-a69d-9b9b30758185" loading="lazy" width="200px">
@@ -2786,6 +2785,7 @@ Kaggleで公開しているノートブックです。<br>
 * [PyCaret1.0-blend_models(fold=n)-Titanic-Sample](https://www.kaggle.com/kazuhito00/pycaret1-0-blend-models-fold-n-titanic-sample)<br>PyCaret1.0のblend_models()を用いてfold数によるスコアの違いを確認したサンプルです。 Public Score:0.79186
 * [FLAML-Binary-Classification-Titanic-Sample](https://www.kaggle.com/kazuhito00/flaml-binary-classification-titanic-sample)<br>FLAMLでタイタニックを試したサンプルです。 Public Score:0.77511
 * [Titanic-dtreeviz-sample](https://www.kaggle.com/kazuhito00/titanic-dtreeviz-sample)<br>タイタニックでdtreevizによる決定木の可視化をしたサンプルです。<br><img src="https://user-images.githubusercontent.com/37477845/133099917-6dd22000-738c-4782-9486-11fd43e1f658.png" loading="lazy" width="400px">
+
 
 
 
