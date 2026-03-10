@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kazuhito00 - WORKS</title>
+    <link rel="icon" href="https://github.com/Kazuhito00.png" type="image/png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.11.0/sql-wasm.js"></script>
+    <style>
+        /* Light mode (default) */
+        :root {
+            --bg: #ffffff;
+            --surface: #f6f8fa;
+            --border: #d0d7de;
+            --text: #1f2328;
+            --text-secondary: #656d76;
+            --accent: #0969da;
+            --accent-hover: #0550ae;
+            --img-placeholder: #e6edf3;
+        }
+
+        /* Dark mode */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0d1117;
+                --surface: #161b22;
+                --border: #30363d;
+                --text: #e6edf3;
+                --text-secondary: #8b949e;
+                --accent: #58a6ff;
+                --accent-hover: #79c0ff;
+                --img-placeholder: #21262d;
+            }
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 4px;
+        }
+
+        h1 a {
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            margin-bottom: 20px;
+        }
+
+        /* Controls */
+        .controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .controls input[type="text"] {
+            flex: 1;
+            min-width: 200px;
+            padding: 8px 12px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0;
+            color: var(--text);
+            font-size: 15px;
+            outline: none;
+        }
+
+        .controls input[type="text"]:focus {
+            border-color: var(--accent);
+        }
+
+        .controls select {
+            padding: 8px 12px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0;
+            color: var(--text);
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        .stats {
+            color: var(--text-secondary);
+            font-size: 0.5em;
+            font-weight: normal;
+            margin-left: 8px;
+        }
+
+        /* TOC */
+        #toc {
+            margin-bottom: 16px;
+            border: 1px solid var(--border);
+        }
+
+        #toc summary {
+            padding: 8px 14px;
+            cursor: pointer;
+            font-size: 15px;
+            color: var(--text-secondary);
+            background: var(--surface);
+        }
+
+        #toc-list {
+            padding: 8px 14px 8px 32px;
+            column-count: 3;
+            column-gap: 16px;
+            font-size: 14px;
+            list-style: none;
+        }
+
+        #toc-list li {
+            padding: 2px 0;
+        }
+
+        #toc-list a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        #toc-list a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            #toc-list {
+                column-count: 1;
+            }
+        }
+
+        /* Grid */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            gap: 12px;
+        }
+
+        .card {
+            display: flex;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0;
+            overflow: hidden;
+            transition: border-color 0.2s;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+        }
+
+        .card-img-wrap {
+            flex-shrink: 0;
+            align-self: center;
+            width: 240px;
+            height: 135px; /* 240 * 9/16 */
+            background: var(--img-placeholder);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .card-img {
+            width: 240px;
+            height: 135px; /* 240 * 9/16 */
+            object-fit: contain;
+            object-position: center center;
+            display: block;
+        }
+
+        .card-body {
+            padding: 12px;
+            min-width: 0;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-self: stretch;
+        }
+
+        a.card {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .card-title {
+            color: var(--text);
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+        .card-desc {
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin-top: 4px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-category {
+            display: inline-block;
+            font-size: 12px;
+            color: var(--accent);
+            background: rgba(88, 166, 255, 0.1);
+            padding: 2px 8px;
+            margin-top: auto;
+            align-self: flex-end;
+            border-radius: 0;
+            margin-top: 8px;
+        }
+
+        /* Section headers */
+        .section-header {
+            grid-column: 1 / -1;
+            font-size: 1.3em;
+            font-weight: 600;
+            padding: 16px 0 4px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 4px;
+        }
+
+        /* Contribution section */
+        .contrib-section {
+            margin-bottom: 32px;
+        }
+
+        .contrib-section h2 {
+            font-size: 1.5em;
+            margin-bottom: 12px;
+        }
+
+        .contrib-section details {
+            margin: 12px 0;
+            border: 1px solid var(--border);
+            border-radius: 0;
+            overflow: hidden;
+        }
+
+        .contrib-section summary {
+            font-size: 1.1em;
+            font-weight: 600;
+            padding: 10px 14px;
+            cursor: pointer;
+            background: var(--surface);
+            list-style: revert;
+        }
+
+        .contrib-section summary:hover {
+            color: var(--accent);
+        }
+
+        .contrib-card {
+            display: flex;
+            gap: 16px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0;
+            padding: 12px;
+            margin-bottom: 8px;
+        }
+
+        .contrib-card img {
+            width: 200px;
+            height: auto;
+            object-fit: contain;
+            border-radius: 0;
+            flex-shrink: 0;
+        }
+
+        .contrib-card .contrib-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .contrib-card .contrib-desc a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        /* External Links */
+        .external-section {
+            margin-top: 32px;
+        }
+
+        .external-section h2 {
+            font-size: 1.5em;
+            margin-bottom: 8px;
+        }
+
+        .external-section p {
+            color: var(--text-secondary);
+            font-size: 15px;
+            line-height: 1.8;
+        }
+
+        .external-section a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .external-section a:hover {
+            text-decoration: underline;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: var(--text-secondary);
+            font-size: 18px;
+        }
+
+        @media (max-width: 600px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            .card {
+                flex-direction: column;
+            }
+            .card-img-wrap {
+                width: 100%;
+                height: auto;
+                aspect-ratio: 16 / 9;
+            }
+            .card-img {
+                max-width: 100%;
+                max-height: 100%;
+            }
+            .contrib-card {
+                flex-direction: column;
+            }
+            .contrib-card img {
+                width: 100%;
+                height: auto;
+                max-width: 240px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><a href="https://github.com/Kazuhito00">Kazuhito00</a> - WORKS</h1>
+        <p class="subtitle">提供物、寄稿、公開リポジトリの内容をまとめています。</p>
+
+        <div id="loading" class="loading">Loading works.db...</div>
+
+        <div id="app" style="display:none;">
+            <!-- Contributions -->
+            <div id="contributions" class="contrib-section"></div>
+
+            <h2 style="margin: 24px 0 12px;">Repositories <span id="stats" class="stats"></span></h2>
+
+            <details id="toc">
+                <summary>カテゴリ <span style="font-size:0.8em; color:var(--text-secondary); font-weight:normal;">※選択するとフィルタリングします</span></summary>
+                <ul id="toc-list"></ul>
+            </details>
+
+            <div class="controls">
+                <input type="text" id="search" placeholder="Search...">
+                <select id="categoryFilter">
+                    <option value="">All Categories</option>
+                </select>
+            </div>
+            <div id="grid" class="grid"></div>
+
+            <!-- External Links (Qiita, Zenn, Kaggle) -->
+            <div id="external-links"></div>
+        </div>
+    </div>
+
+<script>
+let db;
+let allCategories = [];
+
+async function init() {
+    const SQL = await initSqlJs({
+        locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.11.0/${file}`
+    });
+
+    const resp = await fetch('works.db');
+    const buf = await resp.arrayBuffer();
+    db = new SQL.Database(new Uint8Array(buf));
+
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('app').style.display = '';
+
+    loadCategories();
+    renderContributions();
+    renderWorks();
+    renderExternalLinks();
+
+    document.getElementById('search').addEventListener('input', renderWorks);
+    document.getElementById('categoryFilter').addEventListener('change', renderWorks);
+}
+
+function loadCategories() {
+    const rows = db.exec("SELECT id, name, display_name FROM categories ORDER BY sort_order");
+    if (!rows.length) return;
+    allCategories = rows[0].values;
+
+    const select = document.getElementById('categoryFilter');
+    const tocList = document.getElementById('toc-list');
+
+    // 先頭に All Categories
+    const allLi = document.createElement('li');
+    const allA = document.createElement('a');
+    allA.href = '#';
+    allA.textContent = 'All Categories';
+    allA.style.fontWeight = '600';
+    allA.addEventListener('click', (e) => {
+        e.preventDefault();
+        select.value = '';
+        select.dispatchEvent(new Event('change'));
+        document.getElementById('toc').open = false;
+    });
+    allLi.appendChild(allA);
+    tocList.appendChild(allLi);
+
+    for (const [id, name, display] of allCategories) {
+        const opt = document.createElement('option');
+        opt.value = id;
+        opt.textContent = display;
+        select.appendChild(opt);
+
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#';
+        a.textContent = display;
+        a.addEventListener('click', (e) => {
+            e.preventDefault();
+            // カテゴリフィルタを設定してスクロール
+            select.value = id;
+            select.dispatchEvent(new Event('change'));
+            document.getElementById('toc').open = false;
+        });
+        li.appendChild(a);
+        tocList.appendChild(li);
+    }
+}
+
+function blobToUrl(data, imageType) {
+    if (!data) return null;
+    const mime = 'image/' + (imageType || 'png');
+    const blob = new Blob([data], { type: mime });
+    return URL.createObjectURL(blob);
+}
+
+function renderContributions() {
+    const container = document.getElementById('contributions');
+    container.innerHTML = '<h2>Contribution</h2>';
+
+    const sections = db.exec("SELECT DISTINCT section FROM contributions ORDER BY sort_order");
+    if (!sections.length) return;
+
+    // 書籍関連はデフォルト開き、それ以外(Axross等)はデフォルト閉じ
+    const defaultOpen = new Set(['書籍関連']);
+
+    for (const [sectionName] of sections[0].values) {
+        const details = document.createElement('details');
+        if (defaultOpen.has(sectionName)) details.open = true;
+
+        const summary = document.createElement('summary');
+        summary.textContent = sectionName;
+        details.appendChild(summary);
+
+        const rows = db.exec(
+            "SELECT description_html, image_url, image_link, image_data, image_type FROM contributions WHERE section = ? ORDER BY sort_order",
+            [sectionName]
+        );
+        if (!rows.length) continue;
+
+        for (const [descHtml, imageUrl, imageLink, imageData, imageType] of rows[0].values) {
+            const card = document.createElement('div');
+            card.className = 'contrib-card';
+
+            const imgSrc = imageData ? blobToUrl(imageData, imageType) : imageUrl;
+            const imgHtml = imgSrc
+                ? (imageLink
+                    ? `<a href="${imageLink}"><img src="${imgSrc}" loading="lazy"></a>`
+                    : `<img src="${imgSrc}" loading="lazy">`)
+                : '';
+
+            card.innerHTML = `
+                ${imgHtml}
+                <div class="contrib-desc">${descHtml || ''}</div>
+            `;
+            details.appendChild(card);
+        }
+
+        container.appendChild(details);
+    }
+}
+
+function renderWorks() {
+    const query = document.getElementById('search').value.trim().toLowerCase();
+    const catFilter = document.getElementById('categoryFilter').value;
+    const grid = document.getElementById('grid');
+    grid.innerHTML = '';
+
+    let sql = `
+        SELECT w.repo_name, w.repo_url, w.description, w.image_url, w.image_data, w.image_type,
+               c.id as cat_id, c.name as cat_name, c.display_name, c.sort_order as cat_sort, w.sort_order
+        FROM works w
+        JOIN categories c ON w.category_id = c.id
+    `;
+    const params = [];
+    const wheres = [];
+
+    if (catFilter) {
+        wheres.push("c.id = ?");
+        params.push(Number(catFilter));
+    }
+    if (query) {
+        wheres.push("(LOWER(w.repo_name) LIKE ? OR LOWER(w.description) LIKE ? OR LOWER(c.display_name) LIKE ?)");
+        const like = `%${query}%`;
+        params.push(like, like, like);
+    }
+
+    if (wheres.length) {
+        sql += " WHERE " + wheres.join(" AND ");
+    }
+    sql += " ORDER BY c.sort_order, w.sort_order";
+
+    const rows = db.exec(sql, params);
+    if (!rows.length || !rows[0].values.length) {
+        document.getElementById('stats').textContent = '0 items';
+        return;
+    }
+
+    const items = rows[0].values;
+    document.getElementById('stats').textContent = `${items.length} items`;
+
+    let currentCat = null;
+
+    for (const [repoName, repoUrl, desc, imageUrl, imageData, imageType, catId, catName, catDisplay] of items) {
+        // カテゴリヘッダ
+        if (catId !== currentCat) {
+            currentCat = catId;
+            const header = document.createElement('div');
+            header.className = 'section-header';
+            header.textContent = catDisplay;
+            grid.appendChild(header);
+        }
+
+        const card = document.createElement(repoUrl ? 'a' : 'div');
+        card.className = 'card';
+        if (repoUrl) {
+            card.href = repoUrl;
+            card.target = '_blank';
+            card.rel = 'noopener';
+        }
+
+        const imgSrc = imageData ? blobToUrl(imageData, imageType) : imageUrl;
+
+        card.innerHTML = `
+            <div class="card-img-wrap">
+                ${imgSrc ? `<img class="card-img" src="${imgSrc}" loading="lazy" alt="">` : ''}
+            </div>
+            <div class="card-body">
+                ${repoName ? `<span class="card-title">${repoName}</span>` : ''}
+                ${desc ? `<div class="card-desc">${escapeHtml(desc)}</div>` : ''}
+                <span class="card-category">${catDisplay}</span>
+            </div>
+        `;
+        grid.appendChild(card);
+    }
+}
+
+function renderExternalLinks() {
+    const container = document.getElementById('external-links');
+    const rows = db.exec("SELECT section, body_md FROM external_links ORDER BY sort_order");
+    if (!rows.length) return;
+
+    for (const [section, bodyMd] of rows[0].values) {
+        const div = document.createElement('div');
+        div.className = 'external-section';
+
+        // Markdown リンクと生URLを HTML に変換
+        const bodyHtml = bodyMd
+            .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+            .replace(/(^|[\s*])((https?:\/\/)[^\s<]+)/gm, '$1<a href="$2" target="_blank">$2</a>')
+            .replace(/\n/g, '<br>')
+            .replace(/\* /g, '&bull; ');
+
+        div.innerHTML = `<h2>${escapeHtml(section)}</h2><p>${bodyHtml}</p>`;
+        container.appendChild(div);
+    }
+}
+
+function escapeHtml(text) {
+    const d = document.createElement('div');
+    d.textContent = text;
+    return d.innerHTML;
+}
+
+init().catch(err => {
+    document.getElementById('loading').textContent = 'Error: ' + err.message;
+    console.error(err);
+});
+</script>
+</body>
+</html>
