@@ -175,6 +175,18 @@
             align-items: center;
             justify-content: center;
             overflow: hidden;
+            position: relative;
+        }
+
+        .card-img-wrap.loading::after {
+            content: '';
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
         }
 
         .card-img {
@@ -183,6 +195,15 @@
             object-fit: contain;
             object-position: center center;
             display: block;
+        }
+
+        .card-img-wrap .card-img {
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        .card-img-wrap .card-img.loaded {
+            opacity: 1;
         }
 
         .card-body {
@@ -638,8 +659,8 @@ function renderWorks() {
         const imgSrc = imageData ? blobToUrl(imageData, imageType) : imageUrl;
 
         card.innerHTML = `
-            <div class="card-img-wrap">
-                ${imgSrc ? `<img class="card-img" src="${imgSrc}" loading="lazy" alt="">` : ''}
+            <div class="card-img-wrap${imgSrc ? ' loading' : ''}">
+                ${imgSrc ? `<img class="card-img" data-src="${imgSrc}" alt="">` : ''}
             </div>
             <div class="card-body">
                 ${repoName ? `<span class="card-title">${repoName}</span>` : ''}
@@ -648,6 +669,32 @@ function renderWorks() {
             </div>
         `;
         grid.appendChild(card);
+    }
+
+    observeImages(grid);
+}
+
+function onImgReady(img) {
+    const wrap = img.closest('.card-img-wrap');
+    img.classList.add('loaded');
+    if (wrap) setTimeout(() => wrap.classList.remove('loading'), 200);
+}
+
+const imgObserver = new IntersectionObserver((entries, obs) => {
+    for (const entry of entries) {
+        if (!entry.isIntersecting) continue;
+        const img = entry.target;
+        img.addEventListener('load', () => onImgReady(img), { once: true });
+        img.addEventListener('error', () => onImgReady(img), { once: true });
+        img.src = img.dataset.src;
+        delete img.dataset.src;
+        obs.unobserve(img);
+    }
+}, { rootMargin: '200px' });
+
+function observeImages(container) {
+    for (const img of container.querySelectorAll('img[data-src]')) {
+        imgObserver.observe(img);
     }
 }
 
