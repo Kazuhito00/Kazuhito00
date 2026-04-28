@@ -29,11 +29,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 28 - [技術書典20：マイナーニッチ本をオンライン頒布した収支報告👻](https://kazuhito00.hatenablog.com/entry/2026/04/28/190746)
 - Apr 11 - [技術書典20(オンライン参加) で「ONNXとは言語である」を出しました🦔](https://kazuhito00.hatenablog.com/entry/2026/04/11/110957)
 - Mar 26 - [ピュアGo実装でのONNX推論ライブラリ🧪](https://kazuhito00.hatenablog.com/entry/2026/03/26/192235)
 - Mar 09 - [メモ：合成データでのPython QRコード認識の精度比較👀](https://kazuhito00.hatenablog.com/entry/2026/03/10/003051)
 - Mar 07 - [ONNXオペレータのみで画像処理を行う試み🛠️](https://kazuhito00.hatenablog.com/entry/2026/03/08/002226)
-- Mar 02 - [自分用ライブラリ：LiteLLM Ledger](https://kazuhito00.hatenablog.com/entry/2026/03/02/103916)
 <!-- feed end -->
 
 ### How to reach me
