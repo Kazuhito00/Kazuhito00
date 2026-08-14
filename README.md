@@ -29,11 +29,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 14 - [夏休みの自由研究：六角形の2次元コード🐢](https://kazuhito00.hatenablog.com/entry/2026/08/14/221107)
 - Aug 03 - [PaddleOCRv6をONNXに変換してお試し🦔](https://kazuhito00.hatenablog.com/entry/2026/08/03/170354)
 - Jul 30 - [ピュアGo実装でのONNX推論ライブラリ v0.0.6🧪](https://kazuhito00.hatenablog.com/entry/2026/07/30/224826)
 - Jun 02 - [LocateAnything-3B 味見👀](https://kazuhito00.hatenablog.com/entry/2026/06/02/100012)
 - May 11 - [つくろがや！４ に展示してきました👾](https://kazuhito00.hatenablog.com/entry/2026/05/11/143813)
-- Apr 28 - [技術書典20：マイナーニッチ本をオンライン頒布した収支報告👻](https://kazuhito00.hatenablog.com/entry/2026/04/28/190746)
 <!-- feed end -->
 
 ### How to reach me
