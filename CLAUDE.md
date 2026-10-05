@@ -13,7 +13,8 @@ works.db       ← SQLite DB: ポートフォリオデータの唯一の真実�
 index.html     ← SQLite WASM (sql.js) でブラウザ上から works.db を直接クエリするビューア
 add_work.py    ← エントリの追加・編集用 CLI
 README.md      ← GitHub プロフィールページ (自己紹介、ブログフィード、リンク)
-_old/          ← アーカイブ: migrate.py, generate.py, WORKS.md (移行前の成果物)
+image/         ← README.md 用のアイコン画像 (works.db のサムネイルとは別)
+_old/          ← アーカイブ: migrate.py, generate.py, check_missing.py, WORKS.md, MISS.md (移行前の成果物)
 ```
 
 ### works.db スキーマ
@@ -61,6 +62,16 @@ python add_work.py --list-categories
 # 一括操作は直接 SQL
 sqlite3 works.db "UPDATE works SET description = '...' WHERE repo_name = '...';"
 ```
+
+## ローカル確認
+
+`index.html` は `fetch('works.db')` で DB を読むため、`file://` で開くと動作しない。HTTP サーバー経由で確認する:
+
+```bash
+python -m http.server 8000   # http://localhost:8000/index.html
+```
+
+ビルド・lint・テストは存在しない (`add_work.py` は標準ライブラリのみ。`venv/` と `.claude/` は gitignore 済み)。`works.db` はバイナリなので、DB 変更後は `index.html` で表示確認してからコミットすること。
 
 ## 自動ワークフロー
 
