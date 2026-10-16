@@ -29,11 +29,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 16 - [画像入力可能な意思決定モデルを自作ベンチで味見👀](https://kazuhito00.hatenablog.com/entry/2026/10/16/134152)
 - Oct 08 - [Jevライク：kev-onnx-cpu](https://kazuhito00.hatenablog.com/entry/2026/10/08/162957)
 - Oct 08 - [Jevライク：GLiNER2.5-Decide-ONNX-CPU](https://kazuhito00.hatenablog.com/entry/2026/10/08/143213)
 - Oct 06 - [個人的勉強メモ：プログラミング言語の系統ツリー🌳](https://kazuhito00.hatenablog.com/entry/2026/10/06/171547)
 - Oct 05 - [CCTag を ピュアPythonに移植して味見👀](https://kazuhito00.hatenablog.com/entry/2026/10/05/190145)
-- Aug 25 - [Claude Code関連メモ書き👀](https://kazuhito00.hatenablog.com/entry/2026/08/25/162217)
 <!-- feed end -->
 
 ### How to reach me
