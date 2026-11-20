@@ -29,11 +29,11 @@ You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](htt
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 20 - [Santek EZ Sign USBタイプ・4.2インチ・4色表示（SE0420B1）をPythonから操作する非公式ライブラリ👀](https://kazuhito00.hatenablog.com/entry/2026/11/20/095728)
 - Oct 16 - [画像入力可能な意思決定モデルを自作ベンチで味見👀](https://kazuhito00.hatenablog.com/entry/2026/10/16/134152)
 - Oct 08 - [Jevライク：kev-onnx-cpu](https://kazuhito00.hatenablog.com/entry/2026/10/08/162957)
 - Oct 08 - [Jevライク：GLiNER2.5-Decide-ONNX-CPU](https://kazuhito00.hatenablog.com/entry/2026/10/08/143213)
 - Oct 06 - [個人的勉強メモ：プログラミング言語の系統ツリー🌳](https://kazuhito00.hatenablog.com/entry/2026/10/06/171547)
-- Oct 05 - [CCTag を ピュアPythonに移植して味見👀](https://kazuhito00.hatenablog.com/entry/2026/10/05/190145)
 <!-- feed end -->
 
 ### How to reach me
